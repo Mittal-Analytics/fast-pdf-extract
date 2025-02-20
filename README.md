@@ -4,6 +4,7 @@ A Rust backed PDF text extraction library for Python.
 
 ## Features
 
+- Detect and remove headers and footers
 - Clean bilingual PDFs
 - Mark headings in bold (basic markdown)
 - High accuracy
