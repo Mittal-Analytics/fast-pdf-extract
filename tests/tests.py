@@ -26,3 +26,7 @@ class TestCases(TestCase):
     def test_bad_file(self):
         with self.assertRaises(IOError):
             fast_pdf_extract.get_pages("tests/test_files/foo.txt")
+
+    def test_null_char(self):
+        pages = fast_pdf_extract.get_pages("tests/test_files/debug-ar.pdf")
+        compare_snapshot("\n\n".join(pages), "tests/test_files/debug-ar.txt")

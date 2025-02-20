@@ -1,6 +1,5 @@
 use std::collections::HashMap;
 
-use medians::medu64;
 use mupdf::page::{self, StextPage};
 use pyo3::{
     exceptions::{PyIOError, PyValueError},
@@ -14,14 +13,19 @@ fn to_pyerr<E: ToString>(err: E) -> PyErr {
 type Pages = Vec<Vec<String>>;
 
 fn get_styled_paragraphs(stext_page: StextPage) -> Vec<String> {
-    let mut base_size = stext_page
+    let mut sizes = stext_page
         .blocks
         .iter()
         .filter(|block| block.r#type == "text")
-        .map(|block| block.lines.iter().map(|line| line.font.size as u64))
+        .map(|block| block.lines.iter().map(|line| line.font.size))
         .flatten()
-        .collect::<Vec<u64>>();
-    let base_size: u32 = medu64(&mut base_size).unwrap_or((100 as u64, 100 as u64)).1 as u32;
+        .collect::<Vec<u32>>();
+    sizes.sort();
+    let base_size = if sizes.len() > 0 {
+        sizes[sizes.len() / 2]
+    } else {
+        100
+    };
 
     stext_page
         .blocks
