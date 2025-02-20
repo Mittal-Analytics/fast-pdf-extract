@@ -1,6 +1,5 @@
 use std::collections::HashMap;
 
-use mupdf::page::{self, StextPage};
 use pyo3::{
     exceptions::{PyIOError, PyValueError},
     prelude::*,
@@ -11,6 +10,46 @@ fn to_pyerr<E: ToString>(err: E) -> PyErr {
 }
 
 type Pages = Vec<Vec<String>>;
+
+#[derive(Debug, Clone, serde::Deserialize, serde::Serialize)]
+pub struct Font {
+    pub name: String,
+    pub family: String,
+    pub weight: String,
+    pub style: String,
+    pub size: u32,
+}
+
+#[derive(Debug, Clone, serde::Deserialize, serde::Serialize)]
+pub struct BBox {
+    pub x: i32,
+    pub y: i32,
+    pub w: u32,
+    pub h: u32,
+}
+
+#[derive(Debug, Clone, serde::Deserialize, serde::Serialize)]
+pub struct Line {
+    pub wmode: u32,
+    pub bbox: BBox,
+    pub font: Font,
+    pub x: i32,
+    pub y: i32,
+    pub text: String,
+}
+
+#[derive(Debug, Clone, serde::Deserialize, serde::Serialize)]
+pub struct Block {
+    pub r#type: String,
+    pub bbox: BBox,
+    pub lines: Vec<Line>,
+}
+
+// StructuredText
+#[derive(Debug, Clone, serde::Deserialize, serde::Serialize)]
+pub struct StextPage {
+    pub blocks: Vec<Block>,
+}
 
 fn get_styled_paragraphs(stext_page: StextPage) -> Vec<String> {
     let mut sizes = stext_page
@@ -41,7 +80,7 @@ fn get_styled_paragraphs(stext_page: StextPage) -> Vec<String> {
             }
             let joined = lines.join("\n");
             if joined.trim() != "" && all_large {
-                format!("**{}**", lines.join(" ").trim())
+                format!("**{}**", joined)
             } else {
                 joined
             }
@@ -187,7 +226,7 @@ fn get_pages(filename: String) -> PyResult<Vec<String>> {
                 .map_err(to_pyerr)?
                 .stext_page_as_json_from_page(1.0)
                 .map_err(to_pyerr)?;
-            let stext_page: page::StextPage =
+            let stext_page: StextPage =
                 serde_json::from_str(stext_json.as_str()).map_err(to_pyerr)?;
             Ok(get_styled_paragraphs(stext_page))
         })

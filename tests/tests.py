@@ -30,3 +30,7 @@ class TestCases(TestCase):
     def test_null_char(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/debug-ar.pdf")
         compare_snapshot("\n\n".join(pages), "tests/test_files/debug-ar.txt")
+
+    def test_i32_box(self):
+        pages = fast_pdf_extract.get_pages("tests/test_files/i32-box.pdf")
+        compare_snapshot("\n\n".join(pages), "tests/test_files/i32-box.txt")

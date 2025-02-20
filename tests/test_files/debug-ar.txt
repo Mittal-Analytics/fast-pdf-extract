@@ -399,9 +399,11 @@ furnish particulars of any changes desired by them.
 
 5
 
-**Explanatory Statement Pursuant to Section 102 (1) of the CompaniesAct, 2013 ("theAct")**
+** 
+Explanatory Statement Pursuant to Section 102 (1) of the CompaniesAct, 2013 ("theAct")**
 
-**ITEM NO.4 : Remuneration for Cost Auditor**
+** 
+ITEM NO.4 : Remuneration for Cost Auditor **
 
  
 The Board, on the recommendation of the Audit Committee, has approved the appointment and remuneration 
@@ -514,7 +516,7 @@ Sd/-
 
 6
 
-**Voting Through Electronic Means**
+**Voting Through Electronic Means **
 
  
 Pursuant to the provisions of Section 108 of the Companies Act,2013 and Rule 20 of the Companies 
@@ -562,7 +564,7 @@ The remote e-voting module shall be disabled by CDSL for voting after 5.00 P.M o
 
 2023  and remote e-voting shall not be allowed beyond the said time.
 
-**d. The instructions to shareholders for e-voting and joining virtual meetings are as under**
+**d. The instructions to shareholders for e-voting and joining virtual meetings are as under **
 
  
 Login method for e-Voting and joining virtual meetings for Individual shareholders holding securities in 
@@ -571,7 +573,7 @@ Login method for e-Voting and joining virtual meetings for Individual shareholde
 
 7
 
-**Type of**
+**Type of **
 
 **shareholders**
 
@@ -619,9 +621,10 @@ in Demat mode
 
 with CDSL
 
-**Type of**
+**Type of **
 
-**shareholders Login Method**
+**shareholders
+Login Method**
 
 Individual 
 
@@ -737,9 +740,11 @@ providers’ website directly.
 
 Forget Password option available at above mentioned website.
 
-**Helpdesk for Individual Shareholders holding securities in demat mode for any technical issues related to login through Depository i.e. CDSL and NSDL**
+**Helpdesk for Individual Shareholders holding securities in demat mode for any technical issues related to
+login through Depository i.e. CDSL and NSDL**
 
-**Login type Helpdesk details**
+**Login type
+Helpdesk details**
 
 Individual Shareholders holding securities 
 in Demat mode with CDSL
@@ -760,9 +765,12 @@ or call at +91 22 4886 7000 and +91 22 2499 7000
 
 toll free no.: 1800 1020 990 and 1800 22 44 30 
 
-**e.  i. LOGIN METHOD FOR E-VOTING AND JOINING VIRTUAL MEETINGS FOR PHYSICAL    SHAREHOLDERS AND SHAREHOLDERS   OTHER THAN INDIVIDUAL HOLDING IN DEMAT**
+**e.  i. LOGIN METHOD FOR E-VOTING AND JOINING VIRTUAL MEETINGS FOR PHYSICAL
+  
+SHAREHOLDERS AND SHAREHOLDERS   OTHER THAN INDIVIDUAL HOLDING IN DEMAT**
 
-**FORM.**
+**  
+FORM.**
 
  1) The shareholders should log on to the e-voting website www.evotingindia.com.
 
@@ -925,7 +933,8 @@ in the CDSL e-voting system for the scrutinizer to verify the same
 
 11
 
-**•  Process for those shareholders whose email/mobile no. are not registered with the company/depositories.**
+**• 
+Process for those shareholders whose email/mobile no. are not registered with the company/depositories.**
 
  
 a. For Physical shareholders- please provide necessary details like Folio No., Name of shareholder, scanned
@@ -960,9 +969,11 @@ Depository Participant (DP) which is mandatory while e-Voting & joining virtual 
  
 Depository.
 
-**f.  INSTRUCTIONS FOR SHAREHOLDERS ATTENDING THE AGM THROUGH VC/OAVM &**
+**f. 
+INSTRUCTIONS FOR SHAREHOLDERS ATTENDING THE AGM THROUGH VC/OAVM & **
 
-**E- VOTING DURING MEETING ARE AS UNDER:**
+** 
+E- VOTING DURING MEETING ARE AS UNDER:**
 
 1. The procedure for attending meeting &e-Voting on the day of the AGM is same as the instructions mentioned
  
@@ -1294,7 +1305,11 @@ Closing Balance of retained earnings
  59033.17 
 50858.36
 
-**AMBIKA COTTON MILLS LIMITED Registered Office : No.9 A , Valluvar  Street, Sivanandha Colony, Coimbatore - 641 012. Ph. : +91 422 2491504, 2491505 CIN No.L17115TZ1988PLC002269 website – www.acmills.in,  Email –id – ambika@acmills.in**
+**AMBIKA COTTON MILLS LIMITED
+Registered Office : No.9 A , Valluvar  Street, Sivanandha Colony, Coimbatore - 641 012.
+Ph. : +91 422 2491504, 2491505
+CIN No.L17115TZ1988PLC002269
+website – www.acmills.in,  Email –id – ambika@acmills.in**
 
 **(Rs. in Lakhs)**
 
@@ -1318,7 +1333,8 @@ ii. Global – Organic Textile Standard ( GOTS), iii. SUPIMA, iv.Cotton USA, v. 
 Standard (OCS), vii. Global Recycled Standard (GRS), viii. FSC Chain of Custody (COC),  ix.Cotton made in Africa (CMIA), 
 x. US Cotton Trust Protocol Member,  xi.  SEDEX,  xii. BMP Cotton from Australia 
 
-**DIRECTORS’ REPORT (Contd...) AMBIKA COTTON MILLS LIMITED**
+**DIRECTORS’ REPORT (Contd...)
+AMBIKA COTTON MILLS LIMITED**
 
 The Company’s key area of strategic focus is on customer satisfaction, and attracting new customers through commitment to 
 production of high quality products which serves as a strong base in this regard.
@@ -1388,7 +1404,8 @@ year dividend payout ratio 11.14%).
 The Dividend Distribution Policy is placed on the Company's weblink http://www.acmills.in/2021/08/dividend-
 distribution-policy/ in terms of Regulation 43A of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 
 
-**DIRECTORS’ REPORT (Contd...) AMBIKA COTTON MILLS LIMITED**
+**DIRECTORS’ REPORT (Contd...)
+AMBIKA COTTON MILLS LIMITED**
 
 **DIRECTORS**
 
@@ -1478,7 +1495,8 @@ under Section 141 of the Companies Act, 2013 and further submitted the Peer Revi
 Institute of Chartered Accountants of India (ICAI).
 3
 
-**DIRECTORS’ REPORT (Contd...) AMBIKA COTTON MILLS LIMITED**
+**DIRECTORS’ REPORT (Contd...)
+AMBIKA COTTON MILLS LIMITED**
 
 **AUDITORS’ REPORT**
 
@@ -1504,7 +1522,7 @@ cost audit records are maintained by the Company. As required under Companies Ac
 
 members in this regard is included in the Notice convening the Annual General Meeting. 
 
-**INTERNAL FINANCIAL CONTROLS**
+**INTERNAL FINANCIAL CONTROLS **
 
 The Company has in place internal financial controls systems, commensurate with the size and nature of its operations to ensure 
 
@@ -1540,7 +1558,7 @@ Schedule VII of the Companies Act, 2013, which has been approved by the Board, t
 
 the Company's website www.acmills.in  under web- link &http://www.acmills.in/2016/08/csr-policy/
 
-**NOMINATION AND REMUNERATION COMMITTEE**
+**NOMINATION AND REMUNERATION COMMITTEE **
 
 Nomination and Remuneration Committee consists of Directors, Dr.K.Venkatachalam, Mrs. Bhavya Chandran and Sri. 
 
@@ -1556,7 +1574,8 @@ policy are made available in the Corporate Governance Report and on the Company'
 
 http://www.acmills.in/2016/07/nomination-and-remuneration-policy/
 
-**DIRECTORS’ REPORT (Contd...) AMBIKA COTTON MILLS LIMITED**
+**DIRECTORS’ REPORT (Contd...)
+AMBIKA COTTON MILLS LIMITED**
 
 **RISK MANAGEMENT  COMMITTEE**
 
@@ -1606,7 +1625,7 @@ loan to any person or body corporate, as defined under Section 186 of the Compan
 The Company does not have any related party transactions as defined in Section 188 of the Companies Act, 2013 hence Form 
 AOC-2 is not enclosed.
 
-**MATERIAL CHANGES AND COMMITMENTS**
+**MATERIAL CHANGES AND COMMITMENTS **
 
 There were no Material changes and Commitments affecting the financial position of the Company that have occurred between 
 the end of the financial year March 31, 2023 to which the financial statements relate and the date of this report.
@@ -1622,7 +1641,7 @@ The Company has complied with the provisions relating to the constitution of Int
 Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013. Information regarding the same is also 
 provided in the Corporate Governance Report forming part of Directors' Report.
 
-**BOARD EVALUATION**
+**BOARD EVALUATION **
 
 The Board has carried out an annual Performance evaluation of its own performance and that of its Committees and individual 
 Directors. Further the independent Directors have carried out review of performance of non- independent directors and the 
@@ -1634,9 +1653,11 @@ information between the Company management and the Board for effective and reaso
 Pursuant to Section 92 (3) copy of Annual Return made available in the Company's website www.acmills.in
 under web-link https://www.acmills.in/?s=mgt-7
 
-**DIRECTORS’ REPORT (Contd...) AMBIKA COTTON MILLS LIMITED**
+**DIRECTORS’ REPORT (Contd...)
+AMBIKA COTTON MILLS LIMITED**
 
-**CONSERVATION OF ENERGY, TECHNOLOGY ABSORPTION, FOREIGN EXCHANGE  EARNINGS AND OUTGO**
+**CONSERVATION OF ENERGY, TECHNOLOGY ABSORPTION, FOREIGN EXCHANGE 
+EARNINGS AND OUTGO **
 
 Particulars relating to Conservation of Energy, Technology absorption, Foreign Exchange Earning and outgo, as required to be 
 disclosed under the Act, are set out in Annexure – I to this report.
@@ -1655,7 +1676,7 @@ expenditure are furnished in Annexure –II to this report.
 Disclosures pertaining to remuneration and other details as required under Section 197(12) of the Act read with Rule 5(1) of the 
 Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014 is enclosed in  Annexure III to this report.
 
-**ADDITIONAL DISCLOSURES PURSUANT TO SEBI REGULATIONS**
+**ADDITIONAL DISCLOSURES PURSUANT TO SEBI REGULATIONS **
 
 Business Responsibility and Sustainability Report is furnished in Annexure IV and the additional disclosures pursuant to 
 Regulation 34 (3)  and 53  (f)  of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 in respect (i) 
@@ -1812,7 +1833,7 @@ Foreign Exchange used (outflow)
 
 Information as required under Rule 8(1) of the Companies (Corporate Social Responsibility Policy) Rules, 2014.
 
-**ANNUAL REPORT ON CSR ACTIVITIES**
+**ANNUAL REPORT ON CSR ACTIVITIES  **
 
 1. 
 A brief outline of the Company's CSR policy of the Company 
@@ -1825,7 +1846,7 @@ Companies Act, 2013 .
 
 2.  The composition of the CSR committee Consists of the following Directors : 
 
-**ANNEXURE - II**
+**ANNEXURE - II **
 
 Sl.No
 
@@ -2915,31 +2936,39 @@ Kozhikode, Kerala
 
 **ANNEXURE TO DIRECTORS’ REPORT (Contd...)**
 
-**ANNEXURE - III**
+**ANNEXURE - III  **
 
-**Statement as per Rule 5(1) of the Companies(Appointment and Remuneration of Managerial Personnel) Rules, 2014**
+** 
+Statement as per Rule 5(1) of the Companies(Appointment and Remuneration of Managerial Personnel) Rules, 2014 **
 
-**(i)  The percentage increase in remuneration of each Director , Company Secretary and Chief Financial Officer ( CFO) ,    ratio of the remuneration of each director to the median remuneration of the employees of the Company for the**
+**(i)  The percentage increase in remuneration of each Director , Company Secretary and Chief Financial Officer ( CFO) ,
+ 
+ ratio of the remuneration of each director to the median remuneration of the employees of the Company for the **
 
-**financial year 2022-23.**
+** 
+financial year 2022-23.**
 
 **(ii)  The percentage Increase in the median remuneration of the employees in the financial year : 21.53%**
 
 **(iii)  The number of permanent employees on the rolls of Company (Worked for 12 Months): 1884**
 
-**(iv)  The explanation on the relationship between average increase in remuneration and Company performance: The Profit**
+**(iv)  The explanation on the relationship between average increase in remuneration and Company performance: The Profit **
 
-**after Tax for FY 2022-23 amounted to Rs.11189.40 Lakhs as compared to Rs. 17988.78 Lakhs for FY 2021-22, decrease of - 37.80% whereas increase in employees’ remuneration is 14.46%**
+**after Tax for FY 2022-23 amounted to Rs.11189.40 Lakhs as compared to Rs. 17988.78 Lakhs for FY 2021-22, decrease of -
+37.80% whereas increase in employees’ remuneration is 14.46%**
 
-**(v)  Comparison of remuneration of the Key Managerial Personnel against the performance of the Company :The Profit after**
+**(v)  Comparison of remuneration of the Key Managerial Personnel against the performance of the Company :The Profit after **
 
-**Tax for FY 2022-23 decreased -37.80% as compared to FY 2021-22, whereas increase in Key Managerial Personnel   remuneration is 1.25%.**
+**Tax for FY 2022-23 decreased -37.80% as compared to FY 2021-22, whereas increase in Key Managerial Personnel  
+remuneration is 1.25%.**
 
-**(vi)  Variations in the market capitalization of the Company, price earnings ratio as at the closing date of the current financial**
+** (vi)  Variations in the market capitalization of the Company, price earnings ratio as at the closing date of the current financial **
 
 **year and previous financial year :**
 
-**Particulars  31.03.2023  31.03.2022**
+**Particulars 
+31.03.2023 
+31.03.2022**
 
 Market capitalization of the Company (Rs in Crore ) 
 789.65 
@@ -2961,7 +2990,7 @@ Price Earnings Ratio at the closing date
 7.06 
 7.50
 
-**Note: Percentage Increase over decrease in market quotations of the shares of the Company with the last public offer : The last**
+**Note: Percentage Increase over decrease in market quotations of the shares of the Company with the last public offer : The last **
 
 **offer for sale of shares was made in the year 1996 and hence not comparable .**
 
@@ -3197,44 +3226,84 @@ ambika@acmills.in
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
-**ANNEXURE - IV SECTION A: GENERAL DISCLOSURES**
+**ANNEXURE - IV
+SECTION A: GENERAL DISCLOSURES**
 
 **Sl.No**
 
-**1.  Cotton yarn  Manufacture   64.46**
+** 
+1. 
+Cotton yarn 
+Manufacture  
+64.46**
 
-**2.  Knitted fabrics  Manufacture  22.70**
+** 
+2. 
+Knitted fabrics 
+Manufacture 
+22.70**
 
-**3.  Waste Cotton  Residual available for sale  12.84**
+** 
+3. 
+Waste Cotton 
+Residual available for sale 
+12.84**
 
-**Description of Main Activity Description of Business Activity % of Turnover of the entity**
+**Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity**
 
   
 15. Products/Services sold by the entity (accounting for 90% of the entity's Turnover):
 
-**Product/Service NIC Code %  of  Total Turnover contributed**
+**Product/Service
+NIC Code
+%  of  Total Turnover contributed**
 
 **III. Operations**
 
-**16.  Number of locations where plants and/or operations/offices of the entity are situated:**
+**  
+16.  Number of locations where plants and/or operations/offices of the entity are situated:**
 
 **Location**
 
-**National  5  2  7**
+**National 
+5 
+2 
+7**
 
-**International  0  0  0**
+**International 
+0 
+0 
+0**
 
-**Number of plants Number of offices Total**
+**Number of plants
+Number of offices
+Total**
 
 **Sl.No**
 
-**1.  Cotton Yarn      13111  64.46**
+** 
+1. 
+Cotton Yarn   
+ 
+13111 
+64.46**
 
-**2.  Knitted Fabrics     13911  22.70**
+** 
+2. 
+Knitted Fabrics  
+ 
+13911 
+22.70**
 
-**3.  Waste Cotton    Residual available for sale   12.84**
+** 
+3. 
+Waste Cotton  
+ Residual available for sale  
+12.84 **
 
   
 17. Markets served by the entity:
@@ -3255,7 +3324,8 @@ National (No. of States)
  
 5  
 
-**Locations Number**
+**Locations
+Number**
 
   
 b. 
@@ -3269,7 +3339,8 @@ c.
  
 Fabrics sourced from the Company. 
 
-**IV.  Employees**
+**IV. 
+Employees**
 
   
 18. Details as at the end of Financial Year: 31.03.2023 ( worked for 12 months)
@@ -3278,11 +3349,18 @@ Fabrics sourced from the Company.
 a. 
 Employees and workers (including differently abled):
 
-**Sl.No  Particulars Total (A)**
+**Sl.No
+ Particulars
+Total
+(A)**
 
-**Male Female**
+**Male
+Female**
 
-**No. (B) No. ( C ) % (B/A) % (C/A)**
+**No. (B)
+No. ( C )
+% (B/A)
+% (C/A)**
 
 1.  
 Permanent(D) 
@@ -3338,11 +3416,18 @@ Total workers (F+G)
 1291 
 77.77%
 
-**Sl.No  Particulars Total (A)**
+**Sl.No
+ Particulars
+Total
+(A)**
 
-**Male Female**
+**Male
+Female**
 
-**No. (B) No. ( C ) % (B/A) % (C/A)**
+**No. (B)
+No. ( C )
+% (B/A)
+% (C/A)**
 
 1.  
 Permanent(D) 
@@ -3430,14 +3515,15 @@ NA
 
 **No. and percentage of Females**
 
-**No. (B) % (B / A)**
+**No. (B)
+% (B / A)**
 
 **16**
 
    
 * Key Management Personnel other than Board of Directors
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
   
 20.   Turnover rate for permanent employees and workers
@@ -3448,9 +3534,22 @@ NA
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**FY 2022-23 FY 2021-22 FY 2020-21**
+**FY 2022-23
+FY 2021-22
+FY 2020-21**
 
-**MALE MALE MALE FEMALE FEMALE FEMALE FEMALE FEMALE FEMALE TOTAL TOTAL TOTAL**
+**MALE
+MALE
+MALE
+FEMALE
+FEMALE
+FEMALE
+FEMALE
+FEMALE
+FEMALE
+TOTAL
+TOTAL
+TOTAL**
 
 Permanent Employees ( In %) 
 0.80 
@@ -3474,38 +3573,43 @@ Permanent Workers
 5.20 
 7.33
 
-**V. Holding, Subsidiary and Associate Companies (including joint ventures)**
+**  
+V. Holding, Subsidiary and Associate Companies (including joint ventures)**
 
   
 21. (a) Names of holding / subsidiary / associate companies / joint ventures
 
-**Sl.No Name of the holding / subsidiary / associate**
+**Sl.No
+Name of the holding /
+subsidiary / associate **
 
-**companies /**
+**companies / **
 
 **joint ventures (A)**
 
 **Indicate whether holding/**
 
-**Subsidiary/ Associate/**
+** Subsidiary/ Associate/**
 
-**Joint Venture**
+** Joint Venture **
 
-**% of shares**
+**% of shares **
 
-**held  by**
+**held  by **
 
 **listed entity**
 
-**Does the entity indicated at  column A, participate in the**
+**Does the entity indicated at
+ column A, participate in the **
 
-**Business Responsibility initiatives**
+**Business Responsibility initiatives **
 
 **of the listed entity? (Yes/No)**
 
 **- NIL -**
 
-**VI. CSR Details**
+** 
+VI. CSR Details**
 
  
 22. (i)  
@@ -3520,42 +3624,59 @@ Turnover ( Rs. In Lakhs) - 81696.86/-
  
 (iii) Net worth (Rs. In Lakhs) – 81661.54/-
 
-**VII. Transparency and Disclosures Compliances**
+** 
+VII. Transparency and Disclosures Compliances**
 
  
 23. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
 
-**Stakeholder group**
+**Stakeholder group **
 
 **from whom complaint**
 
-**is received**
+** is received**
 
-**Grievance Redressal  Mechanism  in  Place  (Yes/No) (If Yes, then  provide web-link for**
+**Grievance Redressal 
+Mechanism  in  Place 
+(Yes/No) (If Yes, then
+ provide web-link for **
 
-**grievance redress**
+**grievance redress **
 
 **policy)**
 
-**FY  2022-23  FY  2021-22**
+**FY  2022-23 
+FY  2021-22 **
 
-**Number of  complaints  filed during**
+**Number of 
+complaints 
+filed during **
 
 **the year**
 
-**Number of  complaints**
+**Number of 
+complaints **
 
-**pending  resolution  at close of  the year**
+**pending 
+resolution 
+at close of 
+the year**
 
 **Remarks**
 
-**Number of  complaints  filed during**
+**Number of 
+complaints 
+filed during **
 
 **the year**
 
-**Number of  complaints**
+**Number of 
+complaints **
 
-**pending  resolution  at close of  the year**
+**pending 
+resolution 
+at close of 
+the year**
 
 **Remarks**
 
@@ -3590,7 +3711,7 @@ blower/
 
 **17**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
   
 24. Overview of the entity’s material responsible business conduct issues Please indicate material responsible business conduct and  
@@ -3607,29 +3728,30 @@ for identifying the same, approach to adapt or mitigate the risk along-with its 
 
 **Sl.No Material  issue**
 
-**identified**
+** identified**
 
 **Indicate whether**
 
-**risk or opportunity**
+** risk or opportunity **
 
 **(R/O)**
 
-**Rationale for**
+**Rationale for **
 
-**identifying the  risk**
+**identifying the  risk  **
 
 **/ opportunity**
 
-**In case  of risk, approach  to**
+**In case  of risk, approach  to **
 
 **adapt or mitigate**
 
-**Financial implications**
+**Financial implications **
 
-**of the risk or  opportunity**
+**of the risk or 
+opportunity **
 
-**(Indicate positive  or**
+**(Indicate positive  or **
 
 **negative implications)**
 
@@ -3734,13 +3856,14 @@ without any renegotiation
 
 **18**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 **SECTION B: MANAGEMENT AND PROCESS DISCLOSURES**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**Disclosure  Questions**
+**Disclosure 
+Questions**
 
 **P**
 
@@ -3933,9 +4056,11 @@ TANGEDCO and other sources. The company has installed windmills 27.4 MW for capt
 Co  reduction. Further the company has proposed to install solar power to the extent of 8.334 MW . On commissioning of Solar power 
 2
 
-**project further generation of renewable energy would contribute to Co  reduction. 2**
+**project further generation of renewable energy would contribute to Co  reduction.
+2**
 
-**Besides the entire plants soils are organically managed with out use of fertilizers and pesticides. There are grown multiple trees  within the Plant premises over the years turning out to be  the Birds' Paradise.**
+**Besides the entire plants soils are organically managed with out use of fertilizers and pesticides. There are grown multiple trees 
+within the Plant premises over the years turning out to be  the Birds' Paradise.**
 
 8.  Details of the highest authority responsible for implementation 
 Board Committees in co-ordination with Board of Directors 
@@ -3954,7 +4079,7 @@ related issues? (Yes / No). If yes, provide details.
 
 **19**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 **SECTION B: MANAGEMENT AND PROCESS DISCLOSURES**
 
@@ -4097,7 +4222,7 @@ higher level in their quest to be socially, environmentally and ethically respon
 
 **20**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
  1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
 
@@ -4230,13 +4355,14 @@ Punishment
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**Principle 1 : Businesses should conduct and govern themselves with integrity, and in a manner that is  Ethical, Transparent and Accountable.**
+**Principle 1 : Businesses should conduct and govern themselves with integrity, and in a manner that is 
+Ethical, Transparent and Accountable.  **
 
 **Essential Indicators**
 
 **21**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 Particulars
 
@@ -4262,7 +4388,8 @@ policy.
  
 Response: The Company has not laid down any such policy separately and would not engage itself in unwarranted practices which
 
-**would bring disrepute to the company.**
+** 
+would bring disrepute to the company. **
 
 5. 
 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the
@@ -4319,11 +4446,12 @@ Response : Does not arise
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**Principle 1 : Businesses should conduct and govern themselves with integrity, and in a manner that is  Ethical, Transparent and Accountable. (Contd...)**
+**Principle 1 : Businesses should conduct and govern themselves with integrity, and in a manner that is 
+Ethical, Transparent and Accountable. (Contd...)**
 
 **22**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 Particulars
 
@@ -4336,9 +4464,13 @@ impacts of product and processes to total R&D and capex investments made by the 
  
 Response: The company manufactures Cotton Yarn and Knitted Fabrics, which are generic products, the main input is raw cotton,
 
-**an agricultural produce, and as such there are no environmental and social impacts of manufacture.**
+** 
+an agricultural produce, and as such there are no environmental and social impacts of manufacture. **
 
-**2022-23  2021-22    Details of improvements in  environmental and social impacts**
+**2022-23 
+2021-22   
+Details of improvements in 
+environmental and social impacts**
 
 R&D  
 - 
@@ -4357,7 +4489,8 @@ Does the entity have procedures in place for sustainable sourcing? (Yes/No) –
  
 Response: YES - The main input raw material for manufacture of cotton yarn is Raw cotton and  is widely available, in a sustainable
 
-**manner, sourced from domestic and imported**
+** 
+manner, sourced from domestic and imported**
 
  
  
@@ -4375,7 +4508,8 @@ Describe the processes in place to safely reclaim your products for reusing, rec
  
 Response: Cotton Yarn manufacturing involves generation of meager generation of waste after post spinning which requires
 
-**recycling. Other wastes are minimal, not related to manufacture and are disposed off as per acceptable industry practices.**
+** 
+recycling. Other wastes are minimal, not related to manufacture and are disposed off as per acceptable industry practices.**
 
 4. 
 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste collection 
@@ -4394,11 +4528,11 @@ Response: Not Applicable
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**Principle 2 : Businesses should provide goods and services in a manner that is sustainable and safe**
+**Principle 2 : Businesses should provide goods and services in a manner that is sustainable and safe   **
 
 **23**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 **Particulars**
 
@@ -4715,15 +4849,17 @@ NA
 
 **Essential Indicators**
 
-**AMBIKA COTTON MILLS LIMITED AMBIKA COTTON MILLS LIMITED**
+**AMBIKA COTTON MILLS LIMITED
+AMBIKA COTTON MILLS LIMITED**
 
-**Principle 3 :  Businesses should respect and promote the well-being of all employees, including those  in their value chains**
+**Principle 3 :  Businesses should respect and promote the well-being of all employees, including those 
+in their value chains **
 
 **24**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
-**3.  Accessibility of workplaces**
+**3.  Accessibility of workplaces **
 
  
 Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights of
@@ -4805,7 +4941,8 @@ Membership of employees and worker in association(s) or Unions recognized by the
  
 Response : The Company has a workers welfare association and all the workers are members automatically by virtue of their 
 
-**employment.**
+** 
+employment.**
 
 8. 
 Details of training given to employees and workers: -  
@@ -4813,9 +4950,11 @@ Details of training given to employees and workers: -
  
 Response : The manufacturing of spinning involves various departments such as Blow Room, Carding, Combing , Spinning  and
 
-**the workers in general are trained in all the departments to have an understanding of the operations of the Cotton Yarn**
+** 
+the workers in general are trained in all the departments to have an understanding of the operations of the Cotton Yarn**
 
-**manufacturing. Besides knitting is a post manufacturing activity of spinning wherein the employees are also trained regularly.**
+** 
+manufacturing. Besides knitting is a post manufacturing activity of spinning wherein the employees are also trained regularly.**
 
 9. 
 Details of performance and career development reviews of employees and worker:
@@ -4823,7 +4962,8 @@ Details of performance and career development reviews of employees and worker:
  
 Response: The performance and career development reviews of employees and workers are regularly carried out at the plant level 
 
-**and  leadership position is offered to those who perform and deserves**
+** 
+and  leadership position is offered to those who perform and deserves**
 
 10. Health and safety management system:  
 
@@ -4847,7 +4987,9 @@ What are the processes used to identify work-related hazards and assess risks on
  
 Response: Identification of work related Hazards and its risk assessment is in place in respect of the entire manufacturing 
 
-**process and continuously reviewed.**
+** 
+ 
+process and continuously reviewed.**
 
  
 c. 
@@ -4867,13 +5009,15 @@ Response: Yes Such  services are provided
 
  
 
-**AMBIKA COTTON MILLS LIMITED AMBIKA COTTON MILLS LIMITED**
+**AMBIKA COTTON MILLS LIMITED
+AMBIKA COTTON MILLS LIMITED**
 
-**Principle 3 :  Businesses should respect and promote the well-being of all employees, including those  in their value chains  (Contd...)**
+**Principle 3 :  Businesses should respect and promote the well-being of all employees, including those 
+in their value chains  (Contd...)**
 
 **25**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 Gender
 
@@ -4886,7 +5030,8 @@ concerns arising from assessments of health & safety practices and working condi
  
 Response : Constant efforts are made to provide safe and secured environment work place to all the employees and workers at the
 
-**plant level.**
+** 
+plant level. **
 
 Particulars
 
@@ -4918,7 +5063,10 @@ resolution at the
 Remark
 Remark
 
-**Category Safety Incident/Number  FY2021-22  FY2022-23**
+**Category
+Safety Incident/Number
+ FY2021-22
+ FY2022-23**
 
 Lost Time Injury Frequency Rate (LTIFR)
 (per one million-person 
@@ -4947,7 +5095,8 @@ High consequence work-related injury or ill health
  
 Response: The company provides in-depth training and constant review and up gradation of such training to all its employees to
 
-**protect themselves and prevention of injuries at the work place.**
+** 
+protect themselves and prevention of injuries at the work place.**
 
 13. Number of Complaints on the following made by employees and workers: - Nil 
 
@@ -4968,7 +5117,8 @@ Working Conditions
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**Principle 3 :  Businesses should respect and promote the well-being of all employees, including those  in their value chains  (Contd...)**
+**Principle 3 :  Businesses should respect and promote the well-being of all employees, including those 
+in their value chains  (Contd...)**
 
 **26**
 
@@ -4988,14 +5138,15 @@ Nil
 
 Nil
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
-**1. Describe the processes for identifying key  stakeholder groups of the entity–**
+** 1. Describe the processes for identifying key  stakeholder groups of the entity–**
 
  
 Response : The key  stake holder groups are broadly categorized into Government, Employees, Shareholders,
 
-**Customers and Suppliers.**
+** 
+Customers and Suppliers.**
 
 2. 
 List stake holder groups identified as key  for your entity and the frequency of engagement with each stake holder group.
@@ -5117,11 +5268,12 @@ To resolve grievances
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**Principle 4 :  Businesses should respect and promote the well-being of all employees, including those in their value chains**
+**Principle 4 :  Businesses should respect and promote the well-being of all employees, including those in
+their value chains  **
 
 **27**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 1. 
 Employees and workers who have been provided training on human rights issues and policy (ies) of the entity, in the following
@@ -5204,11 +5356,13 @@ Total Workers
 2. 
 Details of minimum wages paid to employees and workers, in the following format:
 
-**Category**
+**Category **
 
-**FY2022-23  FY2021-22**
+**FY2022-23
+ FY2021-22**
 
-**Total (A)  Equal to**
+**Total (A) 
+Equal to**
 
 **Minimum Wage**
 
@@ -5224,15 +5378,23 @@ Details of minimum wages paid to employees and workers, in the following format:
 
 **MinimumWage**
 
-**Total( D )**
+**Total( D ) **
 
-**No.  ( B )**
+**No. 
+( B )**
 
-**No.  ( E )**
+**No. 
+( E )**
 
-**No.  ( F )**
+**No. 
+( F )**
 
-**No.  ( C ) % (B/A)  % (E/D)  % (F/D)  % (C/A)**
+**No. 
+( C )
+% (B/A) 
+% (E/D) 
+% (F/D) 
+% (C/A) **
 
 **Employees**
 
@@ -5296,7 +5458,7 @@ Nil
 Female 
  
 
-**Workers**
+**Workers **
 
 Permanent 
  
@@ -5359,13 +5521,13 @@ Female
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**Principle 5 :  Businesses should respect and promote human rights**
+**Principle 5 :  Businesses should respect and promote human rights **
 
 **Essential Indicators**
 
 **28**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 3. 
 Details of remuneration/salary/wages,in the following format
@@ -5427,7 +5589,8 @@ Describe the internal mechanisms in place to redress grievances related to human
  
 Response :  The grievances related to human rights issues are addressed through the “Whistle Blower Mechanism” / Maintenance
 
-**of Complaints book at Plant level. Constant education is made through internal meetings**
+** 
+of Complaints book at Plant level. Constant education is made through internal meetings **
 
 6. 
 Number of Complaints on the following made by employees and workers:
@@ -5521,7 +5684,7 @@ Response : There are no cases that are covered under Question 9 (above) and Ques
 
 **29**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 Particulars
 
@@ -5531,7 +5694,9 @@ Particulars
 
 **Essential Indicators**
 
-**Parameter  FY  2022-23  FY  2021-22**
+**Parameter 
+FY  2022-23 
+FY  2021-22**
 
 Total electricity consumption (A)* 
 280924171200 Kj 
@@ -5588,7 +5753,9 @@ Response :- The Company does not fall under PAT scheme for the current  financia
 3. 
 Provide details of the following disclosures related to water, in the following format:
 
-**Parameter  FY 2022-23  FY  2021-22**
+**Parameter 
+FY 2022-23 
+FY  2021-22**
 
 Water withdrawal by source (in kilo litres)
 
@@ -5633,7 +5800,8 @@ Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provid
  
 Response: There is no requirement of water for manufacture of cotton yarn. Sewage water recycled in STP (Sewage Treatment 
 
-**Plant) installed within Plant premises used for gardening.**
+** 
+Plant) installed within Plant premises used for gardening.**
 
 **AMBIKA COTTON MILLS LIMITED**
 
@@ -5641,7 +5809,7 @@ Response: There is no requirement of water for manufacture of cotton yarn. Sewag
 
 **30**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 NOx 
   
@@ -5685,7 +5853,10 @@ Others – please specify
 Nil 
 Nil
 
-**Parameter  Please specify unit  FY  2022-23  FY  2021-22**
+**Parameter 
+Please specify unit 
+FY  2022-23 
+FY  2021-22**
 
  
 Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
@@ -5698,7 +5869,8 @@ name of the external agency. No
  
 Response : Cotton yarn manufacturing does not involve emissions and hence calculation of scope 1 & scope 2 emissions does not
 
-**arise.**
+** 
+arise. **
 
 Total Scope 1 emissions (Break-up of the GHG into CO2,  
 -- 
@@ -5733,7 +5905,9 @@ Total Scope 1 and Scope 2 emission intensity (optional)
 Nil 
 Nil
 
-**Parameter  FY  2022-23  FY  2021-22**
+**Parameter 
+FY  2022-23 
+FY  2021-22**
 
 7. 
 Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
@@ -5741,14 +5915,18 @@ Does the entity have any project related to reducing Green House Gas emission? I
  
 Response : The Company has installed windmills 27.4 MW for captive consumption and further has undertaken Solar Power 
 
-**Plant for a capacity of 8.334 MW over Roof Top at its Manufacturing Plants located at Dindigul in the State of Tamil Nadu for**
+** 
+Plant for a capacity of 8.334 MW over Roof Top at its Manufacturing Plants located at Dindigul in the State of Tamil Nadu for **
 
-**reduction of Co2 and to that extent contributes reduction of Global Warming and climate change.**
+** 
+reduction of Co2 and to that extent contributes reduction of Global Warming and climate change.**
 
 8. 
 Provide details related to waste management by the entity, in the following format: 
 
-**Parameter  FY  2022-23  FY  2021-22**
+**Parameter 
+FY  2022-23 
+FY  2021-22**
 
 Total Waste generated (in metric tonnes)
 
@@ -5800,14 +5978,14 @@ Total (A+B + C + D + E + F + G+ H)
 
 **Principle 6 :  Businesses should respect and make efforts to protect and restore the environment (Contd...)**
 
-**Please specify unit**
+**Please specify unit **
 
 5. 
 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
 
 **31**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
 (in metric tonnes)
@@ -5884,7 +6062,8 @@ year:
  
 Response : Manufacturing of Cotton yarn would not cause environmental impacts and as such assessment of such impacts would 
 
-**not arise.**
+** 
+not arise. **
 
 12. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and Control
  
@@ -5893,21 +6072,22 @@ of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment pr
  
 details of all such non-compliances, in the following format:
 
-**S.No. Specify the law / regulation/**
+**S.No. Specify the law / regulation/ **
 
-**guidelines which was not**
+**guidelines which was not **
 
 **complied with**
 
-**Provide details of the**
+**Provide details of the **
 
 **non-  compliance**
 
-**Any fines / penalties / action**
+**Any fines / penalties / action **
 
-**taken  by regulatory**
+**taken  by regulatory **
 
-**agencies such as pollution control boards or by courts**
+**agencies such as pollution
+control boards or by courts**
 
 Yes - the Company is compliant with all applicable laws and regulations
 
@@ -5919,7 +6099,7 @@ Yes - the Company is compliant with all applicable laws and regulations
 
 **32**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 **Essential Indicators**
 
@@ -5932,9 +6112,11 @@ Response : The Company is a member of
 i.  
 Indian Chamber of Commerce and Industry,
 
-**ii.  The Cotton Textiles Export Promotion Council and**
+** 
+ii.  The Cotton Textiles Export Promotion Council and**
 
-**iii.  Tamilnadu Spinning Mills Association,**
+** 
+iii.  Tamilnadu Spinning Mills Association,**
 
 2.  Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, based on adverse
  
@@ -5943,13 +6125,16 @@ orders from regulatory authorities.
  
 Response : The Company has not engaged in any anti-competitive conducts
 
-**Name of Authority  Brief of the case  Corrective action taken**
+**Name of Authority 
+Brief of the case
+ Corrective action taken**
 
 **-Nil-**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**Principle 7 :  Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and transparent**
+**Principle 7 :  Businesses, when engaging in influencing public and regulatory policy, should do so in a
+manner that is responsible and transparent **
 
 **Essential Indicators**
 
@@ -5970,7 +6155,8 @@ Response: Not Applicable
  
 Response : The Whistle Blower Policy formulated and made available would enable all stakeholders to raise their concerns. Besides the
 
-**mechanism established at plant premises provides for proper recording of the grievances and redressal**
+** 
+mechanism established at plant premises provides for proper recording of the grievances and redressal**
 
 4.  Percentage of input material (inputs to total inputs by value) sourced from suppliers : competitive conduct by the entity, based on adverse
  
@@ -5979,17 +6165,20 @@ orders from regulatory authorities.
  
 Response : The main input raw material for manufacture of cotton yarn is Raw Cotton. The Plants are located in the State of
 
-**Tamil Nadu. Tamil Nadu is not a cotton producing State in adequate quantity or the cotton available is not suitable for manufacture of**
+** 
+Tamil Nadu. Tamil Nadu is not a cotton producing State in adequate quantity or the cotton available is not suitable for manufacture of**
 
-**quality parameters of customers meant for exports . Raw cotton is sourced from Gujarat or Imported depending upon orders/production**
+** 
+quality parameters of customers meant for exports . Raw cotton is sourced from Gujarat or Imported depending upon orders/production**
 
-**specifications. The other material requirements are sourced locally.**
+** 
+specifications. The other material requirements are sourced locally.**
 
 **Principle 8 :  Businesses should promote inclusive growth and equitable development**
 
 **33**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 **Essential Indicators**
 
@@ -6007,7 +6196,8 @@ social parameters relevant to the product, safe and responsible usage and Recycl
  
 Response :  The Company is engaged in manufacturing cotton yarn and knitted fabric made out of Raw Cotton, an agricultural
 
-**produce and  prima facie would not involve environmental and social parameters involving safe and responsible usage and**
+** 
+produce and  prima facie would not involve environmental and social parameters involving safe and responsible usage and **
 
  
 Recycling and / or safe disposal.  
@@ -6087,7 +6277,8 @@ the policy.
  
 Response :  Though, there is no specific policy formulated in this respect, there are multiple security Standard Operating Procedures
 
-**are put in place ensuring no unauthorised access to data and providing cyber security.**
+** 
+are put in place ensuring no unauthorised access to data and providing cyber security.**
 
 6. 
 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of  essential services; cyber
@@ -6101,11 +6292,14 @@ safety of products/services.
  
 Response: Nil. None of the aforesaid matters arise or exists There are no such corrective actions taken or underway on issues 
 
-**relating to  aadvertising, and delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances**
+** 
+relating to  aadvertising, and delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances **
 
-**of product recalls; penalty / action taken by regulatory authorities on safety of products/services**
+** 
+of product recalls; penalty / action taken by regulatory authorities on safety of products/services**
 
-**Place : Coimbatore   Date  :  10.08.2023**
+**Place : Coimbatore  
+Date  :  10.08.2023**
 
 **By order of the Board**
 
@@ -6123,7 +6317,7 @@ Response: Nil. None of the aforesaid matters arise or exists There are no such c
 
 **34**
 
-**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT**
+**BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT **
 
 **FORM NO. MR-3**
 
@@ -6131,9 +6325,9 @@ Response: Nil. None of the aforesaid matters arise or exists There are no such c
 
 **For The Financial Year Ended 31st March, 2023**
 
-**[Pursuant to Section 204(1) of the Companies Act, 2013 and Rule No.9 of the Companies**
+**[Pursuant to Section 204(1) of the Companies Act, 2013 and Rule No.9 of the Companies **
 
-**(Appointment and Remuneration of Managerial Personnel) Rules, 2014 and Regulation 24A**
+**(Appointment and Remuneration of Managerial Personnel) Rules, 2014 and Regulation 24A **
 
 **of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015]**
 
@@ -6194,11 +6388,13 @@ d. The Securities and Exchange Board of India (Registrars to an Issue and Share 
  
 e. The Securities and Exchange Board of India (Depositories and Participants) Regulations, 2018.
 
-**AMBIKA COTTON MILLS LIMITED SECRETARIAL AUDIT REPORT**
+**AMBIKA COTTON MILLS LIMITED
+SECRETARIAL AUDIT REPORT**
 
 **ANNEXURE - V**
 
-**AMBIKA COTTON MILLS LIMITED SECRETARIAL AUDIT REPORT (Contd...)**
+**AMBIKA COTTON MILLS LIMITED
+SECRETARIAL AUDIT REPORT (Contd...)**
 
 (vi) The Management has identified and confirmed the following laws as specifically applicable to the Company: -
 
@@ -6282,7 +6478,8 @@ Adequate notice is given to all Directors to schedule the Board Meetings, agenda
 generally seven days in advance and a system exists for seeking and obtaining further information and clarifications on 
 the agenda items before the meeting and for meaningful participation at the meeting. 
 
-**AMBIKA COTTON MILLS LIMITED SECRETARIAL AUDIT REPORT (Contd...)**
+**AMBIKA COTTON MILLS LIMITED
+SECRETARIAL AUDIT REPORT (Contd...)**
 
 All decisions at Board meetings and Committee meetings are carried out unanimously as recorded in the Minutes of the 
 meetings of the Board of Directors or Committee of the Board, as the case may be.
@@ -6307,7 +6504,8 @@ Merger/Amalgamation/reconstruction etc.
 • 
 Foreign technical collaborations
 
-**Place: Coimbatore Date: 10.08.2023**
+**Place: Coimbatore
+Date: 10.08.2023**
 
   
  
@@ -6335,7 +6533,8 @@ UDIN
 This report is to be read with our letter of even date which is annexed as Annexure-A and forms an integral part
  of this report.
 
-**AMBIKA COTTON MILLS LIMITED SECRETARIAL AUDIT REPORT (Contd...)**
+**AMBIKA COTTON MILLS LIMITED
+SECRETARIAL AUDIT REPORT (Contd...)**
 
 The Members,
 M/s. Ambika Cotton Mills Limited,
@@ -6371,7 +6570,8 @@ responsibility of the management. My examination was limited to the verification
   
 or effectiveness with which the management has conducted the affairs of the Company
 
-**Place: Coimbatore Date:  10.08.2023**
+**Place: Coimbatore
+Date:  10.08.2023**
 
 **ANNEXURE-A**
 
@@ -6400,7 +6600,8 @@ Peer Review Certificate No.  :  774/2020
 UDIN 
 : F005966E000774162
 
-**AMBIKA COTTON MILLS LIMITED ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS**
+**AMBIKA COTTON MILLS LIMITED
+ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS**
 
 ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS (34)(3) AND 53(f) OF SEBI (LISTING OBLIGATION AND 
 DISCLOSURE REQUIREMENTS) REGULATIONS, 2015) 
@@ -6481,9 +6682,9 @@ Remuneration to Sri.P.V.Chandran was approved by the shareholders at the 34th An
 2.  
 The Sitting fees to Directors are approved by the Board of Directors at their Meeting held on 27.05.2017
 
-**B. MANAGEMENT DISCUSSION AND ANALYSIS**
+**B. MANAGEMENT DISCUSSION AND ANALYSIS **
 
-**1. Industry Structure & Developments**
+**1. Industry Structure & Developments **
 
 India’s textiles is made up of Diverse nature coupled with rich cultural heritage. India's textiles sector is one of the oldest 
 
@@ -6517,7 +6718,8 @@ fibres like cotton, jute, silk and wool to synthetic /man-made fibres like polye
 
 (Rs in Lakhs)
 
-**AMBIKA COTTON MILLS LIMITED ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS**
+**AMBIKA COTTON MILLS LIMITED
+ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS**
 
 Our country's connection with the textile sector dates back centuries. Every State in India has some unique textiles to offer. For 
 
@@ -6585,7 +6787,8 @@ options to consumers. It will also bring in greater investments along the entire
 
 manufacture of goods. With global retail brands assured of a domestic foothold, outsourcing will also rise significantly.  
 
-**AMBIKA COTTON MILLS LIMITED ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS  (Contd...)**
+**AMBIKA COTTON MILLS LIMITED
+ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS  (Contd...)**
 
 **3. Opportunities & Threats**
 
@@ -6629,7 +6832,7 @@ paving the way to produce and craft more products
 
 **4. Product wise Performance**
 
-**Product wise performance in terms of Production and Sales quantities are given below:**
+**    Product wise performance in terms of Production and Sales quantities are given below:**
 
 Cotton Yarn 
 183.30 
@@ -6660,7 +6863,7 @@ Wind units for captive consumption
 473.01 Lakh units 
  475.42 Lakh units
 
-**Particulars**
+**Particulars **
 
 **FY 2022-23**
 
@@ -6670,9 +6873,13 @@ Wind units for captive consumption
 
 **Qty ( In Lakh Kgs)**
 
-**Production Sales Production Sales**
+**Production
+Sales
+Production
+Sales**
 
-**AMBIKA COTTON MILLS LIMITED ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS  (Contd...)**
+**AMBIKA COTTON MILLS LIMITED
+ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS  (Contd...)**
 
 **5. Outlook.**
 
@@ -6685,7 +6892,7 @@ New Stenter plant is established for knitting division to heat process the fabri
 Power Project over Roof Top of its Plants located at Dindigul in the State of Tamil Nadu for a capacity of 8.334 MW for captive 
 consumption. These measures will continue to strengthen and  support the operations of the company
 
-**6. Risks and Concerns**
+**6. Risks and Concerns **
 
 (i) 
 Positive  economic environment 
@@ -6704,9 +6911,10 @@ Positive  economic environment
 
 **7. Internal control systems and their adequacy**
 
-**The Company has put in place effective control systems in respect of all its operations and such systems  are continuously reviewed and upgraded.**
+**The Company has put in place effective control systems in respect of all its operations and such systems 
+are continuously reviewed and upgraded.  **
 
-**8. Discussion on Financial Performance with Respect to Operational Performance**
+**8. Discussion on Financial Performance with Respect to Operational Performance      **
 
 **The key financial data are furnished below for the current year as compared to the previous year**
 
@@ -6760,7 +6968,10 @@ Net Profit Margin after Tax (%)
 13.70 
 20.46
 
-**S. No Particulars  CurrenYear**
+**S.
+No
+Particulars 
+CurrenYear**
 
 **2023**
 
@@ -6770,9 +6981,10 @@ Net Profit Margin after Tax (%)
 
 * Profit Margin calculations are on the basis of Net Sales
 
-**AMBIKA COTTON MILLS LIMITED ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS  (Contd...)**
+**AMBIKA COTTON MILLS LIMITED
+ADDITIONAL DISCLOSURES PURSUANT TO REGULATIONS  (Contd...)**
 
-**9.  Material developments in Human resources / Industrial relations**
+**9.  Material developments in Human resources / Industrial relations   **
 
 The Company places its utmost value on the human resource and contribution from the employees is always fine-tuned towards 
 to achieve the overall organization performance by constant education, training and various incentive schemes, which are in 
@@ -6787,13 +6999,17 @@ Certain Statements in this report on Management Discussion may be forward lookin
 required by applicable Securities Laws and Regulations. There are several factors which would be beyond the control of 
 Management and as such, may affect the actual results which could be different from that envisaged.
 
-**AMBIKA COTTON MILLS LIMITED C. CORPORATE GOVERNANCE REPORT**
+**AMBIKA COTTON MILLS LIMITED
+C. CORPORATE GOVERNANCE REPORT**
 
-**1. Brief statement on Company’s philosophy on Code on Governance:**
+**1. Brief statement on Company’s philosophy on Code on Governance: **
 
-**The Corporate Governance Policy of the Company is to ensure transparency, accountability and integrity in all its operations  and in respect of all matters concerned with shareholders, employees, the Government and the financial institutions / banks and  a consistent effort to broad base and improve upon these aspects on continuous basis.**
+**The Corporate Governance Policy of the Company is to ensure transparency, accountability and integrity in all its operations 
+and in respect of all matters concerned with shareholders, employees, the Government and the financial institutions / banks and 
+a consistent effort to broad base and improve upon these aspects on continuous basis. **
 
-**2 . Board of Directors  (A)  Composition and Category of Directors**
+**2 . Board of Directors 
+(A)  Composition and Category of Directors**
 
 Name of the Director 
 Promoter /Executive/ 
@@ -6878,11 +7094,16 @@ Nil
 
 This does not include Membership / Chairmanship of Committee of Directors of Ambika Cotton Mills Limited.
 
-**(B)  Number  of  Board  Meetings  and  Attendance  Record  of  Directors :**
+**(B) 
+Number  of  Board  Meetings  and  Attendance  Record  of  Directors :**
 
 Number of Board Meetings held during the year 2022- 2023   :   4
 
-**S.No.  Date of Board Meeting  S.No.  Date of Board Meeting**
+** 
+S.No. 
+Date of Board Meeting 
+S.No. 
+Date of Board Meeting**
 
  
 1 
@@ -7040,7 +7261,7 @@ skill sets required by the company in the context of its business and sector for
 The Board of Directors are of the opinion that  the independent directors fulfil the conditions specified in SEBI (Listing 
 Obligations and Disclosure Requirements) Regulations, 2015.
 
-**3. Audit Committee:**
+**3. Audit Committee: **
 
 The role and terms of reference of the Audit Committee cover the matters specified for Audit Committees under Regulation 18 of 
 SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 as well as in Section 177 of the Companies Act, 2013.
@@ -7078,17 +7299,20 @@ Independent / Non Executive - Member
 
 **Brief description of Terms of reference:**
 
-**a. Formulation of the criteria for determining qualifications, positive attributes and independence of a director and to  recommend to the Board a policy, relating to the remuneration of the directors, key managerial personnel and other  employees;**
+**a. Formulation of the criteria for determining qualifications, positive attributes and independence of a director and to
+ recommend to the Board a policy, relating to the remuneration of the directors, key managerial personnel and other
+ employees; **
 
-**b. Formulation of criteria for evaluation of Independent Directors and the Board;**
+**b. Formulation of criteria for evaluation of Independent Directors and the Board; **
 
 **c. Devising a policy on Board diversity;**
 
-**d. Identifying persons who are qualified to become directors and who may be appointed in senior management in accordance  with the criteria laid down, and recommend to the Board their appointment and removal.**
+**d. Identifying persons who are qualified to become directors and who may be appointed in senior management in accordance 
+with the criteria laid down, and recommend to the Board their appointment and removal.**
 
 **The Committee consist of Directors, Chaired by, Dr.K.Venkatachalam, Sri.E.M.Nagasivam and Mrs. Bhavya Chandran.**
 
-**During the year, the Nomination & Remuneration Committee held its meetings on 10.08.2022 and 09.02.2023**
+**During the year, the Nomination & Remuneration Committee held its meetings on 10.08.2022 and 09.02.2023  **
 
 **Members' attendances at the meetings were as follows**
 
@@ -7115,11 +7339,13 @@ Non-Executive Director-Promoter Group - Member
 
 **CORPORATE GOVERNANCE REPORT (Contd...)**
 
-**5. Performance Evaluation Criteria For Independent Directors:**
+**5. Performance Evaluation Criteria For Independent Directors: **
 
-**The main attribute to be focused on is positive value creation and contribution in respect of ongoing activities of the Company  and its value enhancement with adequate qualifications and independence.**
+**The main attribute to be focused on is positive value creation and contribution in respect of ongoing activities of the Company 
+and its value enhancement with adequate qualifications and independence.**
 
-**6. Remuneration of Directors (a) Non executive Directors**
+**6. Remuneration of Directors
+(a) Non executive Directors **
 
 S.No. 
 Name of the Director 
@@ -7175,7 +7401,7 @@ Mrs.Vijayalakshmi Narendra
 – 
 2,00,000
 
-**( c) Chairman and Managing Director**
+**( c) Chairman and Managing Director **
 
 Name of the Director 
 Sitting Fees (Rs.) 
@@ -7194,7 +7420,7 @@ Salary (Rs)
 
 **CORPORATE GOVERNANCE REPORT (Contd...)**
 
-**7.  Stakeholders Relationship Committee**
+**7.  Stakeholders Relationship Committee **
 
  
 i.  a. The Committee consists of Directors Dr.K.Venkatachalam, Mrs. Vidya Jyothish Pillai and Mrs .Bhavya Chandran. 
@@ -7218,9 +7444,13 @@ e. Name & Designation of Compliance Officer : Sri. Radheyshyam Padia, Compliance
  
 ii.  The Committee held its meetings 19.01.2023 and 16.02.2023 and attendance of the members were as follows:
 
-**Name of the Directors   Category  No. of  Meetings attended**
+** Name of the Directors  
+Category 
+No. of  Meetings attended**
 
-**during the year 2022-23**
+**  
+ 
+during the year 2022-23**
 
  Dr.K.Venkatachalam 
 Independent / Non Executive- - Chairperson 
@@ -7234,7 +7464,8 @@ Non-Executive Director-Promoter Group - Member
 Non-Executive Director-Promoter Group - Member 
 2
 
-**9.  General  Body  Meetings:**
+**9. 
+General  Body  Meetings:**
 
 (i) Location, Date  and time of the  General Meetings held during the last three years.
 
@@ -7270,7 +7501,7 @@ Publications of Financial Results are generally made in dailies Financial Expres
  
  available  in the company's website www.acmills.in
 
-**8.  Risk Management Committee**
+**8.  Risk Management Committee **
 
  
 The Committee consists of Directors Sri. P.V.Chandran, Dr.K.Venkatachalam and Mrs. Vidya Jyothish Pillai. 
@@ -7281,9 +7512,13 @@ The Committee held its meetings on 28.05.2022, 10.08.2022,09.11.2022 and 09.02.2
  
 were as  follows:
 
-**Name of the Directors   Category  No. of  Meetings attended**
+** Name of the Directors  
+Category 
+No. of  Meetings attended**
 
-**during the year 2022-23**
+**  
+ 
+during the year 2022-23**
 
   Sri. P.V.Chandran 
 Chairman and Managing Director - Chairperson 
@@ -7324,47 +7559,93 @@ Re appointment of Sri. E.M.Nagasivam (DIN:07894618) as an Independent Director
 
 **CORPORATE GOVERNANCE REPORT (Contd...)**
 
-**Annual General Meeting (AGM)  Friday 29th September 2023 at 12.00 Noon**
+** 
+Annual General Meeting (AGM) 
+Friday 29th September 2023 at 12.00 Noon  **
 
-**Date and Time**
+** 
+Date and Time  **
 
-**Venue  Annual General Meeting (AGM) to be conducted through Video Conferencing**
+** 
+Venue 
+Annual General Meeting (AGM) to be conducted through Video Conferencing**
 
-**(VC)/Other Audio Visual Means (OAVM), pursuantto MCA Circular dated 5th**
+** 
+ 
+(VC)/Other Audio Visual Means (OAVM), pursuantto MCA Circular dated 5th**
 
-**May, 2020 readwith circulars dated 8th April, 2020 and 13th April, 2020**
+** 
+ 
+May, 2020 readwith circulars dated 8th April, 2020 and 13th April, 2020**
 
-**(collectively referred to as “MCACirculars”), without the physical presence**
+** 
+ 
+(collectively referred to as “MCACirculars”), without the physical presence**
 
-**of Members at a common venue. The deemedvenue for the AGM shall be the**
+** 
+ 
+of Members at a common venue. The deemedvenue for the AGM shall be the**
 
-**Registered Office of the Company**
+** 
+ 
+Registered Office of the Company**
 
-**Financial year  2022-23**
+** 
+Financial year 
+2022-23**
 
-**Dividend Payment Date  Within 30 days from the date of AGM**
+** 
+Dividend Payment Date 
+Within 30 days from the date of AGM**
 
-**Results for Quarter ending   June 30, 2023  2nd Week  of August, 2023**
+** 
+Results for Quarter ending  
+June 30, 2023 
+2nd Week  of August, 2023**
 
-**September 30, 2023  2ndWeek of November, 2023**
+** 
+ 
+September 30, 2023 
+2ndWeek of November, 2023**
 
-**December 31, 2023  2nd Week of February, 2024**
+** 
+ 
+December 31, 2023 
+2nd Week of February, 2024**
 
-**March 31, 2024  Last week of May 2024 (Audited).**
+** 
+ 
+March 31, 2024 
+Last week of May 2024 (Audited).**
 
-**AGM    September 2024**
+** 
+ 
+AGM 
+ 
+September 2024**
 
-**Listing on Stock Exchanges  Listed in National Stock Exchange, Bombay Stock Exchange, Annual Listing Fee**
+** 
+Listing on Stock Exchanges 
+Listed in National Stock Exchange, Bombay Stock Exchange, Annual Listing Fee**
 
-**has been paid to the Stock Exchanges.**
+** 
+ 
+has been paid to the Stock Exchanges. **
 
-**Stock Code  531978 (BSE), AMBIKCO (NSE)**
+** 
+Stock Code 
+531978 (BSE), AMBIKCO (NSE)**
 
-**Date of Book Closure   23.09.2023 to 29.09.2023 (Both days inclusive)**
+** 
+Date of Book Closure  
+23.09.2023 to 29.09.2023 (Both days inclusive) **
 
-**Demat ISIN Number in NSDL**
+** 
+Demat ISIN Number in NSDL  **
 
-**& CDSL for Equity Shares  ISIN Number: INE540G01014.**
+** 
+& CDSL for Equity Shares 
+ISIN Number: INE540G01014.**
 
 **Stock  Market  Data :**
 
@@ -7372,13 +7653,16 @@ Re appointment of Sri. E.M.Nagasivam (DIN:07894618) as an Independent Director
 
 **The Stock Exchange**
 
-**Mumbai (BSE)**
+**Mumbai (BSE) **
 
 **National Stock Exchange**
 
 **Mumbai (NSE)**
 
-**High  High  Low Low**
+**High 
+High 
+Low
+Low**
 
  
 April-22, 
@@ -7464,35 +7748,47 @@ March-23
 1,494.90 
 1,314.20
 
-**11.  General Information to Shareholders:**
+**11.  General Information to Shareholders: **
 
 **AMBIKA COTTON MILLS LIMITED**
 
 **CORPORATE GOVERNANCE REPORT (Contd...)**
 
-**Registrar & Share  SKDC Consultants Ltd.,**
+** Registrar & Share 
+SKDC Consultants Ltd., **
 
-**Transfer Agents   “Surya”, 35, Mayflower Avenue, Behind Senthil Nagar, Sowripalayam Road,**
+**  Transfer Agents  
+“Surya”, 35, Mayflower Avenue, Behind Senthil Nagar, Sowripalayam Road,**
 
-**Coimbatore -641028**
+**  
+Coimbatore -641028**
 
-**Share Transfer System  Presently, the share transfers which are received in physical form are processed and the Share**
+** Share Transfer System 
+Presently, the share transfers which are received in physical form are processed and the Share**
 
-**Certificates returned within a period of 7 days from the date of receipt, subject to the documents**
+**  
+Certificates returned within a period of 7 days from the date of receipt, subject to the documents**
 
-**being valid and complete in all respects.  The Board of Directors of the Company have delegated**
+**  
+being valid and complete in all respects.  The Board of Directors of the Company have delegated**
 
-**powers of approving transfer of securities to the Company’s Registrars and Transfer Agents**
+**  
+powers of approving transfer of securities to the Company’s Registrars and Transfer Agents**
 
-**subject to placing of summary statement of transfer/ transmission of securities etc. of the**
+**  
+subject to placing of summary statement of transfer/ transmission of securities etc. of the**
 
-**Company at meetings of the Stakeholders Relationship Committee. The Company has obtained**
+**  
+Company at meetings of the Stakeholders Relationship Committee. The Company has obtained**
 
-**and filed with the Stock Exchange(s) the half yearly certificates from a Company Secretary in**
+**  
+and filed with the Stock Exchange(s) the half yearly certificates from a Company Secretary in**
 
-**practice for due compliance with the share transfer formalities as required under  Regulation**
+**  
+practice for due compliance with the share transfer formalities as required under  Regulation**
 
-**40(9) of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015) .**
+**  
+40(9) of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015) .**
 
 **Pattern of Share Holding as on 31.03.2023**
 
@@ -7911,7 +8207,9 @@ clauses (b) to (i) of Sub-Regulation (2) of Regulation 46 of SEBI (Listing Oblig
  
 Regulations, 2015.
 
-**D.  DECLARATION REGARDING COMPLIANCE BY BOARD OF DIRECTORS AND SENIOR MANAGEMENT    PERSONNEL AFFIRMING COMPLIANCE  WITH COMPANY’S CODE OF CONDUCT.**
+**D.  DECLARATION REGARDING COMPLIANCE BY BOARD OF DIRECTORS AND SENIOR MANAGEMENT 
+ 
+PERSONNEL AFFIRMING COMPLIANCE  WITH COMPANY’S CODE OF CONDUCT.**
 
       This is to confirm that the Company has adopted a Code of Conduct for its Board and Staff of the Company and a
 
@@ -7938,9 +8236,10 @@ Date  : 10.08.2023
 
 **CORPORATE GOVERNANCE REPORT (Contd...)**
 
-**E. AUDITOR’S CERTIFICATE ON COMPLIANCE OF CONDITIONS OF CORPORATE  GOVERNANCE**
+**E. AUDITOR’S CERTIFICATE ON COMPLIANCE OF CONDITIONS OF CORPORATE 
+GOVERNANCE  **
 
-**To the Members of Ambika Cotton Mills Limited, Coimbatore.**
+**To the Members of Ambika Cotton Mills Limited, Coimbatore. **
 
 We have examined the compliance of conditions of Corporate Governance by Ambika Cotton Mills Limited (“the Company”) 
 for the year ended March 31, 2023, as per the relevant provisions of the Securities and Exchange Board of India (Listing 
@@ -7982,7 +8281,9 @@ Sd/-
 
 **CORPORATE GOVERNANCE REPORT (Contd...)**
 
-**F. ANNUAL CONFIRMATION PURSUANT TO REGULATION 17(8) OF SEBI (LISTING     OBLIGATION AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015)**
+**F. ANNUAL CONFIRMATION PURSUANT TO REGULATION 17(8) OF SEBI (LISTING
+ 
+  OBLIGATION AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015)**
 
 To
 The Board of Directors
@@ -8060,11 +8361,15 @@ Chief Financial Officer
 Place : Coimbatore
 Date  : 10.08.2023
 
-**G. CERTIFICATE OF NON-DISQUALIFICATION OF DIRECTORS BY A  COMPANY  SECRETARY    IN PRACTICE**
+**G. CERTIFICATE OF NON-DISQUALIFICATION OF DIRECTORS BY A  COMPANY  SECRETARY 
+ 
+IN PRACTICE**
 
-**(Pursuant to Regulation 34(3) and Schedule V Para-C clause (10)(i) of the SEBI (ListingObligations and**
+** 
+(Pursuant to Regulation 34(3) and Schedule V Para-C clause (10)(i) of the SEBI (ListingObligations and**
 
-**Disclosure Requirements) Regulations, 2015)**
+** 
+Disclosure Requirements) Regulations, 2015)**
 
 **AMBIKA COTTON MILLS LIMITED**
 
@@ -8155,9 +8460,12 @@ Peer Review Certificate No.  :  774/2020
 UDIN 
 : F005966E000774184
 
-**INDEPENDENT AUDITORS' REPORT AMBIKA COTTON MILLS LIMITED**
+**INDEPENDENT AUDITORS' REPORT
+AMBIKA COTTON MILLS LIMITED**
 
-**To the Members of Ambika Cotton Mills Limited   Report on the Financial Statements**
+**To the Members of Ambika Cotton Mills Limited
+ 
+Report on the Financial Statements**
 
 **Opinion**
 
@@ -8211,9 +8519,10 @@ matters
 
 55
 
-**INDEPENDENT AUDITORS' REPORT AMBIKA COTTON MILLS LIMITED**
+**INDEPENDENT AUDITORS' REPORT
+AMBIKA COTTON MILLS LIMITED**
 
-**Information Other than the Financial Statements and Auditor’s Report There on**
+**Information Other than the Financial Statements and Auditor’s Report There on **
 
 The Company’s Board of Directors is responsible for the preparation of the other information. The other information comprises 
 
@@ -8237,7 +8546,7 @@ audit or otherwise appears to be materially misstated.
 
 required to report that fact. We have nothing to report in this regard.
 
-**Responsibilities of Management and Those Charged with Governance for the Financial Statements**
+**Responsibilities of Management and Those Charged with Governance for the Financial Statements **
 
 The Company’s Board of Directors is responsible for the matters stated in section 134(5) of the Act with respect to the preparation 
 
@@ -8265,7 +8574,8 @@ management either intends to liquidate the Company or to cease operations, or ha
 
 The Board of Directors are also responsible for overseeing the Company’s financial reporting process. 
 
-**Key Audit Matter How our audit addressed the key audit matter**
+**Key Audit Matter
+How our audit addressed the key audit matter**
 
 The Company has uncertain tax positions on 
 
@@ -8292,9 +8602,10 @@ management’s estimate of the possible outcome of the
  
 disputed cases.  
 
-**INDEPENDENT AUDITORS' REPORT AMBIKA COTTON MILLS LIMITED**
+**INDEPENDENT AUDITORS' REPORT
+AMBIKA COTTON MILLS LIMITED**
 
-**Auditor's Responsibilities for the Audit of the Financial Statements**
+**Auditor's Responsibilities for the Audit of the Financial Statements **
 
 Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material 
 
@@ -8383,7 +8694,8 @@ audit and significant audit findings, including any significant deficiencies in 
  
 audit. 
 
-**INDEPENDENT AUDITORS' REPORT AMBIKA COTTON MILLS LIMITED**
+**INDEPENDENT AUDITORS' REPORT
+AMBIKA COTTON MILLS LIMITED**
 
  
 We also provide those charged with governance with a statement that we have complied with relevant ethical
@@ -8561,14 +8873,15 @@ terms of sub-section (11) of section 143 of the Companies Act, 2013, we give in 
  
 specified in paragraphs 3 and 4 of the Order, to the extent applicable.
 
-**INDEPENDENT AUDITORS' REPORT AMBIKA COTTON MILLS LIMITED**
+**INDEPENDENT AUDITORS' REPORT
+AMBIKA COTTON MILLS LIMITED**
 
 Place : Coimbatore  
 Date  : 26.05.2023
 
 **59**
 
-**For S. Krishnamoorthy & Co**
+**For S. Krishnamoorthy & Co  **
 
 Chartered Accountants
 
@@ -8583,7 +8896,8 @@ Membership No. 020439
 
 Sd/-
 
-**Report on the Internal Financial Controls Over Financial Reporting under Clause (i) of Sub-section 3  of Section 143 of the Companies Act, 2013 (“the Act”)**
+**Report on the Internal Financial Controls Over Financial Reporting under Clause (i) of Sub-section 3
+ of Section 143 of the Companies Act, 2013 (“the Act”)**
 
 We have audited the internal financial controls over financial reporting of Ambika Cotton Mills Limited (“the Company”) as of 
 
@@ -8639,7 +8953,8 @@ We believe that the audit evidence we have obtained, is sufficient and appropria
 
 internal financial controls system over financial reporting of the Company.
 
-**ANNEXURE “A” TO THE INDEPENDENT AUDITOR'S REPORT AMBIKA COTTON MILLS LIMITED**
+**ANNEXURE “A” TO THE INDEPENDENT AUDITOR'S REPORT
+AMBIKA COTTON MILLS LIMITED**
 
 (Referred to in Paragraph 1(f) of Report on Other Legal and Regulatory Requirements)
 
@@ -8702,14 +9017,15 @@ established by the Company considering the essential components of internal cont
 
 Internal Financial Controls Over Financial Reporting issued by the Institute of Chartered Accountants of India.
 
-**ANNEXURE “A” TO THE INDEPENDENT AUDITOR'S REPORT AMBIKA COTTON MILLS LIMITED**
+**ANNEXURE “A” TO THE INDEPENDENT AUDITOR'S REPORT
+AMBIKA COTTON MILLS LIMITED**
 
 Place : Coimbatore  
 Date  : 26.05.2023
 
 **61**
 
-**For S. Krishnamoorthy & Co**
+**For S. Krishnamoorthy & Co  **
 
 Chartered Accountants
 
@@ -8825,7 +9141,8 @@ accounts and records have been made and maintained. We have not, however carried
  
 cost records with a view to determine whether they are accurate or complete
 
-**ANNEXURE “B” TO THE INDEPENDENT AUDITOR'S REPORT AMBIKA COTTON MILLS LIMITED**
+**ANNEXURE “B” TO THE INDEPENDENT AUDITOR'S REPORT
+AMBIKA COTTON MILLS LIMITED**
 
 (Referred to in Paragraph 2 of Report on Other Legal and Regulatory Requirements)
 
@@ -8847,15 +9164,17 @@ six months  from the date they became payable.
  
 (b) The details of disputed statutory dues which have not been deposited by the Company  are as given below:
 
-**ANNEXURE “B” TO THE INDEPENDENT AUDITOR'S REPORT AMBIKA COTTON MILLS LIMITED**
+**ANNEXURE “B” TO THE INDEPENDENT AUDITOR'S REPORT
+AMBIKA COTTON MILLS LIMITED**
 
 **Name of the**
 
-**Statute**
+** Statute**
 
-**Nature  of Dues**
+**Nature 
+of Dues**
 
-**Amount**
+**Amount **
 
 **(Rs. in Lakhs)**
 
@@ -8897,9 +9216,9 @@ Deputy Commissioner (ST)GST Appeal, Madurai
 
 **Forum where dispute**
 
-**is pending**
+** is pending**
 
-**Period to which**
+**Period to which **
 
 **the amount relates**
 
@@ -9039,11 +9358,12 @@ Companies Act in compliance with second proviso to sub-section (5) of Section 13
  
 (b) The Company does not have any ongoing projects as at the end of the previous financial year.
 
-**ANNEXURE “B” TO THE INDEPENDENT AUDITOR'S REPORT AMBIKA COTTON MILLS LIMITED**
+**ANNEXURE “B” TO THE INDEPENDENT AUDITOR'S REPORT
+AMBIKA COTTON MILLS LIMITED**
 
 **64**
 
-**For S. Krishnamoorthy & Co**
+**For S. Krishnamoorthy & Co  **
 
 Chartered Accountants
 
@@ -9058,7 +9378,9 @@ Membership No. 020439
 
 (UDIN: 23020439BGUGWF6806)
 
-**st BALANCE SHEET AS AT 31   MARCH 2023 AMBIKA COTTON MILLS LIMITED**
+**st
+BALANCE SHEET AS AT 31   MARCH 2023
+AMBIKA COTTON MILLS LIMITED**
 
 **(Rs. in Lakhs)**
 
@@ -9116,7 +9438,11 @@ ASSETS
 0.00 
 18.63
 
-**Total Non-current assets    (A)     22428.14  23483.78**
+**Total Non-current assets   
+(A)  
+ 
+22428.14 
+23483.78**
 
 (2)  Current assets
 (a) Inventories  
@@ -9178,9 +9504,19 @@ ASSETS
 1672.19 
 562.65 
 
-**Total Current Assets     (B)     75598.79  58870.50**
+**Total Current Assets  
+ 
+(B)  
+ 
+75598.79 
+58870.50 **
 
-**Total Assets    (A+B)     98026.93   82354.28**
+**Total Assets 
+ 
+(A+B)  
+ 
+98026.93  
+82354.28 **
 
 EQUITY AND LIABILITIES
 EQUITY
@@ -9197,7 +9533,12 @@ EQUITY
 81089.04 
 71914.23 
 
-**Total Equity    (A)     81661.54  72486.73**
+**Total Equity 
+ 
+(A)  
+ 
+81661.54 
+72486.73**
 
 LIABILITIES
 (1) Non-current liabilities
@@ -9240,7 +9581,11 @@ LIABILITIES
 0.00  
 0.00
 
-**Total non-current liabilities   (B)     2702.50  2699.61**
+**Total non-current liabilities  
+(B)  
+ 
+2702.50 
+2699.61**
 
 (2) Current liabilities
 (a) Financial Liabilities
@@ -9296,18 +9641,31 @@ Due to Others
 0.00 
 13.05
 
-**Total Current Liablities    (C )    13662.89   7167.94**
+**Total Current Liablities   
+(C ) 
+ 
+13662.89 
+ 7167.94 **
 
-**Total Equity and Liabilities   (A+B+C)     98026.93  82354.28**
+**Total Equity and Liabilities  
+(A+B+C)  
+ 
+98026.93 
+82354.28 **
 
 See accompanying notes to the financial statements  
  
  0.00  
 0.00
 
-**As at 31st  31.03.2023 Particulars   Note  No**
+**As at 31st
+ 31.03.2023
+Particulars  
+Note 
+No **
 
-**As at 31st  31.03.2022**
+**As at 31st
+ 31.03.2022**
 
 **65**
 
@@ -9348,9 +9706,10 @@ Sd/-
 M.Vijayakumar 
 (Chief Financial Officer)
 
-**STATEMENT OF PROFIT & LOSS  FOR THE YEAR ENDED**
+**STATEMENT OF PROFIT & LOSS  FOR THE YEAR ENDED **
 
-**st 31  MARCH 2023**
+**st
+31  MARCH 2023**
 
 **AMBIKA COTTON MILLS LIMITED**
 
@@ -9370,7 +9729,11 @@ Other income
 1384.83 
 496.18
 
-**Total income       86134.97   92547.98**
+**Total income  
+ 
+ 
+86134.97 
+ 92547.98**
 
 EXPENSES
  
@@ -9420,9 +9783,16 @@ Other expenses
 10424.62 
  9748.43
 
-**Total expenses       70887.04   68149.01**
+**Total expenses  
+ 
+ 
+70887.04  
+68149.01 **
 
-**Profit before exceptional items and tax     15247.93  24398.97**
+**Profit before exceptional items and tax  
+ 
+15247.93 
+24398.97 **
 
 Exceptional items  
  
@@ -9430,7 +9800,10 @@ Exceptional items
 0.00 
 0.00
 
-**Profit before tax after exceptional items     15247.93  24398.97**
+**Profit before tax after exceptional items  
+ 
+15247.93 
+24398.97 **
 
  
 Tax expense
@@ -9449,7 +9822,11 @@ Deferred tax
 -149.79 
 -50.75 
 
-**Total tax expense       4058.53  6410.19**
+**Total tax expense  
+ 
+ 
+4058.53 
+6410.19 **
 
  
 Profit after tax from continuing operations for the year  
@@ -9476,9 +9853,15 @@ Items that will be reclassifed to Profit & Loss
      0 
  0
 
-**Total Other Comprehensive income     -10.84  -19.08**
+**Total Other Comprehensive income 
+ 
+ -10.84 
+-19.08 **
 
-**Total Comprehensive income for the year     11178.56  17969.70**
+**Total Comprehensive income for the year  
+ 
+11178.56 
+17969.70**
 
 Basic Earnings per share (In Rs) [ Face Value Rs 10/- per share]  
  
@@ -9496,13 +9879,15 @@ Diluted Earnings per Share (In Rs) [ Face Value Rs 10/- per share]
 
 See accompanying notes to the financial statements 
 
-**Particulars   Note  No**
+**Particulars  
+Note 
+No **
 
 **Year Ended**
 
-**31.03.2023**
+** 31.03.2023**
 
-**Year Ended**
+**Year Ended  **
 
 **31.03.2022**
 
@@ -9546,13 +9931,22 @@ Sd/-
 M.Vijayakumar 
 (Chief Financial Officer)
 
-**ST STATEMENT OF CHANGES IN EQUITY AS AT 31  MARCH 2023 AMBIKA COTTON MILLS LIMITED**
+**ST
+STATEMENT OF CHANGES IN EQUITY AS AT 31  MARCH 2023
+AMBIKA COTTON MILLS LIMITED**
 
 **A. EQUITY SHARE CAPITAL:**
 
-**B. OTHER EQUITY: (Rs. in Lakhs)**
+**B. OTHER EQUITY:
+(Rs. in Lakhs)**
 
-**As at 31.03.2022    15.00   361.06   20679.81   50858.36  71914.23**
+**As at 31.03.2022 
+ 
+15.00  
+361.06  
+20679.81  
+50858.36 
+71914.23**
 
 Total Comprehensive Income for the year  
  
@@ -9575,13 +9969,21 @@ Transfer to General Reserve
 -1000.00  
 0.00
 
-**As at 31.03.2023     15.00   361.06   21679.81   59033.17  81089.04**
+**As at 31.03.2023  
+ 
+15.00  
+361.06  
+21679.81 
+ 59033.17 
+81089.04**
 
 **Particulars**
 
 **Other Equity**
 
-**Total Other Equity**
+**Total
+Other
+Equity**
 
 **Reserves and Surplus**
 
@@ -9593,19 +9995,22 @@ Transfer to General Reserve
 
 **Share**
 
-**Premium Reserve**
+**Premium
+Reserve**
 
-**General Reserve**
+**General
+Reserve**
 
-**Retained Earnings**
+**Retained
+Earnings**
 
 **(Rs. in Lakhs)**
 
 **Balance as at 01/04/2022**
 
-**Changes in Equity**
+**Changes in Equity **
 
-**Share Capital**
+**Share Capital **
 
 **due to prior period errors**
 
@@ -9613,13 +10018,14 @@ Transfer to General Reserve
 
 **at 01/04/2022**
 
-**Changes in**
+**Changes in **
 
-**equity share capital**
+**equity share capital **
 
 **during the year**
 
-**Balance as at 31/03/2023**
+**Balance as at
+31/03/2023**
 
 572.50
  0.00 
@@ -9629,9 +10035,9 @@ Transfer to General Reserve
 
 **Balance as at 01/04/2021**
 
-**Changes in Equity**
+**Changes in Equity **
 
-**Share Capital**
+**Share Capital **
 
 **due to prior period errors**
 
@@ -9639,13 +10045,14 @@ Transfer to General Reserve
 
 **at 01/04/2021**
 
-**Changes in**
+**Changes in **
 
-**equity share capital**
+**equity share capital **
 
 **during the year**
 
-**Balance as at 31/03/2022**
+**Balance as at
+31/03/2022**
 
 572.50
  0.00 
@@ -9653,7 +10060,13 @@ Transfer to General Reserve
 0.00 
 572.50
 
-**As at 31.03.2021    15.00   361.06  19679.81   35892.41  55948.28**
+**As at 31.03.2021 
+ 
+15.00  
+361.06 
+19679.81 
+ 35892.41 
+55948.28**
 
 Total Comprehensive Income for the year 
  
@@ -9676,13 +10089,21 @@ Transfer to General Reserve
 -1000.00 
  0.00
 
-**As at 31.03.2022    15.00   361.06   20679.81  50858.36  71914.23**
+**As at 31.03.2022 
+ 
+15.00  
+361.06  
+20679.81 
+50858.36 
+71914.23**
 
 **Particulars**
 
 **Other Equity**
 
-**Total Other Equity**
+**Total
+Other
+Equity**
 
 **Reserves and Surplus**
 
@@ -9694,11 +10115,14 @@ Transfer to General Reserve
 
 **Share**
 
-**Premium Reserve**
+**Premium
+Reserve**
 
-**General Reserve**
+**General
+Reserve**
 
-**Retained Earnings**
+**Retained
+Earnings**
 
 **67**
 
@@ -9744,7 +10168,10 @@ M.Vijayakumar
 
 **(Rs. in Lakhs)**
 
-**A. CASH FLOW FROM OPERATING ACTIVITIES**
+**A. CASH FLOW FROM OPERATING ACTIVITIES 
+ 
+ 
+ **
 
 Profit before tax after exceptional items 
  
@@ -9840,7 +10267,14 @@ Bank Balance other than cash and cash equivalents
 -10789.00 
 0.00
 
-**-10370.87  33055.85**
+**  
+ 
+ 
+ 
+ 
+ 
+-10370.87 
+33055.85**
 
 Adjustments for increase /(decrease) in operating liablities
 
@@ -9888,9 +10322,10 @@ Net Cash used in /generated from operating activities
 -7982.38 
 30175.77 
 
-**st CASH FLOW STATEMENT FOR THE YEAR ENDED 31  MARCH 2023**
+**st
+CASH FLOW STATEMENT FOR THE YEAR ENDED 31  MARCH 2023**
 
-**Particulars**
+**Particulars  **
 
 **B. CASH FLOW FROM INVESTING ACTIVITIES**
 
@@ -9949,7 +10384,8 @@ Net cash used in Investing activities
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  CASH FLOW STATEMENT FOR THE YEAR ENDED 31 MARCH 2023 (Contd...)**
+**st 
+CASH FLOW STATEMENT FOR THE YEAR ENDED 31 MARCH 2023 (Contd...)**
 
 **(Rs. in Lakhs)**
 
@@ -10003,7 +10439,7 @@ Cash and Cash Equivalents at end of the period
 16937.78 
 27955.99
 
-**Particulars**
+**Particulars  **
 
 **C. CASH FLOW FROM FINANCING ACTIVITIES**
 
@@ -10103,7 +10539,7 @@ on a prospective basis. The lives are based on historical experience with simila
 
 their life, such as changes in technology.
 
-**Depreciation is recognised using the straight-line method.**
+**Depreciation is recognised using the straight-line method.  **
 
 An item of property, plant and equipment is de recognised upon disposal or when no future economic benefits are expected to arise from the 
 
@@ -10117,7 +10553,8 @@ For transition to IND AS, the company has elected to continue with the carrying 
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 Estimated useful lives of the tangible assets are as follows:
 
@@ -10166,7 +10603,7 @@ Office Equipments
  
 3 Years
 
-**2.4 . Intangible Assets**
+**2.4 . Intangible Assets **
 
 Intangible assets  are carried at cost less accumulated amortisation. Amortisation is recognised on a straight line basis over their estimated useful 
 
@@ -10184,7 +10621,7 @@ over its recoverable value is recognised as an impairment loss. The impairment l
 
 there is a change in estimate of recoverable amount.
 
-**2.6 Financial Instruments**
+**2.6 Financial Instruments **
 
 Financial assets and financial liabilities constitute Financial Instruments and are recognised only when the company becomes party to the 
 
@@ -10210,7 +10647,7 @@ The financial assets are  derecognised when the contractual rights to the cash f
 
 The financial liabilities are derecognises when the obligations are discharged.
 
-**2.7 Equity Instruments**
+**2.7 Equity Instruments **
 
 An equity instrument is any contract that evidences a residual interest in the assets of an entity after deducting all of its liabilities. Equity 
 
@@ -10230,7 +10667,8 @@ business, less the estimated costs of completion and the estimated costs necessa
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 Estimated useful lives of the intangible assets are as follows:
 
@@ -10312,7 +10750,8 @@ the tax rates and tax laws that have been enacted or substantively enacted by th
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31  MARCH 2023**
+**st
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31  MARCH 2023**
 
 **Deferred tax**
 
@@ -10390,7 +10829,8 @@ that may have a financial impact on the company and that are believed to be reas
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31  MARCH 2023**
+**st
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31  MARCH 2023**
 
 **AMBIKA COTTON MILLS LIMITED**
 
@@ -10477,31 +10917,40 @@ Total
 21502.05  
 22704.97
 
-**Particulars**
+**Particulars  **
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **4. PROPERTY, PLANT AND EQUIPMENT AND CAPITAL WORK -IN-PROGRESS**
 
-**Office  equip- ments**
+**Office
+ equip-
+ments**
 
 **Total**
 
-**Capital  Work in  progress**
+**Capital 
+Work in 
+progress**
 
-**Particulars Free hold**
+**Particulars
+Free hold**
 
-**Land**
+** Land**
 
-**Buildings Plant**
+**Buildings
+Plant **
 
 **& Equip-**
 
 **ment**
 
-**Electrical  Fittings**
+**Electrical 
+Fittings**
 
-**Furniture  & fixtures**
+**Furniture 
+& fixtures**
 
 **Vehicles**
 
@@ -10509,13 +10958,13 @@ Total
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
-**Cost or deemed cost**
+** Cost or deemed cost**
 
  Balance at 1st April 2022                        
     372.58 
@@ -10572,31 +11021,130 @@ Total
 66409.80 
 0.53
 
-**Accumulated depreciation and**
+** Accumulated depreciation and**
 
-**impairment**
+**  impairment 
+ 
+ 
+ 
+ 
+ 
+ 
+ **
 
-**Balance at 1st April 2022       0.00  3730.64 37729.98  2.66  14.96  459.77  172.57  42110.58  0.00**
+** Balance at 1st April 2022  
+    0.00 
+3730.64 37729.98 
+2.66 
+14.96 
+459.77 
+172.57 
+42110.58 
+0.00**
 
-**Eliminated on disposals of assets            0.00   0.00  184.31  0.00  0.00  0.00  0.00  184.31  0.00**
+** Eliminated on disposals of assets            0.00  
+0.00 
+184.31 
+0.00 
+0.00 
+0.00 
+0.00 
+184.31 
+0.00**
 
-**Depreciation Expense                             0.00  362.64  2556.27  0.00  0.36  44.65  18.09  2982.01  0.00**
+** Depreciation Expense                             0.00 
+362.64 
+2556.27 
+0.00 
+0.36 
+44.65 
+18.09 
+2982.01 
+0.00**
 
-**Balance at 31st March 2023                      0.00  4093.28 40101.94  2.66  15.32  504.42  190.66  44908.28  0.00**
+** Balance at 31st March 2023                      0.00 
+4093.28 40101.94 
+2.66 
+15.32 
+504.42 
+190.66 
+44908.28 
+0.00**
 
-**Carrying Amount**
+** Carrying Amount 
+ 
+ 
+ 
+ 
+ 
+ 
+ **
 
-**Balance at 1st April 2022  372.58  6033.37 16108.61  0.00  0.07  174.26  13.06  22701.95  3.02**
+** Balance at 1st April 2022 
+372.58 
+6033.37 16108.61 
+0.00 
+0.07 
+174.26 
+13.06 
+22701.95 
+3.02**
 
-**Additions     0.80  740.21  1039.93  0.00  0.67  49.07  12.80  1843.48  0.53**
+** Additions  
+ 
+0.80 
+740.21 
+1039.93 
+0.00 
+0.67 
+49.07 
+12.80 
+1843.48 
+0.53**
 
-**Capitalised                    3.02**
+** Capitalised 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.02**
 
-**Eliminated on disposals of assets   0.00  0.00  61.90  0.00  0.00  0.00  0.00  61.90  0.00**
+** Eliminated on disposals of assets 
+ 0.00 
+0.00 
+61.90 
+0.00 
+0.00 
+0.00 
+0.00 
+61.90 
+0.00**
 
-**Depreciation expense  0.00  362.64  2556.27  0.00  0.36  44.65  18.09  2982.01  0.00**
+** Depreciation expense 
+0.00 
+362.64 
+2556.27 
+0.00 
+0.36 
+44.65 
+18.09 
+2982.01 
+0.00**
 
-**Balance at 31st March 2023  373.38  6410.94 14530.37  0.00  0.38  178.68  7.77  21501.52  0.53**
+** Balance at 31st March 2023 
+373.38 
+6410.94 14530.37 
+0.00 
+0.38 
+178.68 
+7.77 
+21501.52 
+0.53**
 
 **AMBIKA COTTON MILLS LIMITED**
 
@@ -10619,7 +11167,12 @@ Total
 0 
 0
 
-**Particulars          Know-How**
+**Particulars 
+ 
+ 
+ 
+ 
+Know-How**
 
   
  
@@ -10724,19 +11277,20 @@ Balance at 31st March 2023
  
 0
 
-**Particulars**
+**Particulars  **
 
-**st NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31  MARCH 2023**
+**st
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31  MARCH 2023**
 
 **5. INTANGIBLE ASSETS**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **(Rs. in Lakhs)**
 
@@ -10784,33 +11338,46 @@ Packing Materials
 154.15  
 159.78
 
-**Total            39696.19   22922.49**
+**Total   
+ 
+ 
+ 
+ 
+39696.19  
+22922.49**
 
 The cost of inventories recognised as an expense during the year is Rs.66059.83 Lakhs
 
 (Previous year Rs. 52989.87 Lakhs)
 
-**Particulars**
+**Particulars  **
 
 **6. INVENTORIES**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
-**(Rs. in Lakhs) 7.   INVESTMENTS**
+**(Rs. in Lakhs)
+7.   INVESTMENTS**
 
-**Particulars As at 31st March 2023 As at 31st March 2022**
+**Particulars
+As at 31st March 2023
+As at 31st March 2022**
 
-**Quantity Amount Quantity Amount**
+**Quantity
+Amount
+Quantity
+Amount**
 
 **Current**
 
@@ -10844,7 +11411,13 @@ LICMF Equity Fund- Dividend-Reinvestment plan
 58182.257  
 12.34
 
-**Total       68741.944   44.34  67482.257   43.50**
+**Total  
+ 
+ 
+68741.944  
+44.34 
+67482.257  
+43.50**
 
  
  
@@ -10956,7 +11529,13 @@ Allowance for doubtful debts (Expected credit loss allowance)
 0.00  
 0.00
 
-**Total            3911.32   4586.98**
+**Total   
+ 
+ 
+ 
+ 
+3911.32  
+4586.98**
 
 Concentration of Risk 
  
@@ -10970,7 +11549,7 @@ irrevocable letter of credits . In respect of domestic sales advance payments ar
 
 based on the credit quality of customers. Expected credit loss is placed at Nil 
 
-**Particulars**
+**Particulars  **
 
 **8. TRADE  RECEIVABLES**
 
@@ -11015,23 +11594,24 @@ Total
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -11065,19 +11645,24 @@ Balance at the end of the year
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **Particulars**
 
 **Outstanding for following periods from due date of payment**
 
-**Less than  6 months**
+**Less than 
+6 months**
 
-**6 months  - 1 year  1 - 2 years 2 - 3 years More than**
+**6 months 
+- 1 year 
+1 - 2 years
+2 - 3 years
+More than **
 
 **3 years**
 
@@ -11143,9 +11728,14 @@ increase in credit risk
 
 **Outstanding for following periods from due date of payment**
 
-**Less than  6 months**
+**Less than 
+6 months**
 
-**6 months  - 1 year  1 - 2 years 2 - 3 years More than**
+**6 months 
+- 1 year 
+1 - 2 years
+2 - 3 years
+More than **
 
 **3 years**
 
@@ -11266,21 +11856,24 @@ company at any point without prior notice or penalty on the principal. There are
 
 regard to cash and cash equivalents as at the end of the reporting period and prior periods.
 
-**Particulars**
+**Particulars  **
 
 **9(a.)  CASH AND  CASH EQUIVALENTS**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **Trading Receivables ageing Schedule as at 31st March 2023**
 
-**Non-current**
+**Non-current 
+ 
+ 
+ **
 
 Cenvat and service tax credit receivable  
  
@@ -11300,7 +11893,13 @@ Security Deposit for Electricity TWAD Board & Others
 908.45 
  738.37
 
-**Total            926.09   760.18**
+**Total   
+ 
+ 
+ 
+ 
+926.09  
+760.18**
 
 Current
 Cotton Purchase debit note  
@@ -11353,27 +11952,34 @@ Other Receivables
 10.00  
 0.00
 
-**Total            2346.88  2652.28**
+**Total  
+ 
+ 
+ 
+ 
+ 2346.88 
+2652.28**
 
  
 
 **(Rs. in Lakhs)**
 
-**Particulars**
+**Particulars  **
 
 **10.  OTHER FINANCIAL ASSETS**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -11419,7 +12025,7 @@ Total
 201.09 
 146.61 
 
-**Particulars**
+**Particulars  **
 
 **11.  CURRENT TAX ASSETS  (NET)**
 
@@ -11477,37 +12083,45 @@ LIC Plan Assets
  63.74  
 0.00
 
-**Total            1672.19   562.65**
+**Total   
+ 
+ 
+ 
+ 
+1672.19 
+ 562.65**
 
-**Particulars**
+**Particulars  **
 
 **12.  OTHER CURRENT ASSETS**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
-**9(b). BANK BALANCES OTHER THAN THE ABOVE (Rs. in Lakhs)**
+**9(b). BANK BALANCES OTHER THAN THE ABOVE
+(Rs. in Lakhs)**
 
-**Particulars   As at 31st**
+**Particulars  
+As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 Bank Deposits  
  
@@ -11526,7 +12140,8 @@ Total
 
 **(Rs. in Lakhs)**
 
-**a. Authorized Share Capital**
+** 
+a. Authorized Share Capital**
 
  
  1,00,00,000 Fully paid Equity Shares of Rs.10 each  
@@ -11561,7 +12176,13 @@ Fully paid Equity Shares
 Number of  
 Share Capital
 
-**Shares**
+** 
+  
+ 
+ 
+ 
+ 
+Shares **
 
  
 Balance as on March 31, 2022  
@@ -11589,7 +12210,7 @@ and amounts paid on the shares held. Every holder of equity shares present at a 
  
 to one vote, and upon a poll each share is entitled to one vote.
 
-**Particulars**
+**Particulars  **
 
 **13.  EQUITY SHARE CAPITAL**
 
@@ -11619,19 +12240,24 @@ Total
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
-**S.No.  Promoter Name %Change during**
+**S.No. 
+Promoter Name
+%Change during**
 
-**the year No. of Shares %of total shares**
+** the year
+No. of Shares
+%of total shares**
 
  1.  
 Mrs. Chandran Bhavani  
@@ -11658,9 +12284,13 @@ Total
 
 **Shares held by promoters at the end of the year 2022**
 
-**S.No.  Promoter Name %Change during**
+**S.No. 
+Promoter Name
+%Change during**
 
-**the year No. of Shares %of total shares**
+** the year
+No. of Shares
+%of total shares**
 
 1.  Mrs. Chandran Bhavani  
 2272566 
@@ -11675,15 +12305,22 @@ Total
 599784 
 10.47
 
-**Number  of Shares Particulars**
+**Number
+ of Shares
+Particulars  **
 
 **Shareholders holding more than 5% Equity shares**
 
-**Percentage Percentage Number  of Shares**
+**Percentage
+Percentage
+Number
+ of Shares**
 
-**As at 31st  March 2023**
+**As at 31st
+ March 2023**
 
-**As at 31st  March 2022**
+**As at 31st
+ March 2022**
 
 **(Rs. in Lakhs)**
 
@@ -11715,23 +12352,30 @@ Retained Earnings
 59033.17  
 50858.36
 
-**Total            81089.04   71914.23**
+**Total   
+ 
+ 
+ 
+ 
+81089.04  
+71914.23**
 
-**Particulars**
+**Particulars  **
 
 **14.  OTHER EQUITY**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -11747,7 +12391,11 @@ Movements during the year
 0.00  
 0.00
 
-**Balance at the end of the year       15.00   15.00**
+**Balance at the end of the year  
+ 
+ 
+15.00  
+15.00**
 
 Capital Redemption Reserve is a statutory reserve created at amounts equal to the face value of the shares 
  
@@ -11757,7 +12405,7 @@ Capital Redemption Reserve is a statutory reserve created at amounts equal to th
 
  bought back as per the provisions of company law.
 
-**Particulars**
+**Particulars  **
 
 **14.1  CAPITAL REDEMPTION RESERVE**
 
@@ -11775,14 +12423,18 @@ Movements during the year
 0.00 
 0.00
 
-**Balance at the end of the year      361.06  361.06**
+**Balance at the end of the year 
+ 
+ 
+361.06 
+361.06**
 
 Security Premium reserve is a reserve created out of amounts received over and above the par  value at the time of issue of shares .  
  
  
  
 
-**Particulars**
+**Particulars  **
 
 **14.2  SECURITIES PREMIUM  RESERVE**
 
@@ -11812,7 +12464,7 @@ transfer from one component of equity to another and is not an item  of other co
 
 reclassified subsequently to profit or loss
 
-**Particulars**
+**Particulars  **
 
 **14.3   GENERAL RESERVE**
 
@@ -11860,45 +12512,46 @@ The directors  have proposed dividend of Rs.35/- per share amounting to Rs.2003.
 
  Annual General Meeting and hence not included as a liability
 
-**Particulars**
+**Particulars  **
 
 **14.4  RETAINED EARNINGS**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -11917,7 +12570,7 @@ Total
 1879.24  
 2029.03
 
-**Particulars**
+**Particulars  **
 
 **15.  DEFERRED TAX LIABILITY (NET )**
 
@@ -11936,11 +12589,17 @@ On account of fair value of Equity instruments
  -149.79  
 1879.24
 
-**Recognised in Profit or loss Particulars   Closing Balance**
+**Recognised in
+Profit or loss
+Particulars  
+Closing
+Balance**
 
-**Opening  Balance**
+**Opening 
+Balance**
 
-**(Rs. in Lakhs) 2022 - 23**
+**(Rs. in Lakhs)
+2022 - 23**
 
 On account of Property , Plant & Equipment  
 2072.80 
@@ -11957,11 +12616,17 @@ On account of fair value of Equity instruments
 -50.75  
 2029.03
 
-**Recognised in Profit or loss Particulars   Closing Balance**
+**Recognised in
+Profit or loss
+Particulars  
+Closing
+Balance**
 
-**Opening  Balance**
+**Opening 
+Balance**
 
-**(Rs. in Lakhs) 2021 - 22**
+**(Rs. in Lakhs)
+2021 - 22**
 
 **(Rs. in Lakhs)**
 
@@ -11992,7 +12657,7 @@ Loans Repayable on Demand - Working Capital
 0.00 
 0.00
 
-**Particulars**
+**Particulars  **
 
 **16.  BORROWINGS**
 
@@ -12030,23 +12695,24 @@ Nil
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -12067,7 +12733,8 @@ Total
 12269.15  
 6025.01
 
-**Particulars   As at 31st**
+**Particulars  
+As at 31st**
 
 **March 2023**
 
@@ -12077,7 +12744,8 @@ Total
 
 **17.   TRADE PAYABLES**
 
-**Particulars Total**
+**Particulars
+Total**
 
  (i)  MSME 
  
@@ -12170,9 +12838,12 @@ Other liabilties for Expenses
 1081.36 
  811.09
 
-**Total     1321.89   925.72**
+**Total  
+ 
+1321.89  
+925.72**
 
-**Particulars**
+**Particulars  **
 
 **18.  OTHER FINANCIAL LIABILITIES**
 
@@ -12188,35 +12859,39 @@ Total
 71.85 
 204.16
 
-**Particulars**
+**Particulars  **
 
 **19.  OTHER CURRENT LIABILITIES**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **Outstanding for following periods from due date of payment**
 
-**Less than**
+**Less than **
 
-**1 Year 1 - 2 years 2 - 3 years More than**
+**1 Year
+1 - 2 years
+2 - 3 years
+More than **
 
 **3 years**
 
-**Particulars Total**
+**Particulars
+Total**
 
  (i)  MSME 
  
@@ -12265,15 +12940,19 @@ Total
 
 **Outstanding for following periods from due date of payment**
 
-**Less than**
+**Less than **
 
-**1 Year 1 - 2 years 2 - 3 years More than**
+**1 Year
+1 - 2 years
+2 - 3 years
+More than **
 
 **3 years**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -12289,19 +12968,22 @@ Income tax advances
   0.00 
  6422.68 
 
-**Total     0.00  13.05**
+**Total  
+ 
+0.00 
+13.05**
 
-**Particulars**
+**Particulars  **
 
 **20.  CURRENT TAX LIABILITIES (NET)**
 
 **As at 31st**
 
-**March 2023**
+** March 2023**
 
 **As at 31st**
 
-**March 2022**
+** March 2022**
 
 **(Rs. in Lakhs)**
 
@@ -12402,7 +13084,7 @@ Sundry Parties Written Back
 3053.28  
 4115.08
 
-**Particulars**
+**Particulars  **
 
 **21.  REVENUE FROM OPERATIONS**
 
@@ -12471,7 +13153,7 @@ Increase in fair value of Investments
 0.59 
 4.98
 
-**Particulars**
+**Particulars  **
 
 **22.  OTHER INCOME**
 
@@ -12485,7 +13167,8 @@ Increase in fair value of Investments
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -12554,7 +13237,7 @@ Yarn
 66059.83   
 52989.87
 
-**Particulars**
+**Particulars  **
 
 **23.  COST OF MATERIALS CONSUMED**
 
@@ -12605,9 +13288,10 @@ Increase / Decrease in Stock (A - B) (-)/(+)
 -14393.29  
 -2229.39
 
-**Particulars**
+**Particulars  **
 
-**24.CHANGES IN INVENTORIES OF WORK IN PROGRESS  AND FINISHED GOODS**
+**24.CHANGES IN INVENTORIES OF WORK IN PROGRESS 
+AND FINISHED GOODS**
 
 Salaries & Wages  
  
@@ -12630,7 +13314,7 @@ Staff Welfare Expenses
 5174.19 
  4578.18
 
-**Particulars**
+**Particulars  **
 
 **25.  EMPLOYEES BENEFIT EXPENSES**
 
@@ -12678,7 +13362,7 @@ Other Borrowing Costs
 639.68  
 123.09
 
-**Particulars**
+**Particulars  **
 
 **26.  FINANCE COSTS**
 
@@ -12692,7 +13376,8 @@ Other Borrowing Costs
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -12711,13 +13396,13 @@ Total depreciation and amortisation expense
 2982.01  
 2938.83
 
-**Particulars**
+**Particulars  **
 
 **27.  DEPRECIATION AND AMORTISATION EXPENSE**
 
 **(Rs. in Lakhs)**
 
-**Particulars**
+**Particulars  **
 
 **28.  OTHER EXPENSES**
 
@@ -12843,7 +13528,8 @@ Total
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -12891,7 +13577,7 @@ Total tax expense for the year
  4054.88  
 6403.77
 
-**Particulars**
+**Particulars  **
 
 **29.1. INCOME TAX RECOGNISED IN PROFIT & LOSS**
 
@@ -12934,9 +13620,10 @@ Total income tax expense recognised for the year
  
  
 
-**Particulars**
+**Particulars  **
 
-**29.2. RECONCILIATION OF INCOME TAX EXPENSE TO THE           ACCOUNTING PROFIT FOR THE YEAR**
+**29.2. RECONCILIATION OF INCOME TAX EXPENSE TO THE 
+         ACCOUNTING PROFIT FOR THE YEAR  **
 
 **(Rs. in Lakhs)**
 
@@ -12964,7 +13651,7 @@ Total
 3.65  
 6.42
 
-**Particulars**
+**Particulars  **
 
 **29.3 . INCOME TAX RECOGNISED IN OTHER COMPREHENSIVE INCOME**
 
@@ -12994,11 +13681,13 @@ Total
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
-**i)   Contingent liabilities : a)  Claims against the company not acknowledged as debt**
+**i)   Contingent liabilities :
+a)  Claims against the company not acknowledged as debt**
 
 Customs Duty  
 410.01  
@@ -13035,7 +13724,7 @@ The demand is disputed. The Hon’ble Madurai Bench of Madras High Court has rem
 
 novo proceedings  and hence no provision is considered.
 
-**GST**
+**GST **
 
 FY 2017-18 
 72.32 
@@ -13056,9 +13745,9 @@ FY 2019-20
 139.44 
  0.00
 
-**The demands are in respect of non reversal of Input Tax Credit and Demand of GST on free supply of canteen service to the**
+**The demands are in respect of non reversal of Input Tax Credit and Demand of GST on free supply of canteen service to the **
 
-**employees. The matter is pending for disposal before Appellate Authority . The company is advised that the demand raised**
+**employees. The matter is pending for disposal before Appellate Authority . The company is advised that the demand raised **
 
 is not sustainable in law and hence no provision is considered.  
  
@@ -13077,17 +13766,24 @@ Advances made in respect of the above works
  0.53  
 21.65
 
-**Capital Commitments net of advances   1499.47   1366.57**
+**Capital Commitments net of advances  
+1499.47  
+1366.57**
 
-**Total Contingent Liabilities and Commitments   8146.18   15107.06**
+**Total Contingent Liabilities and Commitments  
+8146.18 
+ 15107.06 **
 
 **As at 31st**
 
-**March 2023 Particulars   As at 31st**
+** March 2023
+Particulars  
+As at 31st**
 
-**March 2022**
+** March 2022**
 
-**30.1.CONTINGENT LIABLITIES AND COMMITMENTS TO THE  EXTENT NOT PROVIDED FOR**
+**30.1.CONTINGENT LIABLITIES AND COMMITMENTS TO THE 
+EXTENT NOT PROVIDED FOR**
 
 **(Rs. in Lakhs)**
 
@@ -13105,7 +13801,7 @@ equity dividend is subject to approval by shareholders at the Annual Gereral mee
 
 financial statements. The total estimated equity dividend to be paid is Rs.2003.75/-Lakh
 
-**Particulars**
+**Particulars  **
 
 **30.2.  DETAILS OF DIVIDEND  PROPOSED  AND PAID**
 
@@ -13117,9 +13813,9 @@ financial statements. The total estimated equity dividend to be paid is Rs.2003.
 
 **31 st   March 2022**
 
-**30.3. ADDITIONAL REGULATORY INFORMATION**
+**30.3. ADDITIONAL REGULATORY INFORMATION **
 
-**30.3.a. Disclosure Not Applicable**
+**30.3.a. Disclosure Not Applicable **
 
 The disclosure requirements with regard to the following regulatory information are not applicable to the company for the reasons stated 
 
@@ -13149,7 +13845,8 @@ No Revaluation of Intangible assets
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 6.  Ageing schedule of intangible assets under development : 
 There are no Intangible assets under development
@@ -13178,7 +13875,7 @@ The company is not part of any approved scheme  of arrangements
 13. Utilisation of Borrowed funds and share premium : 
 There are no arrangements or transactions for cross transfers   
 
-**30.3.b. Disclosure Applicable**
+**30.3.b. Disclosure Applicable **
 
  
 1.  Ageing schedule of capital work in progress 
@@ -13209,17 +13906,21 @@ NA
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
-**30.3.c.  Disclosure of Ratios**
+**30.3.c.  Disclosure of Ratios **
 
-**Numerator Denominator**
+**Numerator
+Denominator**
 
-**Year Ended 31 st   March**
+**Year Ended
+31 st   March**
 
-**2023**
+** 2023**
 
-**Year Ended 31 st   March**
+**Year Ended
+31 st   March **
 
 **2022**
 
@@ -13311,9 +14012,11 @@ enterprises as at the end of the year has been made in the financial statements 
 
 **As at   31st**
 
-**March 2023 Particulars   As at   31st**
+**March 2023
+Particulars  
+As at   31st**
 
-**March 2022**
+**   March 2022**
 
 **30.4.  DISCLOSURE AS PER SCHEDULE**
 
@@ -13344,7 +14047,8 @@ Nil
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 **(Rs. in Lakhs)**
 
@@ -13354,9 +14058,14 @@ Nil
 
 **Particulars**
 
-**As at 31st March 2023 As at 31st March 2022**
+**As at 31st March 2023
+As at 31st March 2022**
 
-**FVTPL  FVTPL  FVTOCI   FVTOCI   Amortised**
+**FVTPL 
+FVTPL 
+FVTOCI  
+FVTOCI  
+Amortised**
 
 **Cost**
 
@@ -13442,7 +14151,15 @@ Nil
 -  
 -
 
-**Total       44.34  0.00   34911.07  43.50   0.00   35955.43**
+**Total  
+ 
+ 
+44.34 
+0.00  
+34911.07 
+43.50  
+0.00  
+35955.43**
 
 **Financial Liabilities**
 
@@ -13501,7 +14218,15 @@ Nil
 - 
 204.16 
 
-**Total       0.00   0.00   14486.15  0.00   0.00   7825.47**
+**Total  
+ 
+ 
+0.00  
+0.00  
+14486.15 
+0.00  
+0.00  
+7825.47**
 
 Financial assets  
  
@@ -13523,7 +14248,8 @@ Financial liabilities
  
 7825.47
 
-**(Rs. in Lakhs) ii) Fair Valuation techniques and Inputs used - recurring Items**
+**(Rs. in Lakhs)
+ii) Fair Valuation techniques and Inputs used - recurring Items  **
 
 Financial assets measured at Fair value
 
@@ -13543,9 +14269,12 @@ Total financial assets
 44.34 
 43.50
 
-**Particulars   Fair value as at 31 March 2023**
+**Particulars  
+Fair value as at
+31 March 2023**
 
-**Fair value as at 31 March 2022**
+**Fair value as at
+31 March 2022**
 
 **iii) Fair Value of financial assets and liabilities measured at amortised cost**
 
@@ -13557,13 +14286,17 @@ fair values
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
-**(Rs. in Lakhs) 30.6.  AUDITORS' REMUNERATION**
+**(Rs. in Lakhs)
+30.6.  AUDITORS' REMUNERATION**
 
-**Year Ended**
+**Year Ended   **
 
-**31st March 2023 Particulars   Year Ended**
+**31st March 2023
+Particulars  
+Year Ended   **
 
 **31st March 2022**
 
@@ -13580,9 +14313,10 @@ For Other works and Reimbursement of Expenses
 6.00 
 6.00
 
-**(Rs. in Lakhs) 30.7. CORPORATE SOCIAL RESPONSIBILITY EXPENDITURE**
+**(Rs. in Lakhs)
+30.7. CORPORATE SOCIAL RESPONSIBILITY EXPENDITURE **
 
-**Particulars**
+**Particulars  **
 
 Amount spent through approved trusts and institutions 
 0.00 
@@ -13592,7 +14326,9 @@ Amount spent directly
 236.95 
 202.23
 
-**Total  236.95  202.23**
+**Total 
+236.95 
+202.23**
 
 Amount required to be spent as per Sec. 135 of the Act 
 269.00 
@@ -13608,7 +14344,9 @@ On purposes other than above
 218.95 
 182.36
 
-**Total  236.95  202.23**
+**Total 
+236.95 
+202.23**
 
 Excess (+) /Shortfall(-) Carried Forward 
 37.99 
@@ -13626,9 +14364,10 @@ Balance Carried
 5.94 
 37.99
 
-**(Rs. in Lakhs) 30.8.  EARNINGS PER SHARE**
+**(Rs. in Lakhs)
+30.8.  EARNINGS PER SHARE**
 
-**Particulars**
+**Particulars  **
 
 Earnings used in the calculation of Basic and diluted earnings per share (Rs in Lakhs) 
 11189.40 
@@ -13649,19 +14388,19 @@ Basic & Diluted Earnings Per Share [in Rs]
 195.45 
 314.21
 
-**Year Ended**
+**Year Ended   **
 
 **31st March 2023**
 
-**Year Ended**
+**Year Ended   **
 
 **31st March 2022**
 
-**Year Ended**
+**Year Ended   **
 
 **31st March 2023**
 
-**Year Ended**
+**Year Ended   **
 
 **31st March 2022**
 
@@ -13670,9 +14409,12 @@ CSR Expenses relating to gross amount required to be spent for the year and the 
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
-**30.9.  RELATED PARTY TRANSACTIONS Related party Relationships**
+**30.9.  RELATED PARTY TRANSACTIONS
+Related party Relationships  
+ **
 
 **Key Management personnel**
 
@@ -13701,9 +14443,10 @@ Mrs.Bhavya Chandran
  
  Daughter of Sri.P.V.Chandran
 
-**(Rs. in Lakhs) Key Management personnel compensation**
+**(Rs. in Lakhs)
+Key Management personnel compensation**
 
-**Particulars**
+**Particulars  **
 
 Short term employee benefits 
 24.00 
@@ -13717,7 +14460,9 @@ Total compensation
 24.00 
 24.00
 
-**Other related parties**
+**Other related parties   
+ 
+ **
 
 Director's Sitting Fees paid to 
  
@@ -13735,9 +14480,10 @@ Mrs.Bhavya Chandran
 
 Note : Related party relationships are as identified by the Management  
 
-**(Rs. in Lakhs) 30.10  EMPLOYEE DEFINED BENEFIT AND CONTRIBUTION PLANS**
+**(Rs. in Lakhs)
+30.10  EMPLOYEE DEFINED BENEFIT AND CONTRIBUTION PLANS **
 
-**Particulars**
+**Particulars  **
 
 Present Value Of Obligations
 Obligations at the beginning of the year*  
@@ -13824,27 +14570,29 @@ Salary Escalaration
 6.50%  
 6.50%
 
-**Year Ended**
+**Year Ended   **
 
 **31st March 2023**
 
-**Year Ended**
+**Year Ended   **
 
 **31st March 2022**
 
-**Year Ended**
+**Year Ended   **
 
 **31st March 2023**
 
-**Year Ended**
+**Year Ended   **
 
 **31st March 2022**
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
-**(Rs. in Lakhs) 30.11 . GEOGRAPHICAL SEGEMENT**
+**(Rs. in Lakhs)
+30.11 . GEOGRAPHICAL SEGEMENT**
 
 Information about major customers Contributing 10 % or more to the Company's revenue  
  
@@ -13869,7 +14617,10 @@ Market Risk : The substantial  operations of the Company are into exports and im
 The Company  enters into Foreign Currency forward contracts based on underlying to mitigate such Flutucation risks. Further the Company is  
 also having natural hedge on account of exports exceeding imports.
 
-**The carrying amounts of the Company’s foreign currency denominated monetary assets and monetary liabilities at  the end of the reporting period are as follows:**
+**The carrying amounts of the Company’s foreign currency denominated monetary assets and monetary liabilities at 
+the end of the reporting period are as follows: 
+ 
+ **
 
 Liabilities
 
@@ -13956,11 +14707,15 @@ The earnings in Foreign Currency out of exports would easily cover deficit expos
 
 fluctuations.
 
-**Particulars Amount in foreign currency**
+**Particulars
+Amount in foreign currency**
 
 **USD**
 
-**31.03.2023 31.03.2022 31.03.2023 31.03.2022**
+**31.03.2023
+31.03.2022
+31.03.2023
+31.03.2022**
 
 **Equivalent**
 
@@ -13971,9 +14726,20 @@ fluctuations.
  
  
 
-**Particulars  Europe  Asia  North   Africa  India*  Total**
+** 
+Particulars 
+Europe 
+Asia 
+North  
+Africa 
+India* 
+Total**
 
-**America**
+** 
+ 
+ 
+ 
+America**
 
  Sale of Goods  
 1551.54 
@@ -13997,7 +14763,9 @@ fluctuations.
 
 **(Rs. in Lakhs)**
 
-**31-03-2023 FOREIGN CURRENCY SENSITIVITY ANALYSIS (USD)  31-03-2022**
+**31-03-2023
+FOREIGN CURRENCY SENSITIVITY ANALYSIS (USD) 
+31-03-2022**
 
  
 
@@ -14023,7 +14791,7 @@ Impact on profit : 5% decrease in currency rate
 374.28 
 -19.85
 
-**Interest Rate Risk: The Company's working capital borrowings are short term in nature and hence any fluctuation in market**
+**Interest Rate Risk: The Company's working capital borrowings are short term in nature and hence any fluctuation in market **
 
 interest rates would not impact the profitablity of the Company in terms of debt servicing and liquidating of such borrowings.
 
@@ -14033,7 +14801,7 @@ interest rates would not impact the profitablity of the Company in terms of debt
  
  
 
-**Price Risk: The price risk arises on account of holding marketable financial assets. The company's equity investmements forms**
+**Price Risk: The price risk arises on account of holding marketable financial assets. The company's equity investmements forms **
 
 insignificant  portion and hence any price fluctuation would not have any impact over the financial position of the company.
 
@@ -14043,7 +14811,7 @@ insignificant  portion and hence any price fluctuation would not have any impact
  
  
 
-**Credit Risk : Credit risk is the risk that one party to a financial instrument will cause a financial loss for the other party by failing**
+**Credit Risk : Credit risk is the risk that one party to a financial instrument will cause a financial loss for the other party by failing **
 
 to discharge an obligation. The credit risk in trade receivables is managed by selling goods to specific orders and reputed 
 
@@ -14067,7 +14835,7 @@ other financial assets  carrying credit risk.
  
  
 
-**Liquidity Risk: Liquidity risk refers to the risk that the company cannot meet its financial obligations. The Company carries**
+**Liquidity Risk: Liquidity risk refers to the risk that the company cannot meet its financial obligations. The Company carries **
 
 substantial current assets to pay off short term obligations arising from  working capital bank borrowings , trade payables and 
 
@@ -14083,7 +14851,7 @@ other related liabilities .
  
  
 
-**Capital Management: The company manages its capital to ensure that it will continue to operate as a going concern while**
+**Capital Management: The company manages its capital to ensure that it will continue to operate as a going concern while **
 
 maximising the return to stakeholders. The core focus is to safeguard and maintain the company's financial stablity and 
 
@@ -14093,7 +14861,8 @@ borrowings are meant for agumenting current assets. Substantial capital assets a
 
 **AMBIKA COTTON MILLS LIMITED**
 
-**st  NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
+**st 
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2023**
 
 30.14. 
 Previous year’s figures have been regrouped / reclassified, wherever necessary, to conform with the current period presentation.
@@ -14144,7 +14913,10 @@ M.Vijayakumar
 
 From
 
-**Regd.Office : AMBIKA COTTON MILLS LIMITED      9 A , Valluvar Street,**
+**Regd.Office : AMBIKA COTTON MILLS LIMITED
+ 
+ 
+ 9 A , Valluvar Street,**
 
  
  
