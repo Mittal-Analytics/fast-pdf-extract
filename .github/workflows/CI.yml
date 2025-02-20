@@ -35,7 +35,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt update
-          sudo apt install -y fontconfig libfontconfig1-dev pkg-config
+          sudo apt install pkg-config libfreetype6-dev libfontconfig1-dev
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
@@ -70,7 +70,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt update
-          sudo apt install -y fontconfig libfontconfig1-dev pkg-config
+          sudo apt install pkg-config libfreetype6-dev libfontconfig1-dev
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
