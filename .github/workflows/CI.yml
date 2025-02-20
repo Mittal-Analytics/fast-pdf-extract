@@ -38,6 +38,8 @@ jobs:
             target: ppc64le
     steps:
       - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: apt update && apt install -y librust-yeslogic-fontconfig-sys-dev
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
