@@ -18,5 +18,9 @@ uv sync --only-dev
 
 # run tests
 python -m unittest
+
+# publishing
+maturin build --release
+maturin publish
 ```
 
