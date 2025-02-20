@@ -38,7 +38,7 @@ jobs:
             target: ppc64le
     steps:
       - name: Install dependencies
-        run: sudo apt install -y fontconfig
+        run: sudo apt install -y fontconfig fontconfig-dev
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
@@ -71,7 +71,7 @@ jobs:
             target: armv7
     steps:
       - name: Install dependencies
-        run: sudo apt install -y fontconfig
+        run: sudo apt install -y fontconfig fontconfig-dev
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
