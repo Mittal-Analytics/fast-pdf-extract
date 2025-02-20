@@ -22,3 +22,7 @@ class TestCases(TestCase):
     def test_header_footer(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/concall.pdf")
         compare_snapshot("\n\n".join(pages), "tests/test_files/concall.txt")
+
+    def test_bad_file(self):
+        with self.assertRaises(IOError):
+            fast_pdf_extract.get_pages("tests/test_files/foo.txt")

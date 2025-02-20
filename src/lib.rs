@@ -2,7 +2,14 @@ use std::collections::HashMap;
 
 use medians::medu64;
 use mupdf::page::{self, StextPage};
-use pyo3::prelude::*;
+use pyo3::{
+    exceptions::{PyIOError, PyValueError},
+    prelude::*,
+};
+
+fn to_pyerr<E: ToString>(err: E) -> PyErr {
+    PyValueError::new_err(err.to_string())
+}
 
 type Pages = Vec<Vec<String>>;
 
@@ -11,15 +18,10 @@ fn get_styled_paragraphs(stext_page: StextPage) -> Vec<String> {
         .blocks
         .iter()
         .filter(|block| block.r#type == "text")
-        .map(|block| block.lines.iter().map(|line| line.font.size))
+        .map(|block| block.lines.iter().map(|line| line.font.size as u64))
         .flatten()
-        .map(|s| u64::from(s))
         .collect::<Vec<u64>>();
-    let base_size: u32 = medu64(&mut base_size)
-        .unwrap_or((100, 100))
-        .1
-        .try_into()
-        .unwrap();
+    let base_size: u32 = medu64(&mut base_size).unwrap_or((100 as u64, 100 as u64)).1 as u32;
 
     stext_page
         .blocks
@@ -171,17 +173,21 @@ fn remove_non_english(pages: Pages) -> Pages {
 
 #[pyfunction]
 fn get_pages(filename: String) -> PyResult<Vec<String>> {
-    let document =
-        mupdf::pdf::document::PdfDocument::open(&filename).expect("Couldn't open the file");
+    let document = mupdf::pdf::document::PdfDocument::open(&filename)
+        .map_err(|err| PyIOError::new_err(err.to_string()))?;
     let mut pages = document
         .pages()
-        .unwrap()
+        .map_err(to_pyerr)?
         .map(|page| {
-            let stext_json = page.unwrap().stext_page_as_json_from_page(1.0).unwrap();
-            let stext_page: page::StextPage = serde_json::from_str(stext_json.as_str()).unwrap();
-            get_styled_paragraphs(stext_page)
+            let stext_json = page
+                .map_err(to_pyerr)?
+                .stext_page_as_json_from_page(1.0)
+                .map_err(to_pyerr)?;
+            let stext_page: page::StextPage =
+                serde_json::from_str(stext_json.as_str()).map_err(to_pyerr)?;
+            Ok(get_styled_paragraphs(stext_page))
         })
-        .collect::<Pages>();
+        .collect::<PyResult<Pages>>()?;
 
     remove_headers_footers(&mut pages);
     let pages = remove_non_english(pages);
