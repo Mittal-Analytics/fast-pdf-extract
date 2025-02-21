@@ -34,3 +34,7 @@ class TestCases(TestCase):
     def test_i32_box(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/i32-box.pdf")
         compare_snapshot("\n\n".join(pages), "tests/test_files/i32-box.txt")
+
+    def test_bad_json(self):
+        pages = fast_pdf_extract.get_pages("tests/test_files/bad-json.pdf")
+        compare_snapshot("\n\n".join(pages), "tests/test_files/bad-json.txt")
