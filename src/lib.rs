@@ -182,16 +182,12 @@ fn get_pages(filename: String) -> PyResult<Vec<String>> {
     let mut pages = document
         .pages()
         .map_err(to_pyerr)?
-        .map(|page| {
-            let stext_json = page
-                .map_err(to_pyerr)?
-                .stext_page_as_json_from_page(1.0)
-                .map_err(to_pyerr)?;
-            let stext_page: StextPage =
-                serde_json::from_str(stext_json.as_str()).map_err(to_pyerr)?;
-            Ok(get_styled_paragraphs(stext_page))
+        .filter_map(|page| {
+            let stext_json = page.ok()?.stext_page_as_json_from_page(1.0).ok()?;
+            let stext_page: StextPage = serde_json::from_str(stext_json.as_str()).ok()?;
+            Some(get_styled_paragraphs(stext_page))
         })
-        .collect::<PyResult<Pages>>()?;
+        .collect::<Pages>();
 
     remove_headers_footers(&mut pages);
     let pages = remove_non_english(pages);
