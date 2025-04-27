@@ -41,7 +41,7 @@ fn get_styled_paragraphs(stext_page: StextPage) -> Vec<String> {
             }
             let joined = lines.join("\n");
             if joined.trim() != "" && all_large {
-                format!("**{}**", joined)
+                format!("**{}**", joined.trim())
             } else {
                 joined
             }

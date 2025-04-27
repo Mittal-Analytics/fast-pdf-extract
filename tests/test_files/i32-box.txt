@@ -186,21 +186,21 @@ With Best wishes,
 **AREEF A. PATEL
 EXECUTIVE VICE CHAIRMAN**
 
-**to our ShareholderS**
+**to our Shareholders**
 
-**FINaNCIal oVerVIeW**
+**FINANCIAL OVERVIEW**
 
-**NetWorth**
+**NETWORTH**
 
-**eBItda**
-
-*in lacs
+**EBITDA**
 
 *in lacs
 
-**Pat**
+*in lacs
 
-**GroSS MarGIN %**
+**PAT**
+
+**GROSS MARGIN %**
 
 *in lacs
 
@@ -232,7 +232,7 @@ Resolution as an Ordinary Resolution:
 
  
 “RESOLVED THAT pursuant to the provisions of Section 139, 142 and other applicable provisions if any, of the Companies 
-Act, 2013 (the Act) and the Companies (Audit and Auditors) Rules 2014 (including any statutory modification(s) or  
+Act, 2013 (the Act) and the Companies (Audit and Auditors) Rules 2014 (including any statutory modification(s) or 
 re-enactment thereof, for the time being in force) and pursuant to recommendation of Audit Committee and the Board 
 of Directors, M/s. Hitesh Shah & Associates, Chartered Accountants, (Firm Registration No. 103716W), who have 
 offered themselves for appointment and have confirmed their eligibility to be appointed as the Statutory Auditors of the 
@@ -266,7 +266,7 @@ a proxy for any other person.
 General Meeting are requested to send a duly certified copy of the Board resolution / such other documents authorizing 
 their representatives to attend and vote at the Annual General Meeting well in advance.
 
-5.  The Register of Members and Share Transfer Books of the Company will remain closed from 21st September 2017 to  
+5.  The Register of Members and Share Transfer Books of the Company will remain closed from 21st September 2017 to 
 27th September 2017 (both days inclusive).
 
 6.  Members seeking any information with regards to annual accounts are requested to write to the Company in advance so 
@@ -431,19 +431,19 @@ mobile app while voting on your mobile.
  
 xviii)Note for Non-individual Shareholders and Custodians
 
-l� Non-Individual shareholders (i.e. other than Individuals, HUF, NRI etc.) and Custodian are required to log on to 
+l Non-Individual shareholders (i.e. other than Individuals, HUF, NRI etc.) and Custodian are required to log on to 
 www.evotingindia.com and register themselves as Corporates.
 
-l��They should submit a scanned copy of the Registration Form bearing the stamp and sign of the entity to 
+l  They should submit a scanned copy of the Registration Form bearing the stamp and sign of the entity to 
 helpdesk.evoting@cdslindia.com.
 
-l� After receiving the login details they have to create a user who would be able to link the account(s) which they 
+l After receiving the login details they have to create a user who would be able to link the account(s) which they 
 wish to vote on. 
 
-l� The list of accounts should be mailed to helpdesk.evoting@cdslindia.com and on approval of the accounts they 
+l The list of accounts should be mailed to helpdesk.evoting@cdslindia.com and on approval of the accounts they 
 would be able to cast their vote. 
 
-l� They should upload a scanned copy of the Board Resolution and Power of Attorney (POA) which they have 
+l They should upload a scanned copy of the Board Resolution and Power of Attorney (POA) which they have 
 issued in favour of the Custodian, if any, in PDF format in the system for the scrutinizer to verify the same.
 
 **B. In case of members receiving the physical copy:**
@@ -798,7 +798,7 @@ required to be attached to this report have been uploaded on the website of the 
 
 **TRANSFER TO RESERVES:**
 
-Your Company has transferred ` 2.00 crore to the general reserve and ` 2.50 crore to contingency reserve. An amount of  
+Your Company has transferred ` 2.00 crore to the general reserve and ` 2.50 crore to contingency reserve. An amount of 
 ` 7.88 crore is carried forward in Profit and Loss.
 
 **DIVIDEND:**
@@ -919,7 +919,7 @@ in the Corporate Governance Report and also posted on the website of the Company
 
 Mr. Syed K. Husain, Non Executive Director of the Company, retires by rotation at the ensuing Annual General Meeting 
 pursuant to the provisions of Section 152 of the Companies Act, 2013 read with the Companies (Appointment and Qualification 
-of Directors) Rules, 2014 and the Articles of Association of your Company and, being eligible, has offered himself for  
+of Directors) Rules, 2014 and the Articles of Association of your Company and, being eligible, has offered himself for 
 re-appointment as the Director.
 
 All Independent Directors have given declarations that they meet the criteria of independence as laid down under Section 
@@ -975,17 +975,17 @@ appreciation for the contribution of M/s. MSP & Co., Chartered Accountants, duri
 the Company. 
 
 Accordingly, as per the provisions of Section 139(2) Companies Act 2013, it is mandatory to rotate the Statutory Auditors 
-at the ensuing AGM. Upon the recommendation of Audit Committee, the Board of Directors has at its Meeting held on  
+at the ensuing AGM. Upon the recommendation of Audit Committee, the Board of Directors has at its Meeting held on 
 10th August, 2017 recommended appointment of M/s. Hitesh Shah & Associates, Chartered Accountants, (Firm Registration 
-No. 103716W), as the new Statutory Auditors of the Company to hold office for one term of 5 years commencing from 
+No. 103716W), as the new statutory auditors of the Company to hold office for one term of 5 years commencing from 
 conclusion of the ensuing 55th Annual General Meeting upto the 60th Annual General Meeting of the Company to be held in 
 calendar year 2022.
 
 The Company has received a certificate from the proposed Statutory Auditors to the effect that their appointment, if made, 
 shall be in compliance with the provisions of Section 139 and 141 of the Companies Act, 2013. Accordingly, the Board 
-proposes appointment of M/s. Hitesh Shah & Associates, Chartered Accountants as the Statutory Auditors of the Company in 
+proposes appointment of M/s. Hitesh Shah & Associates, Chartered Accountants as the statutory auditors of the Company in 
 place of M/s. MSP & Co., to hold office from the conclusion of this AGM until the conclusion of the 60th AGM of your Company. 
-Necessary resolution seeking approval of the members for appointment of new Statutory Auditors has been incorporated in 
+Necessary resolution seeking approval of the members for appointment of new statutory auditors has been incorporated in 
 the Notice convening the Annual General Meeting forming part of this Annual Report.
 
 The Auditors’ Report for the financial year 2016-17 on the financial statements of the Company which is a part of this Annual 
@@ -1010,7 +1010,7 @@ capitalization.
 
 Pursuant to the provisions of Section 204 of the Companies Act, 2013 and The Companies (Appointment and Remuneration 
 of Managerial Personnel) Rules, 2014, the Company has appointed Mr. Dinesh Kumar Deora, Practicing Company Secretary, 
-to undertake the Secretarial Audit of the Company. The Report of the Secretarial Audit Report for the financial year ended  
+to undertake the Secretarial Audit of the Company. The Report of the Secretarial Audit Report for the financial year ended 
 31st March 2017 is set out as “Annexure [III]” to this Report. 
 
 **EXTRACT OF ANNUAL RETURN:**
@@ -1239,27 +1239,22 @@ DIN:00074494
 
 **Report on the Corporate Social Responsibility (CSR) Activities for the year 2016-17**
 
-**1. 
-Brief outline of your Company’s CSR policy:**
-
+1. 
+Brief outline of your Company’s CSR policy:
  
 The objective of the CSR policy of the Company is to define the contribution which the Company can make towards its 
 Corporate Social Responsibility, the geographical limits within which it envisages to make such contribution, the chosen 
 activities, programs or projects for its CSR activities and the control and reporting mechanism which will ensure proper 
 functioning of such CSR activities to the optimum results.
-
  
 The scope of CSR activities are taken into account as per the Schedule VII of the Companies Act, 2013. Preference is to 
 be given to the local areas of the offices of the Company.
-
  
 In accordance with the CSR Policy of the Company, the CSR initiatives would be focused around following identified 
 thrust areas for channelizing the resources:
 1) Health 2) Education 3) Environment 4) Ethnicity 5) Sports 6) Support to Technology Incubators
-
  
 The CSR Policy of your Company is available on website at following link.
-
  
 (http://patel-india.com/wp-content/uploads/2015/11/CSRPOLICY.pdf)
 2.  Composition of CSR Committee:
@@ -1273,7 +1268,6 @@ Non Executive Director
 Mr. Sandeep Parikh
 Member
 Independent Director
-
  
 Mr. Nitin Akolkar acts as the Secretary to the Committee.
 3.  Average Net Profit before Tax of the Company for last 3 financial years : ` 738.27 lacs
@@ -1575,7 +1569,7 @@ the dissenting members’ views are captured and recorded as part of the minutes
 I further report that there are adequate systems and processes in the Company commensurate with the size and operations 
 of the Company to monitor and ensure compliance with applicable laws, rules, regulations and guidelines.
 
-**I further report that during the audit period Company has no instances of, **
+**I further report that during the audit period Company has no instances of,**
 
 (i) 
 Public/Right/Preferential issue of shares / debentures/sweat equity, etc. 
@@ -2247,7 +2241,7 @@ Shareholding at the end of
 
 No. of  
 shares
-% of total shares  
+% of total shares 
 of the company
 No. of  
 shares
@@ -2512,10 +2506,9 @@ Purchase
 5
 negligible 
 
-** V. INDEBTEDNESS:**
+**V. INDEBTEDNESS:**
 
-** 
-Indebtedness of the Company including interest outstanding/accrued but not due for payment
+**Indebtedness of the Company including interest outstanding/accrued but not due for payment
 (Amount in `)**
 
 **Secured Loans
@@ -2639,8 +2632,7 @@ Total (A)
 *Ceiling as per the Act
 120,00,000
 
-** 
-*As per Part II Section II Table A of Schedule V of Companies Act 2013.**
+***As per Part II Section II Table A of Schedule V of Companies Act 2013.**
 
 **B.  Remuneration to other directors:
  
@@ -2806,7 +2798,7 @@ Compounding
 Patel House, 5th Floor, Plot No. 48,
 Gazdarbandh, North Avenue Road, 
 Santacruz (West)
-Mumbai – 400 054. **
+Mumbai – 400 054.**
 
 **Mumbai, dated 10th August, 2017**
 
@@ -2818,7 +2810,7 @@ DIN:00075687**
 
 **P. S. G. NAIR      
 -   Director 
-DIN:00074494  **
+DIN:00074494**
 
 **ANNEXURE V**
 
@@ -2864,41 +2856,34 @@ DIN:00074494
 
 **REPORT ON THE CORPORATE GOVERNANCE**
 
-**[Pursuant to Regulation 34(3) Schedule V of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015] **
+**[Pursuant to Regulation 34(3) Schedule V of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015]**
 
 **A) COMPANY’S PHILOSOPHY ON THE CORPORATE GOVERNANCE:**
 
-** 
-The Company strongly believes in values of transparency, professionalism and accountability which are the mainstay of 
+**The Company strongly believes in values of transparency, professionalism and accountability which are the mainstay of 
 good Corporate Governance. The Company has consistently practiced good Corporate Governance and will endeavor 
 to improve on it on an ongoing basis.**
 
-** 
-We strive to achieve the corporate objectives within the framework of the national interest, macro and micro economic 
+**We strive to achieve the corporate objectives within the framework of the national interest, macro and micro economic 
 policies devised by the Government of India and to conduct the business affairs of the Company in an ethical and 
 transparent manner, also strive for the maximization of the shareholders’ wealth and in doing so contribute positively to 
 the economic development of India and achievement of the overall objectives of the Company.**
 
-** 
-Your Company has complied with all the regulations stipulated in the SEBI (Listing Obligations and Disclosure 
+**Your Company has complied with all the regulations stipulated in the SEBI (Listing Obligations and Disclosure 
 Requirements) Regulations, 2015 (hereinafter referred to as Listing Regulations)**
 
 **B) THE BOARD OF DIRECTORS:**
 
-** 
-Composition and No. of Board Meetings:**
+**Composition and No. of Board Meetings:**
 
-** 
-The Board of Directors has judicious mix of Executive and Non-Executive Directors as on 31st March, 2017, comprised 
+**The Board of Directors has judicious mix of Executive and Non-Executive Directors as on 31st March, 2017, comprised 
 of a Non-Executive Chairman who is promoter of the Company, a Whole-time Director designated as Executive Vice-
-Chairman and Six Non-Executive Directors of which five Directors are Independent Directors. **
+Chairman and Six Non-Executive Directors of which five Directors are Independent Directors.**
 
-** 
-During the financial year ended 31st March 2017, Six Board Meetings were held. Dates on which Board Meetings were 
-held are 09-05-2016, 27-05-2016, 12-07-2016, 09-08-2016, 12-11-2016 and 14-02-2017. **
+**During the financial year ended 31st March 2017, Six Board Meetings were held. Dates on which Board Meetings were 
+held are 09-05-2016, 27-05-2016, 12-07-2016, 09-08-2016, 12-11-2016 and 14-02-2017.**
 
-** 
-Composition of the Board of Directors as at 31st March 2017, their attendance at Board Meetings during the year 
+**Composition of the Board of Directors as at 31st March 2017, their attendance at Board Meetings during the year 
 ended on that date and at the last Annual General Meeting as also number of other directorships and chairmanships / 
 memberships of committees held by them, as on that date are as given below:**
 
@@ -2923,7 +2908,7 @@ Ltd. Companies)**
 *****Committee 
 Memberships
 Chairman
-Member **
+Member**
 
 Mr. Asgar S.Patel
 DIN 00164823
@@ -3007,7 +2992,7 @@ Yes
 
 **NEC 
 -  
-Non Executive Chairman **
+Non Executive Chairman**
 
 **WTD 
 -  
@@ -3051,8 +3036,7 @@ Company and can be accessed through the following link:
  
 http://patel-india.com/wp-content/uploads/2015/11/FamiliarisationProgrammeforIndependentDirector.pdf
 
-** 
-Performance Evaluation:**
+**Performance Evaluation:**
 
  
 The Nomination and Remuneration Committee has laid down criteria for Performance evaluation of Board of Directors. 
@@ -3081,8 +3065,7 @@ The Audit Committee has played an important role in ensuring the financial integ
 Committee’s role includes oversight of the financial reporting process, the audit process, the adequacy of internal 
 controls, transactions with related parties and compliance with applicable laws and regulations.
 
-** 
-Composition:**
+**Composition:**
 
  
 The Audit Committee comprises of 4 Directors as on 31st March 2017 i.e. Mr. P. S. G. Nair, Mr. Areef A. Patel, 
@@ -3212,8 +3195,7 @@ Stakeholders’ Relationship Committee:**
 The composition of the Stakeholder Relationship Committee is in compliance with the provisions of Section 178 of the 
 Companies Act, 2013 and Regulation 20 of the Listing Regulations.
 
-** 
-Terms of Reference:**
+**Terms of Reference:**
 
  
 To oversee the redressal of the shareholders’/investors/Depositors’ complaints like the transfer of shares, non-receipt of 
@@ -3266,8 +3248,7 @@ All valid transfers received during the year 2016-2017 have been acted upon by t
 The role of the Nomination and Remuneration Committee is governed by its Charter and its composition is in compliance 
 with the provisions of Section 178 of the Companies Act, 2013 and Regulation 19 of the Listing Regulations.
 
-** 
-Terms of Reference:**
+**Terms of Reference:**
 
  
 The Terms of Reference of the Nomination and Remuneration Committee broadly include the following:
@@ -3441,8 +3422,7 @@ g)
 The amount of sitting fee and commission payable to Non-Executive Directors shall not exceed the limits prescribed 
 under the provisions of the Companies Act, 2013.
 
-** 
-Details of the Managerial Remuneration paid during the year ended 31st March, 2017:**
+**Details of the Managerial Remuneration paid during the year ended 31st March, 2017:**
 
  
 Details of managerial remuneration paid during the year ended 31st March, 2017 is stated in the Form MGT- 9 – Extract 
@@ -3727,7 +3707,7 @@ Report, the Shareholding Pattern, Financial Results and Corporate Announcements 
 GENERAL SHAREHOLDER INFORMATION:**
 
  1)  The Annual General Meeting of the Company for the year ended 31st March 2017 will be held on Wednesday, 
-the 27th September 2017, at the Sheila Raheja Hall, Rotary Service Centre, Juhu-Tara Road, Santacruz (West),  
+the 27th September 2017, at the Sheila Raheja Hall, Rotary Service Centre, Juhu-Tara Road, Santacruz (West), 
 Mumbai – 400 049, at 11.00 a.m.
 
 2)  The Financial Year of the Company comprises of a twelve month period which commences on 1st April of every year 
@@ -3989,7 +3969,7 @@ There are no unclaimed share certificates as on 31st March 2017.
 14)  Constituents of House of Patels (Promoters and Promoter’s group):
 
  
-a) Mr. Asgar S. Patel b) Mrs. Yasmin A. Patel c) Mr. Areef A. Patel d) Mrs. Natasha R. Pillai e) A.S.Patel Trust  
+a) Mr. Asgar S. Patel b) Mrs. Yasmin A. Patel c) Mr. Areef A. Patel d) Mrs. Natasha R. Pillai e) A.S.Patel Trust 
 f) Patel Holdings Limited g) Wall Street Securities & Investments (India) Ltd h) Natasha Constructions Private 
 Limited i) Patel Real Estate Developers Pvt. Ltd j) Natasha Homes Pvt. Ltd k) Natasha Construction Projects Pvt. 
 Ltd l) Transways Combines Pvt. Ltd. m) Wall Street Derivatives and Financial Services (India) Ltd n) One capitall 
@@ -4037,35 +4017,26 @@ a)  Registered Office:
 “Patel House”, 5th Floor, Plot No. 48,
   
 Gazdarbandh, North Avenue Road,
-
  
 Santacruz (West), Mumbai – 400 054.
-
  
 Tel : (022) 2605 0021
-
  
 Fax : (022) 2605 2554
-
  
 Email : pill_investorservices@patel-india.com
 
 b)  Registrars & Share Transfer Agents:
  
 Bigshare Services Private Limited,
-
  
 1st Floor, Bharat Tin Works Building,
-
  
 Opp. Vasant Oasis Makwana Road,
-
  
 Marol, Andheri (East), Mumbai 400059
-
  
 Tel: (022) 62638200
-
  
 Fax: (022) 62638299
 
@@ -4073,34 +4044,27 @@ Fax: (022) 62638299
  
 National Securities Depository Limited  
 Central Depository Services (India) Limited
-
  
 Trade World, A wing, 4th & 5th Floors,  
 Phiroze Jeejeebhoy Towers,
-
  
 Kamala Mills Compound,  
 17th Floor, Dalal Street,
-
  
 Senapati Bapat Marg, Lower Parel,  
 Mumbai – 400 001.
   
 Mumbai – 400 013.  
 Tel : (022) 2272 3333
-
  
 Tel : (022) 2499 4200 (60 lines)  
 Fax : (022) 2272 3199 / 2272 2072
-
  
 Fax : (022) 2497 2993 / 2497 6351  
 E-mail : investors@cdslindia.com
-
  
 E-mail : info@nsdl.co.in  
 Website : www.cdslindia.com
-
  
 Website : www.nsdl.co.in
  
@@ -4115,7 +4079,7 @@ their respective Depository Participants (DP) and can address their queries / co
 Agents of the Company or may also contact Company Secretary at the registered office of the Company. 
 
 **Declaration as required under Regulation 26 of the SEBI (Listing Obligations and Disclosure Requirements) 
-Regulations, 2015 **
+Regulations, 2015**
 
 This is to confirm that the Company has adopted a Code of Conduct for its directors and senior management employees. 
 These Codes are available on the Company’s website.
@@ -4134,8 +4098,8 @@ Areef A. Patel
 Executive Vice Chairman
 Mumbai, 10th August 2017
 
-** AUDITORS’ CERTIFICATE ON COMPLIANCE OF CONDITIONS OF CORPORATE 
-GOVERNANCE TO THE MEMBERS OF PATEL INTEGRATED LOGISTICS LIMITED **
+**AUDITORS’ CERTIFICATE ON COMPLIANCE OF CONDITIONS OF CORPORATE 
+GOVERNANCE TO THE MEMBERS OF PATEL INTEGRATED LOGISTICS LIMITED**
 
 We have examined the compliance of conditions of Corporate Governance by Patel Integrated Logistics Limited (‘the 
 Company’), for the year ended 31st March, 2017, as stipulated in Regulation 17 to 27 of Securities and Exchange Board of 
@@ -4162,11 +4126,11 @@ Membership No. 08684
 Mumbai. 
 Dated : 10th August 2017
 
-**MANAGEMENT DISCUSSION & ANALYSIS REPORT **
+**MANAGEMENT DISCUSSION & ANALYSIS REPORT**
 
 (Within the limits set by the Company’s competitive position) 
 
-**Economic Scenario **
+**Economic Scenario**
 
 The financial year 2016-17 has been a year marked with both excitement and challenges for the global as well as the Indian 
 economy. When the Indian Economy was just showing the growth trajectory on the back of positive sentiments from private 
@@ -4193,7 +4157,7 @@ the medium term.
 Looking at the prevalent overall macroeconomic scenario it would not be unreasonable to conclude that the India would 
 remain the fastest growing economy in the world.
 
-**Company’s Business in brief: **
+**Company’s Business in brief:**
 
 Your Company offers a complete range of Logistics Products, which include following business activities: 
 
@@ -4212,7 +4176,7 @@ Air Cargo Consolidation
 Your Company is a single stop Logistics Services Provider, offering unified Logistics solutions through the extensive 
 infrastructure of Offices and Delivery Destinations across all over the country. 
 
-**(A) PATEL ROADWAYS **
+**(A) PATEL ROADWAYS**
 
 The Flagship division of the company caters to the bulk cargo movement of the B to B vertical, where in primary raw material 
 movement from manufacturer to end product manufacturer and bulk movement from manufacturer to mother warehouses or 
@@ -4224,11 +4188,11 @@ maximum safety to consignments..Entire Fleet has been installed with GPS ensurin
 phasing out 9 tonner trucks and upgrading to 15 tonner container to ensure optimisation of costs without compromising on 
 service quality. 
 
-**Industry overview: **
+**Industry overview:**
 
 The year gone by has been watershed in terms of so many events impacting the economy and industry. The Transport Industry 
 was growing at a rapid pace. The momentum however was interrupted with the sudden demonetisation announcement by 
-the government. This move has hindered the day to day operations of transportation and logistics resulting in short term 
+the government. this move has hindered the day to day operations of transportation and logistics resulting in short term 
 disruption in the business. We expect business disruption to be temporary and the situation is improving to normalize for 
 service and manufacturing sector in the coming 2 to 3 quarters. 
 
@@ -4236,7 +4200,7 @@ With the launch of GST, is a milestone opportunity for the organized transport i
 sector with smaller players who do not have a national presence are getting edged out by the larger player. Overall we see 
 significant positive uptick for the organized transport sector. 
 
-**Opportunities & Threats: **
+**Opportunities & Threats:**
 
 With the government emphasizing large investments in the infrastructure space, we see uptick in tonnage and gradual revival 
 of economic growth. Implementation of the tax reform GST from July onwards would bring in major changes for the Indian 
@@ -4262,7 +4226,7 @@ or under pressure. The international environment looks quite stable and interest
 which will give a boost to the manufacturing sector. We also see major investments being made by the current government 
 into the Roads and Highways thereby reducing operation costs on account of fuel, tires and maintenance. 
 
-**Outlook: **
+**Outlook:**
 
 The outlook remains extremely positive for the Logistics sector. The GST will bring the benefits of operational and cost 
 efficiencies to the organized players. The unorganized players will struggle with the GST tax model which may cause major 
@@ -4277,14 +4241,14 @@ Warehousing and Transportation will merge in near future to create single window
 The Information Technology will be heavily deployed to provide quality services to the customer and the demand for skilled 
 labor will increased. 
 
-**Risks & Concerns: **
+**Risks & Concerns:**
 
 We see skilled labor shortage as a major risk which can slowdown the expansion plans of the industry. Despite of all actions, 
 if economy as a whole fails to get reactivated then there remains the risk of stagnation. In the absence of defined regulations, 
 benchmarks on the quality of services for the transportation sector, this sector creates free entry for all enterprise leading to 
 some fly by night operators continue to come in and create chaos in the market. 
 
-**(B) PATEL RETAIL **
+**(B) PATEL RETAIL**
 
 This division is poised to take charge as the flagship division with revenue contribution from this division expected to surpass 
 the Patel Roadways contribution in the next 2 years. Patel Retail remains the fastest growing division of the Surface transport 
@@ -4296,7 +4260,7 @@ eliminating factor to state warehouse movement but rather from mother warehouses
 tie up with a motley set of players existing in this vertical to service their needs. Patel Retail seems very well poised to benefit 
 from this environment. 
 
-**Industry Overview: **
+**Industry Overview:**
 
 The implementation of GST is expected to be a major positive for the Express Cargo business. 
 
@@ -4309,7 +4273,7 @@ boom in Express Cargo business which would grow at a scorching pace. The Express
 transportation of consumer goods which are high value and compact in nature, However we see a gradual shift of business 
 from conventional surface transportation to Express Cargo. This process will speed up in the upcoming years. 
 
-**Opportunities & threats: **
+**Opportunities & threats:**
 
 With introduction of GST we can see major business is moving to this division with customer looking for end to end solutions 
 for end customers by eliminating state warehouse movement. 
@@ -4335,7 +4299,7 @@ in the light of GST.
 The other challenges involve huge immediate investments which will have to be made in technology, increased manpower 
 costs and acquiring new vehicles, payback of which would be in coming years. 
 
-**Outlook: **
+**Outlook:**
 
 The express cargo sector will become the focus of all investors. We foresee this sector to set a scorching pace of multi year 
 growth. As a fast-growing, market-driven economy, we believe that India is poised to take a leading role on the world’s stage. 
@@ -4348,19 +4312,19 @@ the customer is prepared to pay a higher price for professional handling of carg
 Time” delivery of cargo. Patel Retail is very well poised to surpass industry growth in coming years with every service being 
 measured to deliver a delightful customer experience. 
 
-**Risk & concerns: **
+**Risk & concerns:**
 
 We see lot of PE money and FDI coming into this sector in coming years which could cause market disruption as this money 
 could create unhealthy competition and put pressure on pricing. At the same time we see valuations rising rapidly with the 
 few players existing and huge market available. 
 
-**(C) POBC AND PATEL AIRFREIGHT: **
+**(C) POBC AND PATEL AIRFREIGHT:**
 
 These divisions of the Company carry on the business of courier and air cargo consolidation in the domestic market as well 
 as in International market. These divisions are IATA approved divisions and undertakes efficient and cost-effective courier and 
 air cargo consolidation with network of branches across all over the country. 
 
-**Industry overview: **
+**Industry overview:**
 
 The Indian Air Cargo sector is poised to undergo significant growth in the coming years. The Indian economy seems to have 
 gained a strong foothold on the recovery path backed by timely and aggressive policies by the Government. The Government 
@@ -4371,7 +4335,7 @@ Regulations are creating an environment of positive change.
 The globalization will bring in the much-needed capital and global best practices to the Indian air cargo industry. The growth 
 potential of cargo industry is phenomenal. 
 
-**Opportunities & threats: **
+**Opportunities & threats:**
 
 Air cargo is essential to many facets of modern life. E-Commerce growth provided huge opportunities to Air Cargo business. 
 Liberalization and Growth of economy and trade lead to more and more demand of Air Cargo. The last year was severely 
@@ -4382,7 +4346,7 @@ and effective cost management has helped us reduce costs to a large extent there
 New Players and Unregulated supply chain participants are posing challenges to the Air Cargo Industry. The raising fuel cost 
 is also one of the threat for Air Cargo Industry. 
 
-**Outlook: **
+**Outlook:**
 
 Indian economy is one of the fastest growing economies in the world. In order to maintain this sustainable economic 
 development, country has to improve its transportation and infrastructure sector. India‘s air cargo business is having much 
@@ -4393,7 +4357,7 @@ strong demand for predicting air cargo growth.
 The implementation of GST will have free flow of goods from one state to another thereby giving a very big boost to the Air 
 Cargo Industry . 
 
-**Risk & concerns: **
+**Risk & concerns:**
 
 The air cargo industry continues to face challenges of sustainability, profitability and customer satisfaction. Our Company is 
 operating in an environment that is becoming more and more competitive . As it gets into a more aggressive approach, it is 
@@ -4405,7 +4369,7 @@ a share in the same pie. Like in most other industries, opportunity brings with 
 competition in each segment, from domestic as well as multinational companies. However, Our Company has strong brand 
 goodwill in the market which has helped us to stay afloat and ahead despite the downturn. 
 
-**Human Resource Management: **
+**Human Resource Management:**
 
 The “House of Patels” is mainly a service provider in the arena of Logistics. In this field there are several players, and the fact 
 that we have completed half a century and are one of the acknowledged leaders in this field is mainly due to the quality of 
@@ -4430,7 +4394,7 @@ business to scale greater heights.
 The Company continues to enjoy peaceful and harmonious relations with all its employees through several proactive 
 measures during the year. The Company employed 885 people as on 31st March 2017. 
 
-**Internal Control System: **
+**Internal Control System:**
 
 The Company has a satisfactory Internal Control System, the adequacy of which has been reported by the Auditors in their 
 Report as required by the Companies (Auditor’s Report) Order, 2015. 
@@ -4439,12 +4403,12 @@ The Company is committed to further improve Internal Controls and strengthen the
 Corporate Governance is being given in the current year. We firmly believe that the business can grow and develop on the 
 required lines and profitability can be sustained only through Strong and Transparent Corporate Governance. 
 
-**Financial performance and segment-wise performance: **
+**Financial performance and segment-wise performance:**
 
 The discussion on the financial performance of the Company is covered in the Directors’ Report. The segment-wise 
 performance is available in note 36 of the notes forming part of the Accounts for the year under consideration. 
 
-**Cautionary Statement: **
+**Cautionary Statement:**
 
 Statements in the Management Discussion and Analysis Report describing Projections, Estimates, Expectations, Future 
 Outlook etc. in connection with the business may be ‘forward looking statements’ within the meaning of applicable securities 
@@ -4560,7 +4524,7 @@ commenting on any material foreseeable losses thereon does not arise;
 iii. There has been no delay in transferring amounts, required to be transferred, to the Investor Education and 
 Protection Fund by the Company; 
 
-iv. The Company has provided the requisite disclosure in its standalone financial statements as to holdings as 
+iv. The company has provided the requisite disclosure in its standalone financial statements as to holdings as 
 well as dealings in Specified Bank Notes as defined in the Notification S.O. 3407(E) dated the 8th November, 
 2016 of the Ministry of Finance, during the period from November 8, 2016 to December 30, 2016 and these 
 are in accordance with the books of accounts maintained by the company. Refer Note No. 40 to the financial 
@@ -4620,13 +4584,13 @@ been regular as per stipulations.
 (c) There is no overdue amount remaining outstanding as at the year-end.
 
 4) 
-In our opinion and according to the information and explanations given to us, the Company has complied with the 
+In our opinion and according to the information and explanations given to us, the company has complied with the 
 provisions of Section 185 and 186 of the Act, with respect to loans and investments made.
 
 5) 
-The Company has complied with the provisions of Sections 73 to 76 of the Act, and the Companies (Acceptance of 
-Deposits) Amendment Rules, 2015 with regards to the deposits accepted from public. According to the information and 
-explanation given to us, no order under the aforesaid sections has been passed by the Company Law Board or National 
+The Company has complied with the provisions of Sections 73 to 76 of the Act, and the companies (Acceptance of 
+deposits) amendment Rules, 2015 with regards to the deposits accepted from public. According to the information and 
+explanation given to us, no order under the aforesaid sections has been passed by the company Law Board or National 
 Company Law Tribunal or Reserve Bank of India or any court or any other tribunal against the Company.
 
 6) 
@@ -4646,8 +4610,8 @@ Service Tax, Cess and other material statutory dues were in arrears as at March 
 six months from the date they become payable.
 
  
-(c)  According to the information and explanations given to us, there are no material dues of Customs, Income Tax, Duty 
-of Excise, Service Tax, Cess and other material statutory dues which have not been deposited with the appropriate 
+(c)  According to the information and explanations given to us, there are no material dues of Customs, Income Tax, duty 
+of excise, Service Tax, Cess and other material statutory dues which have not been deposited with the appropriate 
 authorities on account of any dispute.
 
 8) 
@@ -4777,20 +4741,20 @@ Date: May 26, 2017
 
 **STANDALONE BALANCE SHEET AS AT 31ST MARCH, 2017**
 
-** Note 
+**Note 
  No. 
 `**
 
-** As At 
+**As At 
  31.03.2017 
- ` **
+ `**
 
  As At 
  31.03.2016 
  ` 
 EQUITY AND LIABILITIES 
 Shareholders' Funds 
-share Capital 
+Share Capital 
 2
 15,88,66,120
 15,88,66,120
@@ -4820,7 +4784,7 @@ Other Long Term Liabilities
 23,23,84,749
 15,11,51,337
 Current Liabilities 
-short Term Borrowings 
+Short Term Borrowings 
 8
 37,82,37,409
 43,49,82,916
@@ -4914,22 +4878,22 @@ TOTAL
  NITIN B. AKOLKAR 
  MAHESH FOGLA 
  Dated : 26th May, 2017. 
- Company secretary 
+ Company Secretary 
  Chief Financial Officer 
 
 **STANDALONE PROFIT AND LOSS STATEMENT FOR THE YEAR ENDED 31ST MARCH, 2017**
 
-** Note 
+**Note 
  No. 
  For the Year 
  2016-17 
  `**
 
-** For the Year 
+**For the Year 
  2015-16 
  `**
 
-**INCOME **
+**INCOME**
 
 Revenue from Operations 
 21
@@ -4945,7 +4909,7 @@ Other Income
 4,58,73,42,780
 5,14,01,44,731**
 
-**EXPENSES **
+**EXPENSES**
 
 Operating Cost 
 23
@@ -4957,7 +4921,7 @@ Employee Benefits Expense
 29,13,65,740
 28,29,50,985
 
-finance Costs 
+Finance Costs 
 25
 8,16,89,863
 9,02,21,969
@@ -4980,7 +4944,7 @@ Other Expenses
 9,22,20,571
 11,06,68,978**
 
-**Tax Expense **
+**Tax Expense**
 
 Current Tax 
 1,81,00,000
@@ -4998,7 +4962,7 @@ Deferred Tax
 7,02,66,554
 8,37,41,676**
 
-**Earning per Equity Share of face value of ` 10/- each **
+**Earning per Equity Share of face value of ` 10/- each**
 
 Basic ( in ` ) 
 27
@@ -5034,23 +4998,23 @@ Notes on Financial Statements
  NITIN B. AKOLKAR 
  MAHESH FOGLA 
  Dated : 26th May, 2017. 
- Company secretary 
+ Company Secretary 
  Chief Financial Officer 
 
 **STANDALONE CASH FLOW STATEMENT FOR THE YEAR ENDED 31ST MARCH, 2017**
 
-** ` **
+**`**
 
-** Year Ended 
+**Year Ended 
  31.03.2017 
  ` 
- ` **
+ `**
 
-** Year Ended 
+**Year Ended 
  31.03.2016 
- ` **
+ `**
 
-** A: CASH FLOW FROM OPERATING ACTIVITIES : **
+**A: CASH FLOW FROM OPERATING ACTIVITIES :**
 
 Net Profit Before Tax as per Profit and Loss 
 Account 
@@ -5067,7 +5031,7 @@ Depreciation
 4,20,55,641
 4,28,11,531
 
-(Net Gain) / Loss on Sale of Current / Non-Current 
+(Net gain) / Loss on Sale of Current / Non-Current 
 Investments 
  (1,44,84,603)
  (59,57,709)
@@ -5080,7 +5044,7 @@ Interest Income
  (2,37,19,859)
  (1,34,28,697)
 
-finance Cost 
+Finance Cost 
 8,16,89,863
 9,02,21,969
 
@@ -5120,7 +5084,7 @@ Taxes Received / (Paid) (Net)
  (9,89,537)**
 
 **B:
-CASH FLOW FROM INVESTING ACTIVITIES : **
+CASH FLOW FROM INVESTING ACTIVITIES :**
 
 Purchase of Fixed Assets 
 (18,63,09,625)
@@ -5155,19 +5119,19 @@ Dividend Received
 (16,81,49,263)
  (52,11,212)**
 
-** ` **
+**`**
 
-** Year Ended 
+**Year Ended 
  31.03.2017 
  ` 
- ` **
+ `**
 
-** Year Ended 
+**Year Ended 
  31.03.2016 
- ` **
+ `**
 
 **C:
- CASH FLOW FROM FINANCING ACTIVITIES : **
+ CASH FLOW FROM FINANCING ACTIVITIES :**
 
  Proceeds from Public Deposits (Net) 
  25,86,000
@@ -5245,7 +5209,7 @@ specified Bank Account.
  NITIN B. AKOLKAR 
  MAHESH FOGLA 
  Dated : 26th May, 2017. 
- Company secretary 
+ Company Secretary 
  Chief Financial Officer 
 
 **STANDALONE CASH FLOW STATEMENT FOR THE YEAR ENDED 31ST MARCH, 2017**
@@ -5451,7 +5415,7 @@ economic benefits is remote. Contingent Assets are neither recognized nor disclo
 
 **Notes on Standalone Financial Statements for the Year Ended 31st March, 2017**
 
-** As at 
+**As at 
  As at 
  31.03.2017 
  31.03.2016 
@@ -5474,26 +5438,26 @@ economic benefits is remote. Contingent Assets are neither recognized nor disclo
 15,88,66,120
  (1,58,86,612) 
 
-** TOTAL 
+**TOTAL 
 15,88,66,120
 15,88,66,120**
 
 2.1 During the previous year 7,00,000 Equity Shares of ` 10/- each at the premium of ` 105/- were issued on preferential 
 basis on 14th January, 2016. The pricing and procedure were in accordance with the requirement of Chapter VII of the 
-SEBI (ICDR) regulations 2009, Section 42 and 62 of Companies Act, 2013 and Rule 14 of the Companies (Prospectus 
-and Allotment of securities) Rules, 2014. Money received including share premium on issue of 7,00,000 Equity Shares 
+SEBI (ICDR) regulations 2009, Section 42 and 62 of Companies Act, 2013 and Rule 14 of the Companies (prospectus 
+and allotment of securities) Rules, 2014. Money received including share premium on issue of 7,00,000 Equity Shares 
 was ` 8,05,00,000/- out of which ` 5,17,74,951/- has been utilised for purchase of land for Warehousing Business and 
 for Subsidiary Company DelivrEx India Ltd. Balance ` 2,87,25,049/- is in Bank.
 
 **2.2 The reconciliation of the number of shares outstanding is set out below :**
 
-** As At 
+**As At 
 31.03.2017 
  As At 
 31.03.2016 
  Particulars 
  No. of Shares 
- No. of Shares **
+ No. of Shares**
 
  Equity Shares at the beginning of the year fully paid up 
 1,58,86,612
@@ -5502,11 +5466,11 @@ for Subsidiary Company DelivrEx India Ltd. Balance ` 2,87,25,049/- is in Bank.
  - 
  7,00,000
 
-** Equity Shares at the end of the year 
+**Equity Shares at the end of the year 
 1,58,86,612
 1,58,86,612**
 
-**2.3 Rights, preferences and restrictions attached to the equity shares - **
+**2.3 Rights, preferences and restrictions attached to the equity shares -**
 
  
 The Company has one class of equity shares having a par value of ` 10/- per share. Each shareholder is eligible for one 
@@ -5545,7 +5509,7 @@ the ensuing Annual General Meeting, except in case of interim dividend.
 
 **Notes on Standalone Financial Statements for the Year Ended 31st March, 2017**
 
-** As at 
+**As at 
  As at 
  31.03.2017 
  31.03.2016 
@@ -5635,7 +5599,7 @@ the ensuing Annual General Meeting, except in case of interim dividend.
 7,87,86,020
 6,30,79,843
 
-** TOTAL 
+**TOTAL 
 96,66,73,931
 88,34,18,517**
 
@@ -5649,25 +5613,25 @@ the ensuing Annual General Meeting, except in case of interim dividend.
  MONEY RECEIVED AGAINST SHARE WARRANTS 
  `
  `
-Application money received against 9,29,000 Convertible Equity Warrant @  
-` 28.75 per Warrant of ` 115/ each (including premium) issued on preferential 
+Application money received against 9,29,000 Convertible Equity warrant @ 
+` 28.75 per warrant of ` 115/ each (including premium) issued on preferential 
 basis. 
 
 2,67,08,750
 2,67,08,750
 
-** TOTAL 
+**TOTAL 
 2,67,08,750
 2,67,08,750**
 
 4.1 During the previous year, Company has issued 9,29,000 equity warrants of ` 10/- each at a price of ` 115/- per equity 
-warrant to be converted into 9,29,000 equity share of ` 10/- at a price of ` 115/- per share (inclusive of share premium of  
+warrant to be converted into 9,29,000 equity share of ` 10/- at a price of ` 115/- per share (inclusive of share premium of 
 ` 105/- per share) within 18 months from the date of allotment i.e. 14th January, 2016 on the terms and conditions approved 
-by the members of the Extra Ordinary General Meeting. Application money received on 9,29,000 equity warrants is  
+by the members of the Extra Ordinary General Meeting. Application money received on 9,29,000 equity warrants is 
 ` 2,67,08,750/-. The funds received in preferential allotment of equity warrants aggregating to ` 2,67,08,750/- has been 
 kept with bank in Current Account.
 
-** As At 31.03.2017 
+**As At 31.03.2017 
  As At 31.03.2016 
  Non Current 
  Current 
@@ -5680,7 +5644,7 @@ kept with bank in Current Account.
  `
  `**
 
-** Secured **
+**Secured**
 
  Term Loan 
  - 
@@ -5697,7 +5661,7 @@ kept with bank in Current Account.
  18,382,655 
  59,55,801
 
-** Unsecured **
+**Unsecured**
 
  Term Loan 
  - 
@@ -5714,13 +5678,13 @@ kept with bank in Current Account.
 8,28,29,840
 6,60,60,944
 
-**                                                           TOTAL 
+**TOTAL 
 18,01,82,950
 5,70,44,220
 10,12,12,495
 7,20,16,745**
 
-**5.1 Deferred payment liabilities referred above are secured by way of mortgage of trucks and motor cars. **
+**5.1 Deferred payment liabilities referred above are secured by way of mortgage of trucks and motor cars.**
 
 5.2 Term loan liability referred above is secured by office premises located at Unit No. 504, 5th Floor, The Crescent Business 
 Park, Andheri Kurla Road, Sakinaka, Andheri (E), Mumbai - 400 072.
@@ -5743,13 +5707,13 @@ Park, Andheri Kurla Road, Sakinaka, Andheri (E), Mumbai - 400 072.
  18,87,877
  (6,31,701)
 
-** TOTAL 
+**TOTAL 
 2,57,79,152
 2,19,25,135**
 
 **Notes on Standalone Financial Statements for the Year Ended 31st March, 2017**
 
-** As at 
+**As at 
  As at 
  31.03.2017 
  31.03.2016 
@@ -5762,13 +5726,13 @@ Park, Andheri Kurla Road, Sakinaka, Andheri (E), Mumbai - 400 072.
 2,64,22,647
 2,80,13,707
 
-** TOTAL 
+**TOTAL 
 2,64,22,647
 2,80,13,707**
 
  * Deposits includes deposits from Transporters, Customers, Franchisees and others. 
 
-** As at 
+**As at 
  As at 
  31.03.2017 
  31.03.2016 
@@ -5777,23 +5741,23 @@ Park, Andheri Kurla Road, Sakinaka, Andheri (E), Mumbai - 400 072.
  `
  `**
 
-** Secured - Loans repayable on demand **
+**Secured - Loans repayable on demand**
 
  Working Capital Loans from Banks 
 37,81,15,201
 42,96,71,405
 
-** Unsecured **
+**Unsecured**
 
  Working Capital Loans from Banks and Others 
  1,22,208
  53,11,511
 
-** TOTAL 
+**TOTAL 
 37,82,37,409
 43,49,82,916**
 
-**8.1 Working Capital Loans from Banks : **
+**8.1 Working Capital Loans from Banks :**
 
  
 Secured by : 
@@ -5811,7 +5775,7 @@ Collateral Security -
  
 - Equitable Mortgage of certain properties owned situated at Mumbai and Thane.
 
-** As at 
+**As at 
  As at 
  31.03.2017 
  31.03.2016 
@@ -5830,15 +5794,15 @@ Collateral Security -
 10,45,07,220
 13,01,64,666
 
-9.1 The Company has not received any intimation from its vendors regarding their status under Micro, Small and Medium  
+9.1 The Company has not received any intimation from its vendors regarding their status under Micro, Small and Medium 
 Enterprises Development Act, 2006 and hence the disclosure, if any under the said Act has not been made.
 
 **Notes on Standalone Financial Statements for the Year Ended 31st March, 2017**
 
-** As at 
+**As at 
  As at 
  31.03.2017 
- 31.03.2016 **
+ 31.03.2016**
 
 **10  OTHER CURRENT LIABILITIES 
  `
@@ -5873,7 +5837,7 @@ Enterprises Development Act, 2006 and hence the disclosure, if any under the sai
  - 
  8,21,630
 
-** Other Payables **
+**Other Payables**
 
  Staff Advance 
 51,694
@@ -5906,17 +5870,17 @@ Enterprises Development Act, 2006 and hence the disclosure, if any under the sai
 3,66,06,136
 5,28,70,894
 
-** TOTAL 
+**TOTAL 
 10,47,38,155
 13,74,14,474**
 
  * Includes Agency payables, etc. 
 
-** As at 
- As at **
+**As at 
+ As at**
 
-** 31.03.2017 
- 31.03.2016 **
+**31.03.2017 
+ 31.03.2016**
 
 **11
  SHORT TERM PROVISIONS 
@@ -5939,7 +5903,7 @@ Enterprises Development Act, 2006 and hence the disclosure, if any under the sai
 8,46,00,000
 6,65,00,000
 
-** TOTAL 
+**TOTAL 
 10,47,77,284
 9,50,42,532**
 
@@ -5947,17 +5911,16 @@ Enterprises Development Act, 2006 and hence the disclosure, if any under the sai
 
 **12 PROPERTY, PLANT AND EQUIPMENT**
 
-** 
- Following are the changes in the carrying value of property, plant and equipment for the year ended 31st March, 2017: 
+**Following are the changes in the carrying value of property, plant and equipment for the year ended 31st March, 2017: 
 (Amt. in `)**
 
-** Description 
+**Description 
  Gross Carrying Value 
  Depreciation / Amortisation 
  Net Carrying 
-Value **
+Value**
 
-** As at 
+**As at 
 01.04.2016 
  Additions / 
 Adjustment 
@@ -5973,7 +5936,7 @@ Adjustments
  As at 
 31.03.2017 
  As at 
-31.03.2017 **
+31.03.2017**
 
  Freehold Land 
 16,03,25,082
@@ -6074,7 +6037,7 @@ Adjustments
 2,59,06,884
 1,69,80,287
 
-** Total 
+**Total 
 81,06,77,860
 18,58,02,475
 2,64,02,006
@@ -6088,7 +6051,7 @@ Adjustments
 **Following are the changes in the carrying value of property, plant and equipment for the year ended 31st March, 2016: 
 (Amt. in `)**
 
-** Gross Carrying Value 
+**Gross Carrying Value 
  Depreciation / Amortisation 
  Net Carrying 
 Value 
@@ -6110,7 +6073,7 @@ Adjustments
  As at 
 31.03.2016 
  As at 
-31.03.2016 **
+31.03.2016**
 
  Freehold Land 
 16,03,25,082
@@ -6200,7 +6163,7 @@ Adjustments
 2,32,37,346
 1,52,11,563
 
-** Total 
+**Total 
 80,35,29,147
 2,02,34,771
 1,30,86,058
@@ -6213,23 +6176,23 @@ Adjustments
 
 **Notes on Standalone Financial Statements for the Year Ended 31st March, 2017**
 
-**12.1  Building includes ` 250/- in respect of shares held in the Society.**
+**12.1 Building includes ` 250/- in respect of shares held in the Society.**
 
-**12.2  In respect of fixed assets acquired on finance lease on or after 1st April, 2001, the minimum lease rental outstanding as 
+**12.2 In respect of fixed assets acquired on finance lease on or after 1st April, 2001, the minimum lease rental outstanding as 
 on 31st March, 2017 are as follows**
 
-** (Amt in ` ) **
+**(Amt in ` )**
 
-** Particulars 
+**Particulars 
  Total minimum lease 
 payments outstanding  
-As at 31st March **
+As at 31st March**
 
-** Future interest on 
+**Future interest on 
 outstanding lease payments 
  Present value of minimum 
 lease payments  
-As at 31st March **
+As at 31st March**
 
 **2017
 2016
@@ -6238,7 +6201,7 @@ As at 31st March **
 2017
 2016**
 
-** Within one year 
+**Within one year 
 3,18,07,510
  66,67,519
  76,23,657
@@ -6246,9 +6209,9 @@ As at 31st March **
 2,41,83,853
  51,65,593**
 
-** Later than one year and not later **
+**Later than one year and not later**
 
-** than five years 
+**than five years 
 7,25,16,192
 1,32,44,753
  89,01,242
@@ -6256,7 +6219,7 @@ As at 31st March **
 6,36,14,950
 1,16,87,894**
 
-** Total 
+**Total 
 10,43,23,702
 1,99,12,272
 1,65,24,899
@@ -6277,17 +6240,16 @@ period.**
 
 **13 INTANGIBLE ASSETS :**
 
-** 
-Following are the changes in the carrying value of acquired intangible assets for the year ended 31st March, 2017: (Amt in ` )**
+**Following are the changes in the carrying value of acquired intangible assets for the year ended 31st March, 2017: (Amt in ` )**
 
 **Description 
  Gross Carrying Value 
  Depreciation / Amortisation 
  Net 
 Carrying 
-Value **
+Value**
 
-** As at 
+**As at 
 01.04.2016 
  Additions / 
 Adjustment 
@@ -6304,7 +6266,7 @@ Adjustments
  As at 
 31.03.2017 
  As at 
-31.03.2017 **
+31.03.2017**
 
 Licence Software 
 2,31,44,092
@@ -6328,16 +6290,15 @@ Licence Software
 2,29,02,643
  7,48,599**
 
-** 
-Following are the changes in the carrying value of acquired intangible assets for the year ended 31st March, 2016:  (Amt in ` )**
+**Following are the changes in the carrying value of acquired intangible assets for the year ended 31st March, 2016:  (Amt in ` )**
 
-** Description 
+**Description 
  Gross Carrying Value 
  Depreciation / Amortisation 
  Net Carrying 
-Value **
+Value**
 
-** As at 
+**As at 
 01.04.2015 
  Additions / 
 Adjustment 
@@ -6354,7 +6315,7 @@ Adjustments
  As at 
 31.03.2016 
  As at 
-31.03.2016 **
+31.03.2016**
 
  Licence Software 
 2,28,63,820
@@ -6367,7 +6328,7 @@ Adjustments
 2,23,30,995
  8,13,097
 
-** Total 
+**Total 
 2,28,63,820
  2,80,272
  - 
@@ -6488,7 +6449,7 @@ Non Trade Unquoted
  1,34,900
 
 Investments in Subsidiary 
-10000 DelivrEx India Ltd of ` 10/- each 
+10000 Delivrex India Ltd of ` 10/- each 
  1,00,000
  - 
  (_)  
@@ -6535,7 +6496,6 @@ Investments in Debentures - Quoted
  Reliance Yield Maximiser AIF Scheme III
 1,00,00,000
  - 
-
 2,50,00,000
  - 
 
@@ -6593,7 +6553,7 @@ Investments in Debentures - Quoted
 16  CURRENT INVESTMENTS 
  `
  `
- (short Term Investments) 
+ (Short Term Investments) 
  Investments in Equity Shares 
  Trade Quoted 
  1000 Blue Dart Express Ltd. of ` 10/- each
@@ -6711,7 +6671,7 @@ TOTAL
  Cash on Hand 
  91,13,635
 1,14,02,827
- Cheque in Transit 
+ Cheque in transit 
  - 
 1,21,80,645
  Other Bank Balances 
@@ -6760,7 +6720,7 @@ TOTAL
 
  * includes interest receivable, cenvat receivable, claim receivable, agent receivable and octroi advance. 
 
-** As at 
+**As at 
  As at 
  31.03.2017 
  31.03.2016 
@@ -6786,7 +6746,7 @@ TOTAL
  `
  `
  Sale of Services 
- freight 
+ Freight 
 1,77,43,03,604
 1,76,30,42,307
  Co Loading and Cargo Income 
@@ -6852,7 +6812,7 @@ TOTAL
  Line Haul Transportation Expenses 
 3,11,37,327
 4,85,04,595
- Cargo freight Charges 
+ Cargo Freight Charges 
 2,04,92,70,414
 2,69,29,02,396
  Handling Charges 
@@ -6880,7 +6840,7 @@ TOTAL
 3,83,18,37,430
 4,37,32,32,533
 
-** For the Year 
+**For the Year 
  For the Year 
  2016-17 
  2015-16 
@@ -6889,7 +6849,7 @@ TOTAL
  `
  `**
 
- salaries and Wages 
+ Salaries and Wages 
 24,88,60,679
 23,97,13,307
  Contribution to Provident and Other Funds 
@@ -7009,7 +6969,7 @@ TOTAL
 3,31,29,261
  - 
  - 
- funded status 
+ Funded Status 
  (3,71,58,871)
  (3,15,69,896)
  (1,06,16,907)
@@ -7056,7 +7016,7 @@ falls on 31st March )
 3,31,29,261
  - 
  - 
- funded status 
+ Funded Status 
  (3,71,58,871)
  (3,15,69,896)
  (1,06,16,907)
@@ -7068,7 +7028,7 @@ falls on 31st March )
  (1,93,13,631)
 
  (F)  Expenses recognised in statement of Profit and Loss 
- Current service Cost 
+ Current Service Cost 
  51,42,904
  51,26,779
  78,53,064
@@ -7114,7 +7074,7 @@ TOTAL
 8,16,89,863
 9,02,21,969
 
-** For the Year 
+**For the Year 
  For the Year 
  2016-17 
  2015-16 
@@ -7138,7 +7098,7 @@ Insurance
 Printing and Stationery 
  92,66,358
 1,36,99,417
-Postage and Telegram, Internet Charges 
+Postage and Telegram, Internet charges 
  57,69,478
  59,93,439
 Conveyance and Travelling 
@@ -7192,7 +7152,6 @@ I)
 Number of shares at the beginning of the year 
 1,58,86,612
 1,51,86,612
-
  
 ii)  Total number of shares outstanding at the end of the year. 
 1,58,86,612
@@ -7219,11 +7178,11 @@ E)  Nominal Value of Shares
 **28. Payment to Auditors :**
 
 **Particulars
-For the Year  
+For the Year 
 2016 - 17
 `**
 
-For the Year  
+For the Year 
 2015 - 16
 `
 Audit Fees
@@ -7243,7 +7202,7 @@ Out of Pocket Expenses
 14,48,425 
 
  
-*includes service Tax, swachh Bharat Cess and Krishi Kalyan Cess of ` 2,53,500/- (Previous Year ` 1,83,425 /-).
+*includes service tax, swachh bharat cess and krishi kalyan cess of ` 2,53,500/- (Previous Year ` 1,83,425 /-).
 
 **29. Corporate Social Responsibility Expenditure :**
 
@@ -7260,7 +7219,7 @@ For the Year
 For the year
 2015 – 16
 ` 
-Donation to the Trust towards purchase 
+Donation to the trust towards purchase 
 of blood bank vehicle for use of Tata 
 Memorial Hospital
 
@@ -7268,10 +7227,10 @@ Other expenses (Note 26)
 16,81,700
 9,98,850
 
-** Total 
+**Total 
  
 16,81,700
- 9,98,850 **
+ 9,98,850**
 
  
 The CSR committee constituted by the Board of Directors of the Company under section 135 of the Act supervise all the 
@@ -7305,14 +7264,14 @@ For the Year
 16,81,700
  9,98,850 
 
-**30. Earnings and Expenditure in Foreign Currency : **
+**30. Earnings and Expenditure in Foreign Currency :**
 
 **Particulars
- For the Year  
+ For the Year 
 2016 - 17
 `**
 
- For the Year  
+ For the Year 
 2015 - 16
 `
 Earnings in Foreign Currency :
@@ -7335,11 +7294,11 @@ Total
 
 **Notes on Standalone Financial Statements for the Year Ended 31st March, 2017**
 
-**31. Contingent Liabilities **
+**31. Contingent Liabilities**
 
  
 i. 
-Estimated amount of contracts remaining to be executed on capital expenditure and not provided for as on  
+Estimated amount of contracts remaining to be executed on capital expenditure and not provided for as on 
 31st March, 2017 ` 5,25,154/- (Previous Year ` 5,25,154/).
 
  
@@ -7364,23 +7323,16 @@ good are as evaluated and certified by the management, which has been relied upo
 34. Balances of Trade Receivable, Trade Payable and certain loans and advances are subject to confirmation / reconciliation 
 and adjustments, if any in respect thereof.
 
-35. Other Loans and Advances under Long Term Loans & Advances includes Inter Corporate Deposits aggregating to  
+35. Other Loans and Advances under Long Term Loans & Advances includes Inter Corporate Deposits aggregating to 
 ` 1,28,27,000/- (Previous Year ` 1,28,27,000/-) due from certain companies.  Having regards to the long-term association 
 with these companies, the management is of the view that no provision is considered necessary on these accounts.
 
 36. Trade Receivable outstanding in Company books for Franchisee locations are collected by the Franchisee, as agent on 
 behalf of the Company.
 
-**37.  Segment Reporting : **
+**37.  Segment Reporting :**
 
-** 
- 
- 
- 
- 
- 
-  
- (Amt. in `)**
+**(Amt. in `)**
 
 **Segment
 Surface 
@@ -7420,16 +7372,16 @@ Segment Result
 (1,94,02,793)
 (17,54,71,114)
 (37,10,69,050)
-Unallocated Corporate Expenses
+Unallocated corporate expenses
 19,61,78,989
 (19,66,89,956)
 Operating Profits
 12,60,83,036
 (17,43,79,094)
-Interest Expenses
+Interest expenses
 8,16,89,863
 (9,02,21,969)
-Interest / Dividend Income
+Interest / dividend income
 2,64,03,373
 (1,46,15,641)
 Other Income
@@ -7452,7 +7404,7 @@ Total**
 
 **Other Information**
 
-segment Assets
+Segment assets
 1,01,49,03,047
 8,37,65,274
 70,55,52,897
@@ -7463,7 +7415,7 @@ segment Assets
 (72,18,10,202)
 (1,65,08,73,863)
 
-Unallocated Corporate Assets
+Unallocated corporate assets
 27,26,72,400
 
 (36,68,75,449)
@@ -7490,7 +7442,7 @@ Segment Liabilities
 (38,20,81,772)
 (81,41,82,828)
 
-Unallocated Corporate Liabilities
+Unallocated corporate liabilities
 1,30,26,07,159
 
 (120,35,66,484)
@@ -7517,12 +7469,12 @@ Capital Expenditure
 (1,20,78,451)
 (2,05,15,043)
 
-Unallocated Corporate Capital Expenditure
+Unallocated corporate capital expenditure
 --
 
 (--)
 
-Total Capital Expenditure
+Total Capital expenditure
 17,42,28,981
 --
 1,20,80,644
@@ -7533,7 +7485,7 @@ Total Capital Expenditure
 (1,20,78,451)
 (2,05,15,043)
 
-Depreciation and Amortization
+Depreciation and amortization
 2,74,28,717
 2,70,012
 1,32,67,382
@@ -7544,12 +7496,12 @@ Depreciation and Amortization
 (1,36,87,403)
 (4,18,48,047)
 
-Unallocated Depreciation and Amoritzation
+Unallocated depreciation and amoritzation
 10,89,530
 
 (9,63,484)
 
-Total Depreciation and Amortization
+Total depreciation and amortization
 2,74,28,717
 2,70,012
 1,32,67,382
@@ -7572,7 +7524,7 @@ are under common control with, the reporting enterprise (Clause 3(a) of AS 18).
 
  
  
-DelivrEx India Limited (Wholly Owned Subsidiary)
+Delivrex India Limited (Wholly Owned Subsidiary)
 
  
 B) Individuals owning directly or indirectly an interest in the voting power of the reporting enterprise that gives 
@@ -7600,66 +7552,43 @@ Mr. Nitin Akolkar
 
 **Notes on Standalone Financial Statements for the Year Ended 31st March, 2017**
 
-** 
-D) Enterprises over which any person described in (A) or (B) is able to exercise significant influence  
+**D) Enterprises over which any person described in (A) or (B) is able to exercise significant influence 
 (Clause 3(e) of AS 18)**
 
-** 
- 
-a) 
+**a) 
 Wall Street Securities & Investment (India) Ltd.**
 
-** 
- 
-b) 
+**b) 
 Transways Combines Pvt. Ltd.**
 
-** 
- 
-c) 
+**c) 
 Patel Real Estate Developers Pvt. Ltd.**
 
-** 
- 
-d) 
+**d) 
 One Capitall Ltd.**
 
-** 
- 
-e) 
+**e) 
 Patel Holdings Ltd.**
 
-** 
- 
-f) 
+**f) 
 Wall Street Derivatives and Financial Services (India) Pvt. Ltd.**
 
-** 
- 
-g) 
+**g) 
 Natasha Constructions Pvt. Ltd.**
 
-** 
- 
-h) 
+**h) 
 Natasha Homes Pvt. Ltd.**
 
-** 
- 
-i) 
+**i) 
 Natasha Construction Projects Pvt. Ltd.**
 
-** 
- 
-j) 
+**j) 
 A. S. Patel Trust**
 
-** 
- 
-k) 
+**k) 
 Goldman (Patel Family) Beneficiaries Trust.**
 
-** (Amt. in `)**
+**(Amt. in `)**
 
 **Sr.
 Particulars
@@ -7795,7 +7724,7 @@ Investment
 11.
 Investment
 
-DelivrEx India Limited.
+Delivrex India Limited.
 1,00,000
 --
 --
@@ -7821,7 +7750,7 @@ A S Patel Trust
 13.
 Loans and Advances
 
-DelivrEx India Limited.
+Delivrex India Limited.
 38,34,836
 --
 --
@@ -7831,19 +7760,15 @@ DelivrEx India Limited.
 --
 --
 
-** 
-Above figures are excluding Service Tax, Swachh Bharat Cess and Krishi Kalyan Cess, wherever applicable.**
+**Above figures are excluding Service Tax, Swachh Bharat Cess and Krishi Kalyan Cess, wherever applicable.**
 
-** 
-NOTES :**
+**NOTES :**
 
-** 
-i. 
+**i. 
 The godown deposit is treated as property deposit pending final outcome of application filed by the Company for 
 recovery of possession in the Court of Additional Rent Controller , Central District, Tiz Hazari Court, New Delhi.**
 
-** 
-ii. 
+**ii. 
 There are no provisions for doubtful debts or amounts written off or written back during the year for debts due from 
 or to related parties.**
 
@@ -7857,7 +7782,7 @@ G.S.R. 308(E) dated March 30, 2017 on the details of Specified Bank Notes (SBN) 
 from November 08, 2016 to December 30, 2016, the denomination wise SBN's and other notes as per the notification is 
 given below:
 
-** (Amt. in `)**
+**(Amt. in `)**
 
 **Particulars
 SBN’s
@@ -7888,7 +7813,7 @@ Closing Cash on Hand as on December 30,2016
 
  
 *For the purpose of this clause , the term “ Specified Bank Notes” shall have the same meaning provided in the notification 
-of the Government on India , in the Ministry of Finance , Department of Economic Affairs , Number S. O. 3407 (E), dated 
+of the Government on India , in the Ministry of Finance , Department of Economic Affairs , number S. O. 3407 (E), dated 
 November 08, 2016.
 
 41. Previous year’s figures are regrouped/restated wherever required. 
@@ -7900,7 +7825,7 @@ Chartered Accountants
 (Registration No. 107565W)
 
 M. S. PARIKH
-AREEF A. PATEL
+Areef A. PATEL
 P. S. G. NAIR
 Partner
 Executive Vice Chairman
@@ -7908,10 +7833,10 @@ Director
 Membership No. 08684
 
 Mumbai,
-NITIN B. AKOLKAR
+Nitin B. AKOLKAR
 MAHESH FOGLA
 Dated : 26th May, 2017
-Company secretary
+Company Secretary
 Chief Financial Officer
 
 **Notes on Standalone Financial Statements for the Year Ended 31st March, 2017**
@@ -7926,7 +7851,7 @@ Patel Integrated Logistics Limited**
 
 We have audited the accompanying consolidated financial statements of Patel Integrated Logistics Limited (hereinafter 
 referred as “the Holding Company”) and its subsidiaries (the holding company and its subsidiaries together referred to as “the 
-Group”), comprising of the Consolidated Balance Sheet as at March 31, 2017, the Consolidated Statement of Profit and Loss, 
+Group”), comprising of the consolidated Balance Sheet as at March 31, 2017, the consolidated Statement of Profit and Loss, 
 the consolidated Cash flow statement for the year then ended, and a summary of significant accounting policies and other 
 explanatory information (herein after referred to as “the consolidated financial statements”)  
 
@@ -8130,7 +8055,7 @@ Chartered Accountants
 (Registration No. 107565W)**
 
 **M. S. PARIKH
-AREEF A. PATEL
+Areef A. PATEL
 P. S. G. NAIR
 Partner
 Executive Vice Chairman
@@ -8138,7 +8063,7 @@ Director
 Membership No. 08684**
 
 **Mumbai,
-NITIN B. AKOLKAR
+Nitin B. AKOLKAR
 MAHESH FOGLA
 Dated : 26th May, 2017
 Company Secretary
@@ -8146,12 +8071,12 @@ Chief Financial Officer**
 
 **CONSOLIDATED BALANCE SHEET AS AT 31ST MARCH, 2017**
 
-** Note
+**Note
 No. 
 `**
 
  As At 
- 31.03.2017  
+ 31.03.2017 
 `
  EQUITY AND LIABILITIES 
  Shareholders' Funds 
@@ -8241,7 +8166,7 @@ Chartered Accountants
 (Registration No. 107565W)**
 
 **M. S. PARIKH
-AREEF A. PATEL
+Areef A. PATEL
 P. S. G. NAIR
 Partner
 Executive Vice Chairman
@@ -8249,7 +8174,7 @@ Director
 Membership No. 08684**
 
 **Mumbai,
-NITIN B. AKOLKAR
+Nitin B. AKOLKAR
 MAHESH FOGLA
 Dated : 26th May, 2017
 Company Secretary
@@ -8257,12 +8182,12 @@ Chief Financial Officer**
 
 **CONSOLIDATED PROFIT AND LOSS STATEMENT FOR THE YEAR ENDED 31ST MARCH, 2017**
 
-** Note 
+**Note 
  No. 
  For the Year 
- 2016-17  
+ 2016-17 
 ` 
-INCOME **
+INCOME**
 
 Revenue from Operations 
 21
@@ -8273,7 +8198,7 @@ Other Income
 Total Revenue 
 4,58,73,42,780
 
-**EXPENSES **
+**EXPENSES**
 
 Operating Cost 
 23
@@ -8296,7 +8221,7 @@ Total Expenses
 **Profit Before Tax 
 9,20,76,814**
 
-**Tax Expense **
+**Tax Expense**
 
 Current Tax 
 1,81,00,000
@@ -8307,7 +8232,7 @@ Deferred Tax
 Profit for the year 
 7,01,22,797
 
-**Earning per Equity Share of face value of ` 10/- each **
+**Earning per Equity Share of face value of ` 10/- each**
 
 Basic (in `) 
 27
@@ -8324,14 +8249,14 @@ Notes on Financial Statements
 
 **CONSOLIDATED CASH FLOW STATEMENT FOR THE YEAR ENDED 31ST MARCH, 2017**
 
-** ` **
+**`**
 
-** Year Ended 
+**Year Ended 
  31.03.2017 
- ` **
+ `**
 
 **A:
-CASH FLOW FROM OPERATING ACTIVITIES : **
+CASH FLOW FROM OPERATING ACTIVITIES :**
 
 Net Profit Before Tax as per Profit and Loss Account 
 9,20,76,814
@@ -8379,11 +8304,11 @@ Operating Profit Before Working Capital Changes
 
 **4,65,67,514**
 
-** Net Cash from Operating Activities 
+**Net Cash from Operating Activities 
 14,67,31,094**
 
 **B:
-CASH FLOW FROM INVESTING ACTIVITIES : **
+CASH FLOW FROM INVESTING ACTIVITIES :**
 
  Purchase of Fixed Assets 
 (18,74,97,501)
@@ -8406,17 +8331,17 @@ CASH FLOW FROM INVESTING ACTIVITIES : **
  Dividend Received 
  26,83,514
 
-** Net Cash (used in) Investing Activities 
+**Net Cash (used in) Investing Activities 
 (16,92,37,139)**
 
-** ` **
+**`**
 
-** Year Ended 
+**Year Ended 
  31.03.2017 
- ` **
+ `**
 
 **C:
- CASH FLOW FROM FINANCING ACTIVITIES : **
+ CASH FLOW FROM FINANCING ACTIVITIES :**
 
  Proceeds from Public Deposits (Net) 
  25,86,000
@@ -8433,7 +8358,7 @@ CASH FLOW FROM INVESTING ACTIVITIES : **
  Dividend Paid 
  (92,28,900)
 
-** Net Cash (used in) / from Financing Activities 
+**Net Cash (used in) / from Financing Activities 
  (8,40,65,331)**
 
  Net Increase / (Decrease) in Cash and Cash Equivalents 
@@ -8469,7 +8394,7 @@ Chartered Accountants
 (Registration No. 107565W)**
 
 **M. S. PARIKH
-AREEF A. PATEL
+Areef A. PATEL
 P. S. G. NAIR
 Partner
 Executive Vice Chairman
@@ -8477,7 +8402,7 @@ Director
 Membership No. 08684**
 
 **Mumbai,
-NITIN B. AKOLKAR
+Nitin B. AKOLKAR
 MAHESH FOGLA
 Dated : 26th May, 2017
 Company Secretary
@@ -8488,7 +8413,7 @@ Chief Financial Officer**
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
 **1. 
-Significant Accounting Policies **
+Significant Accounting Policies**
 
 a. 
 Basis for preparation of Financial Statements:
@@ -8761,14 +8686,14 @@ economic benefits is remote. Contingent Assets are neither recognized nor disclo
  Equity Shares at the end of the year 
 1,58,86,612
 
-**2.2 Rights, preferences and restrictions attached to the equity shares - **
+**2.2 Rights, preferences and restrictions attached to the equity shares -**
 
  
 The Company has one class of equity shares having a par value of ` 10/- per share. Each shareholder is eligible for one 
 vote per share held. The dividend proposed by the Board of Directors is subject to the approval of the shareholders in 
 the ensuing Annual General Meeting, except in case of interim dividend.
 
-**2.3 The details of Shareholders holding more than 5 % shares : **
+**2.3 The details of Shareholders holding more than 5 % shares :**
 
  Name of the Shareholders 
  As At 31.03.2017 
@@ -8789,17 +8714,16 @@ the ensuing Annual General Meeting, except in case of interim dividend.
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
-** 
- ` **
+**`**
 
-** As at 
+**As at 
  31.03.2017 
- ` **
+ `**
 
 **3
 RESERVES AND SURPLUS**
 
-**Capital Reserve **
+**Capital Reserve**
 
 As per last Standalone Balance Sheet 
 1,27,33,553
@@ -8812,7 +8736,7 @@ Add : Profit on sale of Land
  Capital Redemption Reserve 
  18,60,000
 
-** Securities Premium Reserve **
+**Securities Premium Reserve**
 
  As per last Standalone Balance Sheet 
 32,00,75,337
@@ -8822,7 +8746,7 @@ Add : Profit on sale of Land
 
 31,90,59,214
 
-** General Reserve **
+**General Reserve**
 
  As per last Standalone Balance Sheet 
 44,78,23,518
@@ -8832,9 +8756,9 @@ Add : Profit on sale of Land
 
 46,78,23,518
 
-** Other Reserve **
+**Other Reserve**
 
-** Contingency Reserve **
+**Contingency Reserve**
 
  (To meet contingencies) 
 
@@ -8851,7 +8775,7 @@ Add : Profit on sale of Land
 
 5,29,17,169
 
-** Profit and Loss Account **
+**Profit and Loss Account**
 
  As per last Standalone Balance Sheet 
 6,30,79,843
@@ -8879,7 +8803,7 @@ Add : Profit on sale of Land
 
 7,86,42,263
 
-** TOTAL 
+**TOTAL 
 96,65,30,174**
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
@@ -8916,7 +8840,7 @@ MONEY RECEIVED AGAINST SHARE WARRANTS
  Term Loan 
  - 
 39,587
- Deposit Accepted from Public 
+ Deposit accepted from public 
 11,65,68,000
 3,27,60,000
 11,65,68,000
@@ -8925,69 +8849,69 @@ MONEY RECEIVED AGAINST SHARE WARRANTS
 18,01,82,950
 5,70,44,220
 
-**5.1 Deferred payment liabilities referred above are secured by way of mortgage of trucks and motor cars. **
+**5.1 Deferred payment liabilities referred above are secured by way of mortgage of trucks and motor cars.**
 
 5.2 Term loan liability referred above is secured by office premises located at Unit No. 504, 5th Floor, The Crescent Business 
 Park, Andheri Kurla Road, Sakinaka, Andheri (E), Mumbai - 400 072.
 
-** As at 
+**As at 
  31.03.2017 
- ` **
+ `**
 
 **6
-DEFERRED TAX LIABILITY (Net) **
+DEFERRED TAX LIABILITY (Net)**
 
-**Deferred Tax Liability **
+**Deferred Tax Liability**
 
 Related to Fixed Assets 
 2,38,91,275
 
-**Deferred Tax Liability / (Assets) **
+**Deferred Tax Liability / (Assets)**
 
 Disallowances under the Income Tax Act, 1961 
  18,87,877
 
-**   TOTAL 
+**TOTAL 
 2,57,79,152**
 
-** As at 
+**As at 
  31.03.2017 
- ` **
+ `**
 
 **7
-OTHER LONG TERM LIABILITIES **
+OTHER LONG TERM LIABILITIES**
 
 Deposits* 
 2,64,22,647
 
-**   TOTAL 
+**TOTAL 
 2,64,22,647**
 
 * Deposits includes deposits from Transporters, Customers, Franchisees and others. 
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
-** As at 
+**As at 
  31.03.2017 
  `**
 
 **8
- SHORT TERM BORROWINGS **
+ SHORT TERM BORROWINGS**
 
-** Secured - Loans repayable on demand **
+**Secured - Loans repayable on demand**
 
  Working Capital Loans from Banks 
 37,81,15,201
 
-** Unsecured **
+**Unsecured**
 
  Working Capital Loans from Banks and Others 
  1,22,208
 
-** TOTAL 
+**TOTAL 
 37,82,37,409**
 
-**8.1 Working Capital Loans from Banks : **
+**8.1 Working Capital Loans from Banks :**
 
  
 Secured by : 
@@ -9005,12 +8929,12 @@ Collateral Security -
  
 - Equitable Mortgage of certain properties owned situated at Mumbai and Thane.
 
-** As at 
+**As at 
  31.03.2017 
- ` **
+ `**
 
 **9
- TRADE PAYABLES **
+ TRADE PAYABLES**
 
  Acceptances 
 7,10,00,000
@@ -9018,7 +8942,7 @@ Collateral Security -
  Others 
 3,35,30,770
 
-** TOTAL 
+**TOTAL 
 10,45,30,770**
 
 9.1 The Company has not received any intimation from its vendors regarding their status under Micro, Small and Medium 
@@ -9026,15 +8950,14 @@ Enterprises Development Act, 2006 and hence the disclosure, if any under the sai
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
-** 
- ` **
+**`**
 
-** As at 
+**As at 
  31.03.2017 
- ` **
+ `**
 
 **10
- OTHER CURRENT LIABILITIES **
+ OTHER CURRENT LIABILITIES**
 
  Current Maturities of Public Deposits 
 3,23,03,000
@@ -9054,7 +8977,7 @@ Enterprises Development Act, 2006 and hence the disclosure, if any under the sai
  Unclaimed Matured Deposits and Interest Accrued thereon 
  9,18,329
 
-** Other Payables **
+**Other Payables**
 
  Staff Advance 
 51,694
@@ -9079,17 +9002,17 @@ Enterprises Development Act, 2006 and hence the disclosure, if any under the sai
 
 3,66,06,136
 
-** TOTAL 
+**TOTAL 
 10,47,38,155**
 
  * Includes Agency payables, etc. 
 
-** As at 
+**As at 
  31.03.2017 
  `**
 
 **11
- SHORT TERM PROVISIONS **
+ SHORT TERM PROVISIONS**
 
  Provisions for Leave Encashment 
 1,06,16,907
@@ -9103,23 +9026,22 @@ Enterprises Development Act, 2006 and hence the disclosure, if any under the sai
  Provision for Income Tax 
 8,46,00,000
 
-** TOTAL 
+**TOTAL 
 10,47,77,284**
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
 **12 PROPERTY, PLANT AND EQUIPMENT**
 
-** 
-Following are the changes in the carrying value of property, plant and equipment for the year ended 31st March, 2017:**
+**Following are the changes in the carrying value of property, plant and equipment for the year ended 31st March, 2017:**
 
 **(Amt. in ` )**
 
-** Gross Carrying Value 
+**Gross Carrying Value 
  Depreciation / Amortisation 
- Net Carrying Value **
+ Net Carrying Value**
 
-** Description 
+**Description 
  As at  
 01.04.2016 
  Additions / 
@@ -9136,7 +9058,7 @@ Adjustments
  As at  
 31.03.2017 
  As at  
-31.03.2017 **
+31.03.2017**
 
  Freehold Land 
 16,03,25,082
@@ -9237,7 +9159,7 @@ Adjustments
 2,59,06,884
 1,69,80,287
 
-** Total 
+**Total 
 81,06,77,860
 18,69,90,351
 2,64,02,006
@@ -9250,29 +9172,29 @@ Adjustments
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
-**12.1 Building includes ` 250/- in respect of shares held in the Society. **
+**12.1 Building includes ` 250/- in respect of shares held in the Society.**
 
 **12.2 In respect of fixed assets acquired on finance lease on or after 1st April, 2001, the minimum lease rental outstanding 
 as on 31st March, 2017 are as follows**
 
-** (Amt in ` ) 
+**(Amt in ` ) 
  Particulars 
  Total minimum lease 
 payments outstanding 
-As at 31st March **
+As at 31st March**
 
-** Future interest on 
+**Future interest on 
 outstanding lease 
-payments **
+payments**
 
-** Present value of 
+**Present value of 
 minimum lease 
 payments  
 As at 31st March 
 2017
 2017
 2017
- within one year 
+ Within one year 
 3,18,07,510
  76,23,657
 2,41,83,853
@@ -9290,37 +9212,36 @@ As at 31st March
 30.06.1987 and the office premises worth ` 2,48,44,368/- included in Gross Block are revalued on the basis of the 
 replacement value as at 31.03.1993. They are stated at revalued figures less accumulated depreciation.**
 
-** 12.4 The office building at Natasha, 1st Floor, Bandra, Mumbai - 400 050 is under litigation which is pending before the High 
+**12.4 The office building at Natasha, 1st Floor, Bandra, Mumbai - 400 050 is under litigation which is pending before the High 
 Court .**
 
-** 12.5 Gross carrying of leasehold land represents amounts paid under certain lease-cum-sale agreements to acquire land 
+**12.5 Gross carrying of leasehold land represents amounts paid under certain lease-cum-sale agreements to acquire land 
 including agreements where the Company has an option to purchase or renew the properties on expiry of the lease 
 period.**
 
 **13 
 INTANGIBLE ASSETS :**
 
-** 
-Following are the changes in the carrying value of acquired intangible assets for the year ended 31st March, 2017:**
+**Following are the changes in the carrying value of acquired intangible assets for the year ended 31st March, 2017:**
 
 **(Amt in ` )**
 
-** Gross Carrying Value 
+**Gross Carrying Value 
  Depreciation / Amortisation 
  Net 
 Carrying 
-Value **
+Value**
 
-** Description 
+**Description 
  As at  
 01.04.2016 
  Additions / 
 Adjustment 
  Deductions 
 / 
-Adjustments **
+Adjustments**
 
-** As at  
+**As at  
 31.03.2017 
  As at  
 01.04.2016 
@@ -9331,7 +9252,7 @@ Adjustments
  As at  
 31.03.2017 
  As at  
-31.03.2017 **
+31.03.2017**
 
  Licence 
 Software 
@@ -9344,7 +9265,7 @@ Software
 2,29,02,643
  7,48,599
 
-** Total 
+**Total 
 2,31,44,092
  5,07,150
  - 2,36,51,242
@@ -9403,7 +9324,7 @@ Power Grid Corporation of India Ltd. of ` 10/-
  
 each fully paid up
  165000 
-wall Street Finance Ltd. of ` 10/- each
+Wall street Finance Ltd. of ` 10/- each
  34,10,000
  
 fully paid up
@@ -9506,8 +9427,7 @@ TOTAL
  Aggregate book value of unquoted investments 
 3,53,74,749
 
-** 
- ` **
+**`**
 
  As at 
  31.03.2017 
@@ -9684,7 +9604,7 @@ Aggregate book value of unquoted investments
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
- For the Year  
+ For the Year 
 2016-17 
 `
 21
@@ -9702,7 +9622,7 @@ Aggregate book value of unquoted investments
  TOTAL 
 4,53,95,15,382
 
- For the Year  
+ For the Year 
 2016-17 
 `
 22
@@ -9716,7 +9636,7 @@ Aggregate book value of unquoted investments
  TOTAL 
 4,78,27,398
 
- For the Year  
+ For the Year 
 2016-17 
 `
 23
@@ -9756,12 +9676,12 @@ Aggregate book value of unquoted investments
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
- For the Year  
+ For the Year 
 2016-17 
 `
 24
  EMPLOYEE BENEFITS EXPENSE 
- Salaries and wages 
+ Salaries and Wages 
 24,88,60,679
  Contribution to Provident and Other Funds 
 2,49,15,295
@@ -9774,9 +9694,9 @@ Defined obligations - Disclosures as per Accounting Standard 15 (Revised ) are a
 
  Gratuity 
  Leave 
- 2016 - 17  
+ 2016 - 17 
 `
- 2016 - 17  
+ 2016 - 17 
 `
 (A)
  Reconciliation of changes in present value of obligations 
@@ -9877,9 +9797,9 @@ Profit and Loss
 
  Gratuity 
  Leave 
- 2016 - 17  
+ 2016 - 17 
 `
- 2016 - 17  
+ 2016 - 17 
 `
 (F)
  Expenses recognised in statement of Profit and Loss 
@@ -9927,7 +9847,7 @@ Profit and Loss
  26,65,991
  Printing and Stationery 
  92,66,358
- Postage and Telegram, Internet Charges 
+ Postage and Telegram, Internet charges 
  57,69,478
  Conveyance and Travelling 
 2,23,62,159
@@ -9956,12 +9876,12 @@ Profit and Loss
 
 **27
  EARNINGS PER SHARE ( EPS ) 
- 2016-17 **
+ 2016-17**
 
  A) Net Profit After Tax 
 7,01,22,797
 
-** B) Calculation of Weighted Average Number of Equity Share of ` 10 each **
+**B) Calculation of Weighted Average Number of Equity Share of ` 10 each**
 
  I) Number of shares at the beginning of the year 
 1,58,86,612
@@ -9999,7 +9919,7 @@ Total
 19,60,750 
 
  
-*includes Service Tax, Swachh Bharat Cess and Krishi Kalyan Cess of ` 2,55,750/- 
+*includes service tax, swachh bharat cess and krishi kalyan Cess of ` 2,55,750/- 
 
 **29. Corporate Social Responsibility Expenditure :**
 
@@ -10012,7 +9932,7 @@ Schedule in the financial statement
 For the Year
 2016 – 17
 `
-Donation to the Trust towards purchase of blood 
+Donation to the trust towards purchase of blood 
 bank vehicle for use of Tata Memorial Hospital
 Other expenses (Note 26)
 16,81,700
@@ -10042,12 +9962,12 @@ Particulars
 For the Year
 2016-17
 `
- Other Project 
+ Other project 
 16,81,700
  Total 
 16,81,700
 
-**30. Earnings and Expenditure in Foreign Currency : **
+**30. Earnings and Expenditure in Foreign Currency :**
 
 Particulars
 For the Year
@@ -10068,28 +9988,24 @@ Total
 
 **Notes on Consolidated Financial Statements for the Year Ended 31st March, 2017**
 
-**31. Contingent Liabilities **
+**31. Contingent Liabilities**
 
-** 
-i. 
-Estimated amount of contracts remaining to be executed on capital expenditure and not provided for as on  
+**i. 
+Estimated amount of contracts remaining to be executed on capital expenditure and not provided for as on 
 31st March, 2017 ` 5,25,154/- .**
 
-** 
-ii. 
+**ii. 
 Counter guarantees given to Banks and to Mr. Areef Patel, Executive Vice Chairman for guarantees provided 
 by them against credit facilities ` 77,10,05,000/-, for which no monetary benefit has accrued to Mr. Areef Patel, 
 Executive Vice Chairman.**
 
-** 
-iii. Claims against the Company not acknowledged as debts ` 6,08,16,950/-.**
+**iii. Claims against the Company not acknowledged as debts ` 6,08,16,950/-.**
 
-** 
-iv. On account of CSR ` NIL.**
+**iv. On account of CSR ` NIL.**
 
 **32. Trade Receivable against whom the Company has filed the legal suits for recovery are being reviewed by the legal 
 department on year-to-year basis. The Management is hopeful of recovery of these amounts. Accordingly no provision 
-has been made for any loss, which may occur on this account. **
+has been made for any loss, which may occur on this account.**
 
 **33. Classification of Trade Receivable as secured and Trade Receivable / loans and advances as unsecured considered 
 good are as evaluated and certified by the management, which has been relied upon by the auditors.**
@@ -10097,7 +10013,7 @@ good are as evaluated and certified by the management, which has been relied upo
 **34. Balances of Trade Receivable, Trade Payable and certain loans and advances are subject to confirmation / reconciliation 
 and adjustments, if any in respect thereof.**
 
-**35. Other Loans and Advances under Long Term Loans & Advances includes Inter Corporate Deposits aggregating to  
+**35. Other Loans and Advances under Long Term Loans & Advances includes Inter Corporate Deposits aggregating to 
 ` 1,28,27,000/- due from certain companies. Having regards to the long-term association with these companies, the 
 management is of the view that no provision is considered necessary on these accounts.**
 
@@ -10146,19 +10062,19 @@ Operating Profits
 12,59,39,853
 Interest Expenses
 8,16,90,437
-Interest / Dividend Income
+Interest / dividend income
 2,64,03,373
 Other Income
 2,14,24,025
 Net Profit
 9,20,76,814
 Other Information
-Segment Assets
+Segment assets
 1,01,49,03,047
 8,37,65,274
 70,55,52,897
 1,80,42,21,218
-Unallocated Corporate Assets
+Unallocated Corporate assets
 27,25,52,193
 Total Assets
 1,01,49,03,047
@@ -10170,7 +10086,7 @@ Segment Liabilities
 48,90,208
 33,25,58,682
 77,42,86,459
-Unallocated Corporate Liabilities
+Unallocated Corporate liabilities
 1,30,24,86,952
 Total Liabilities
 43,68,37,569
@@ -10182,21 +10098,21 @@ Capital Expenditure
 --
 1,20,80,644
 18,63,09,625
-Unallocated Corporate Capital Expenditure
+Unallocated Corporate capital expenditure
 11,87,876
 Total Capital expenditure
 17,42,28,981
 --
 1,20,80,644
 18,74,97,501
-Depreciation and Amortization
+Depreciation and amortization
 2,74,28,717
 2,70,012
 1,32,67,382
 4,09,66,111
-Unallocated Depreciation and Amoritzation
+Unallocated depreciation and amoritzation
 12,08,222
-Total Depreciation and Amortization
+Total depreciation and amortization
 2,74,28,717
 2,70,012
 1,32,67,382
@@ -10293,14 +10209,7 @@ A. S. Patel Trust
 k) 
 Goldman (Patel Family) Beneficiaries Trust.
 
-** 
- 
- 
- 
- 
- 
-  
- (Amt. in `)**
+**(Amt. in `)**
 
 **Sr. 
 No.
@@ -10345,9 +10254,7 @@ A S Patel Trust
  
 Above figures are excluding Service Tax, Swachh Bharat Cess and Krishi Kalyan Cess, wherever applicable.
 
-** 
- 
-NOTES :**
+**NOTES :**
 
  
  
@@ -10374,14 +10281,7 @@ G.S.R. 308(E) dated March 30, 2017 on the details of Specified Bank Notes (SBN) 
 from November 08, 2016 to December 30, 2016, the denomination wise SBN’s and other notes as per the notification is 
 given below:
 
-** 
- 
- 
- 
- 
- 
-  
- (Amt. in `)**
+**(Amt. in `)**
 
 Particulars
 SBN’s
@@ -10425,7 +10325,7 @@ Chartered Accountants
 (Registration No. 107565W)
 
 M. S. PARIKH
-AREEF A. PATEL
+Areef A. PATEL
 P. S. G. NAIR
 Partner
 Executive Vice Chairman
@@ -10433,7 +10333,7 @@ Director
 Membership No. 08684
 
 Mumbai,
-NITIN B. AKOLKAR
+Nitin B. AKOLKAR
 MAHESH FOGLA
 Dated : 26th May, 2017
 Company Secretary
@@ -10541,7 +10441,7 @@ the Company.
 For and on behalf of the Board
 
 AREEF A. PATEL 
-P.S.G. NAIR 
+P.S.G. Nair 
 NITIN B. AKOLKAR 
 MAHESH FOGLA
 Executive Vice Chairman 
@@ -10671,7 +10571,6 @@ Against
 31st March 2017 and the Reports of the Auditors thereon.
 2
 Declaration of  dividend on the Equity Shares for the Financial year ended March 31, 2017. 
-
 3
 Re-appointment of  Mr. Syed K. Husain (DIN: 03010306), who retires by rotation and, being eligible, 
 offers himself for re-appointment. 
@@ -10684,7 +10583,6 @@ Signed this _______ day of __________________ 2017
  
 ________________________ 
 ___________________________ 
-
  
 Signature of Proxy holder(s)  
 Signature of shareholder
