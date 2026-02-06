@@ -1977,7 +1977,7 @@ of the previous Financial Years, if any
    0.00
 
 (v) 
-Amount available for set o� in succeeding Financial Years [(iii) - (iv)] 
+Amount available for set o  in succeeding Financial Years [(iii) - (iv)] 
     0.00
 
 7.       Details of Unspent CSR amount for the preceding three financial years:
@@ -2172,12 +2172,6 @@ Police - Public Park
 3.00
 
 YES
-
-–
-
-–
-
-–
 
 –
 
@@ -3383,9 +3377,6 @@ FY 2020-21**
 **MALE
 MALE
 MALE
-FEMALE
-FEMALE
-FEMALE
 FEMALE
 FEMALE
 FEMALE
@@ -4664,8 +4655,7 @@ NA
 
 **Essential Indicators**
 
-**AMBIKA COTTON MILLS LIMITED
-AMBIKA COTTON MILLS LIMITED**
+**AMBIKA COTTON MILLS LIMITED**
 
 **Principle 3 :  Businesses should respect and promote the well-being of all employees, including those 
 in their value chains**
@@ -4815,8 +4805,7 @@ Response: Yes Such  services are provided
 
  
 
-**AMBIKA COTTON MILLS LIMITED
-AMBIKA COTTON MILLS LIMITED**
+**AMBIKA COTTON MILLS LIMITED**
 
 **Principle 3 :  Businesses should respect and promote the well-being of all employees, including those 
 in their value chains  (Contd...)**
@@ -7020,7 +7009,6 @@ with the criteria laid down, and recommend to the Board their appointment and re
 
 **Members' attendances at the meetings were as follows**
 
-Name of the Directors
 Name of the Directors
 Category
 No. of  Meetings attended during the 
