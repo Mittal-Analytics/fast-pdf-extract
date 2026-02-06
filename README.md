@@ -1,6 +1,6 @@
 # fast-pdf-extract
 
-A Rust backed PDF text extraction library for Python.
+Rust backed PDF text extraction library for Python.
 
 ## Features
 
@@ -8,7 +8,7 @@ A Rust backed PDF text extraction library for Python.
 - Clean bilingual PDFs
 - Mark headings in bold (basic markdown)
 - High accuracy
-- Peformance
+- Performance
 
 
 ## Development
