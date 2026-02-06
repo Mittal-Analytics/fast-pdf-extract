@@ -22,6 +22,9 @@ uv run python -m unittest
 # publishing
 maturin build --release
 maturin publish
+
+# updating
+cargo update
 ```
 
 ### Troubleshooting

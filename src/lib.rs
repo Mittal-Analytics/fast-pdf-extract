@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-use mupdf::page::StextPage;
+use mupdf::{page::StextPage, TextPageFlags};
 use pyo3::{
     exceptions::{PyIOError, PyValueError},
     prelude::*,
@@ -187,7 +187,14 @@ fn get_pages(filename: String) -> PyResult<Vec<String>> {
         .pages()
         .map_err(to_pyerr)?
         .filter_map(|page| {
-            let stext_json = page.ok()?.stext_page_as_json_from_page(1.0).ok()?;
+            let stext_json = page
+                .ok()?
+                .to_text_page(
+                    TextPageFlags::COLLECT_STYLES | TextPageFlags::USE_GID_FOR_UNKNOWN_UNICODE,
+                )
+                .ok()?
+                .to_json(1.0)
+                .ok()?;
             let stext_page: StextPage = serde_json::from_str(stext_json.as_str()).ok()?;
             Some(get_styled_paragraphs(stext_page))
         })
