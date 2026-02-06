@@ -1,14 +1,14 @@
 # fast-pdf-extract
 
-A Rust backed PDF text extraction library for Python.
+Rust backed PDF text extraction library for Python.
 
 ## Features
 
 - Detect and remove headers and footers
 - Clean bilingual PDFs
-- Mark headings in bold (basic markdown)
+- Mark headings in bold (basic Markdown)
 - High accuracy
-- Peformance
+- Performance
 
 
 ## Development
@@ -16,11 +16,19 @@ A Rust backed PDF text extraction library for Python.
 ```
 uv sync --only-dev
 
-# run tests
-python -m unittest
+# run tests (it rebuild automatically)
+uv run python -m unittest
 
 # publishing
 maturin build --release
 maturin publish
 ```
 
+### Troubleshooting
+
+If `cargo build` complains of missing python version.
+
+```
+cargo clean
+cargo build
+```

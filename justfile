@@ -2,5 +2,5 @@ set fallback
 
 [positional-arguments]
 @test *args='':
-	python -m unittest $@
+	uv run python -m unittest $@
 

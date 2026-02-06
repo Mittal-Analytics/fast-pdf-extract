@@ -39,6 +39,6 @@ class TestCases(TestCase):
         pages = fast_pdf_extract.get_pages("tests/test_files/bad-json.pdf")
         compare_snapshot("\n\n".join(pages), "tests/test_files/bad-json.txt")
 
-    def test_only_images_unicode(self):
+    def test_only_images_unicode_jatalia(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/jatalia.pdf")
         compare_snapshot("\n\n".join(pages), "tests/test_files/jatalia.txt")
