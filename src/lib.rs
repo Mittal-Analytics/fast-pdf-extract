@@ -146,7 +146,11 @@ fn is_non_english(text: &str) -> bool {
         };
     }
 
-    bad_words_count > 4 && bad_words_count as f64 > original_count as f64 * 0.1
+    let bad_char_count = text.chars().filter(|c| !c.is_ascii()).count();
+    let char_count = text.chars().count();
+
+    (bad_words_count > 4 && bad_words_count as f64 > original_count as f64 * 0.1)
+        || (char_count > 5 && bad_char_count > (char_count / 2))
 }
 
 fn remove_non_english(pages: Pages) -> Pages {
