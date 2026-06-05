@@ -9,7 +9,7 @@ name = "fast_pdf_extract"
 crate-type = ["cdylib"]
 
 [dependencies]
-mupdf = { version = "0.6.0", features = ["serde"] }
-pyo3 = "0.23.3"
+mupdf = { version = "0.7.0", features = ["serde"] }
+pyo3 = "0.28.3"
 serde = "1.0.218"
 serde_json = "1.0.138"
