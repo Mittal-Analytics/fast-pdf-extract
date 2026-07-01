@@ -37,6 +37,9 @@ class TestCases(TestCase):
 
     def test_bad_json(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/bad-json.pdf")
+        # Malformed pages are returned as empty pages to keep page indexes stable.
+        self.assertEqual(len(pages), 64)
+        self.assertEqual(pages[0], "")
         compare_snapshot("\n\n".join(pages), "tests/test_files/bad-json.txt")
 
     def test_only_images_unicode_jatalia(self):
