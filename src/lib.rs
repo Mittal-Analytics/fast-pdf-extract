@@ -167,7 +167,9 @@ fn remove_non_english(pages: Pages) -> Pages {
                 after_len += paragraph.len();
             }
         }
-        if after_page.len() > 0 {
+        // Preserve pages that had no extracted text to keep page count stable,
+        // but keep the old behavior of dropping pages emptied by non-English filtering.
+        if paragraphs.is_empty() || !after_page.is_empty() {
             after_pages.push(after_page);
         };
     }
@@ -204,7 +206,14 @@ fn get_pages(filename: String) -> PyResult<Vec<String>> {
     let pages = remove_non_english(pages);
     Ok(pages
         .iter()
-        .map(|paragraphs| paragraphs.join("\n\n"))
+        .map(|paragraphs| {
+            let page = paragraphs.join("\n\n");
+            if page.trim().is_empty() {
+                String::new()
+            } else {
+                page
+            }
+        })
         .collect())
 }
 
