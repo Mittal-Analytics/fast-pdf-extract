@@ -167,9 +167,8 @@ fn remove_non_english(pages: Pages) -> Pages {
                 after_len += paragraph.len();
             }
         }
-        if after_page.len() > 0 {
-            after_pages.push(after_page);
-        };
+        // Preserve every page so extracted pages align with the source PDF.
+        after_pages.push(after_page);
     }
 
     if (after_len as f64) < (0.9 * before_len as f64) {
@@ -186,17 +185,24 @@ fn get_pages(filename: String) -> PyResult<Vec<String>> {
     let mut pages = document
         .pages()
         .map_err(to_pyerr)?
-        .filter_map(|page| {
-            let stext_json = page
-                .ok()?
-                .to_text_page(
-                    TextPageFlags::COLLECT_STYLES | TextPageFlags::USE_GID_FOR_UNKNOWN_UNICODE,
-                )
-                .ok()?
-                .to_json(1.0)
-                .ok()?;
-            let stext_page: StextPage = serde_json::from_str(stext_json.as_str()).ok()?;
-            Some(get_styled_paragraphs(stext_page))
+        .map(|page| {
+            // Page extraction can fail for malformed PDFs. Keep an empty page
+            // instead of shifting all later page indexes.
+            let Ok(page) = page else {
+                return vec![];
+            };
+            let Ok(text_page) = page.to_text_page(
+                TextPageFlags::COLLECT_STYLES | TextPageFlags::USE_GID_FOR_UNKNOWN_UNICODE,
+            ) else {
+                return vec![];
+            };
+            let Ok(stext_json) = text_page.to_json(1.0) else {
+                return vec![];
+            };
+            let Ok(stext_page) = serde_json::from_str(stext_json.as_str()) else {
+                return vec![];
+            };
+            get_styled_paragraphs(stext_page)
         })
         .collect::<Pages>();
 

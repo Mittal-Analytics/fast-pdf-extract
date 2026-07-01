@@ -37,6 +37,9 @@ class TestCases(TestCase):
 
     def test_bad_json(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/bad-json.pdf")
+        # Malformed pages are returned as empty pages to keep page indexes stable.
+        self.assertEqual(len(pages), 64)
+        self.assertEqual(pages[0], "")
         compare_snapshot("\n\n".join(pages), "tests/test_files/bad-json.txt")
 
     def test_only_images_unicode_jatalia(self):
@@ -46,3 +49,14 @@ class TestCases(TestCase):
     def test_strikethrough(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/strike.pdf")
         compare_snapshot("\n\n".join(pages), "tests/test_files/strike.txt")
+
+    def test_empty_pages_bank_of_maharashtra(self):
+        # Source PDF has 3 physical pages. One page has no extractable text,
+        # so get_pages should preserve page count and return an empty string for it.
+        pages = fast_pdf_extract.get_pages(
+            "tests/test_files/BANK_OF_MAHARASHTRA-532525-MARCH-2021.pdf"
+        )
+        self.assertEqual(len(pages), 3)
+        self.assertEqual(pages[1], "")
+        self.assertTrue(pages[0].strip())
+        self.assertTrue(pages[2].strip())
