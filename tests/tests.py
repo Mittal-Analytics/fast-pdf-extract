@@ -26,6 +26,8 @@ class TestCases(TestCase):
     def test_bad_file(self):
         with self.assertRaises(IOError):
             fast_pdf_extract.get_pages("tests/test_files/foo.txt")
+        with self.assertRaises(IOError):
+            fast_pdf_extract.get_page_count("tests/test_files/foo.txt")
 
     def test_null_char(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/debug-ar.pdf")
@@ -49,6 +51,14 @@ class TestCases(TestCase):
     def test_strikethrough(self):
         pages = fast_pdf_extract.get_pages("tests/test_files/strike.pdf")
         compare_snapshot("\n\n".join(pages), "tests/test_files/strike.txt")
+
+    def test_page_count_bank_of_maharashtra(self):
+        self.assertEqual(
+            fast_pdf_extract.get_page_count(
+                "tests/test_files/BANK_OF_MAHARASHTRA-532525-MARCH-2021.pdf"
+            ),
+            3,
+        )
 
     def test_empty_pages_bank_of_maharashtra(self):
         # Source PDF has 3 physical pages. One page has no extractable text,
