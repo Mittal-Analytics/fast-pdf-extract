@@ -179,6 +179,13 @@ fn remove_non_english(pages: Pages) -> Pages {
 }
 
 #[pyfunction]
+fn get_page_count(filename: String) -> PyResult<i32> {
+    let document = mupdf::pdf::document::PdfDocument::open(&filename)
+        .map_err(|err| PyIOError::new_err(err.to_string()))?;
+    document.page_count().map_err(to_pyerr)
+}
+
+#[pyfunction]
 fn get_pages(filename: String) -> PyResult<Vec<String>> {
     let document = mupdf::pdf::document::PdfDocument::open(&filename)
         .map_err(|err| PyIOError::new_err(err.to_string()))?;
@@ -217,6 +224,7 @@ fn get_pages(filename: String) -> PyResult<Vec<String>> {
 /// A Python module implemented in Rust.
 #[pymodule]
 fn fast_pdf_extract(m: &Bound<'_, PyModule>) -> PyResult<()> {
+    m.add_function(wrap_pyfunction!(get_page_count, m)?)?;
     m.add_function(wrap_pyfunction!(get_pages, m)?)?;
     Ok(())
 }

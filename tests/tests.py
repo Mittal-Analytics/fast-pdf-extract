@@ -50,6 +50,13 @@ class TestCases(TestCase):
         pages = fast_pdf_extract.get_pages("tests/test_files/strike.pdf")
         compare_snapshot("\n\n".join(pages), "tests/test_files/strike.txt")
 
+
+    def test_page_count(self):
+        page_count = fast_pdf_extract.get_page_count(
+            "tests/test_files/BANK_OF_MAHARASHTRA-532525-MARCH-2021.pdf"
+        )
+        self.assertEqual(page_count, 3)
+
     def test_empty_pages_bank_of_maharashtra(self):
         # Source PDF has 3 physical pages. One page has no extractable text,
         # so get_pages should preserve page count and return an empty string for it.
