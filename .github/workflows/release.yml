@@ -19,47 +19,31 @@ jobs:
   linux-wheel:
     runs-on: ubuntu-24.04
     timeout-minutes: 45
-    container:
-      image: ghcr.io/astral-sh/uv:python3.13-bookworm
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install build dependencies
-        run: |
-          apt-get update
-          apt-get install -y --no-install-recommends \
-            build-essential \
-            ca-certificates \
-            clang \
-            curl \
-            libfontconfig1-dev \
-            llvm \
-            patchelf \
-            pkg-config
-
-      - name: Install Rust
-        run: |
-          curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs \
-            | sh -s -- -y --profile minimal
-          echo "$HOME/.cargo/bin" >> "$GITHUB_PATH"
-
-      - name: Cache cargo
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cargo/registry
-            ~/.cargo/git
-            target
-          key: release-cargo-${{ runner.os }}-${{ hashFiles('Cargo.lock') }}
-
       - name: Build Linux wheel
         run: |
-          uvx --from 'maturin>=1.8,<2.0' maturin build \
-            --release \
-            --interpreter python3.13 \
-            --compatibility manylinux_2_36 \
-            --auditwheel repair \
-            --out dist
+          docker run --rm --platform linux/amd64 \
+            -v "${{ github.workspace }}:/io" \
+            -w /io \
+            ghcr.io/astral-sh/uv:python3.13-bookworm \
+            bash -lc '
+              apt-get update &&
+              apt-get install -y --no-install-recommends \
+                build-essential ca-certificates clang curl \
+                libfontconfig1-dev llvm patchelf pkg-config &&
+              curl --proto "=https" --tlsv1.2 -sSf https://sh.rustup.rs \
+                | sh -s -- -y --profile minimal &&
+              . "$HOME/.cargo/env" &&
+              uvx --from "maturin>=1.8,<2.0" maturin build \
+                --release \
+                --interpreter python3.13 \
+                --compatibility manylinux_2_36 \
+                --auditwheel repair \
+                --out dist \
+                --target-dir /tmp/fast-pdf-extract-target
+            '
 
       - name: Upload wheel artifact
         uses: actions/upload-artifact@v4
