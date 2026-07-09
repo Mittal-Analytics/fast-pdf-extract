@@ -71,8 +71,8 @@ git tag v<version>
 git push origin v<version>
 ```
 
-The `Release` GitHub workflow builds the Linux Python 3.13+ ABI3 wheel in
-`ghcr.io/astral-sh/uv:python3.13-bookworm` and publishes it to PyPI using
+The `Release` GitHub workflow builds the Linux Python 3.13+ ABI3 wheel and sdist in
+`ghcr.io/astral-sh/uv:python3.13-bookworm` and publishes them to PyPI using
 Trusted Publishing. Push a `v<version>` tag to publish a release.
 
 6. Verify PyPI shows the new version.
@@ -89,7 +89,7 @@ print(data["info"]["version"])
 PY
 ```
 
-To build the same Linux wheel locally, run:
+To build the same Linux wheel and sdist locally, run:
 
 ```bash
 docker run --rm --platform linux/amd64 \
@@ -110,7 +110,8 @@ docker run --rm --platform linux/amd64 \
       --compatibility manylinux_2_36 \
       --auditwheel repair \
       --out dist \
-      --target-dir /tmp/fast-pdf-extract-target
+      --target-dir /tmp/fast-pdf-extract-target &&
+    uvx --from "maturin>=1.8,<2.0" maturin sdist --out dist
   '
 ```
 
