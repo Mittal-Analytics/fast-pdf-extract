@@ -55,19 +55,25 @@ uv lock
 just test
 ```
 
-4. Build the release artifacts.
+4. Commit and push the release changes.
 
 ```bash
-rm -rf target/wheels dist
-uv run maturin build --release
+git add Cargo.toml Cargo.lock uv.lock
+# Add any source changes that should be part of the release.
+git commit -m "Bump version to <version>"
+git push
 ```
 
-5. Publish to PyPI.
+5. Create and push a version tag.
 
 ```bash
-# MATURIN_PYPI_TOKEN must be set in the environment.
-uv run maturin publish --skip-existing
+git tag v<version>
+git push origin v<version>
 ```
+
+The `Release` GitHub workflow builds the Linux Python 3.13+ ABI3 wheel in
+`ghcr.io/astral-sh/uv:python3.13-bookworm` and publishes it to PyPI using
+Trusted Publishing. Push a `v<version>` tag to publish a release.
 
 6. Verify PyPI shows the new version.
 
@@ -83,11 +89,29 @@ print(data["info"]["version"])
 PY
 ```
 
-7. Commit the version bump.
+To build the same Linux wheel locally, run:
 
 ```bash
-git add Cargo.toml Cargo.lock
-git commit -m "Bump version to <version>"
+docker run --rm --platform linux/amd64 \
+  -v "$PWD:/io" \
+  -w /io \
+  ghcr.io/astral-sh/uv:python3.13-bookworm \
+  bash -lc '
+    apt-get update &&
+    apt-get install -y --no-install-recommends \
+      build-essential ca-certificates clang curl \
+      libfontconfig1-dev llvm patchelf pkg-config &&
+    curl --proto "=https" --tlsv1.2 -sSf https://sh.rustup.rs \
+      | sh -s -- -y --profile minimal &&
+    . "$HOME/.cargo/env" &&
+    uvx --from "maturin>=1.8,<2.0" maturin build \
+      --release \
+      --interpreter python3.13 \
+      --compatibility manylinux_2_36 \
+      --auditwheel repair \
+      --out dist \
+      --target-dir /tmp/fast-pdf-extract-target
+  '
 ```
 
 ### Troubleshooting
