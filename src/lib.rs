@@ -6,6 +6,69 @@ use pyo3::{
     prelude::*,
 };
 
+#[cfg(any(
+    target_os = "linux",
+    target_os = "freebsd",
+    target_os = "openbsd",
+    target_os = "netbsd"
+))]
+fn ensure_writable_dir(dir: &std::path::Path) -> bool {
+    // Cache directory may not exist in containers/serverless runtimes.
+    if std::fs::create_dir_all(dir).is_err() {
+        return false;
+    }
+
+    let test_file = dir.join(format!(
+        ".fast-pdf-extract-write-test-{}",
+        std::process::id()
+    ));
+    // Permissions can allow the directory to exist but still block writes.
+    if std::fs::write(&test_file, b"").is_err() {
+        return false;
+    }
+
+    let _ = std::fs::remove_file(test_file);
+    true
+}
+
+static FONTCONFIG_CACHE_ONCE: std::sync::Once = std::sync::Once::new();
+
+fn ensure_fontconfig_cache_dir() {
+    FONTCONFIG_CACHE_ONCE.call_once(|| {
+        #[cfg(any(
+            target_os = "linux",
+            target_os = "freebsd",
+            target_os = "openbsd",
+            target_os = "netbsd"
+        ))]
+        {
+            let current_cache = std::env::var_os("XDG_CACHE_HOME")
+                .map(std::path::PathBuf::from)
+                .or_else(|| {
+                    std::env::var_os("HOME")
+                        .map(std::path::PathBuf::from)
+                        .map(|home| home.join(".cache"))
+                });
+
+            // Fontconfig needs a writable cache when resolving non-embedded fonts.
+            if current_cache
+                .as_deref()
+                .is_some_and(|dir| ensure_writable_dir(&dir.join("fontconfig")))
+            {
+                return;
+            }
+
+            let fallback_cache =
+                std::env::temp_dir().join(format!("fast-pdf-extract-cache-{}", std::process::id()));
+
+            // If even temp is not writable, leave the environment unchanged.
+            if ensure_writable_dir(&fallback_cache.join("fontconfig")) {
+                std::env::set_var("XDG_CACHE_HOME", fallback_cache);
+            }
+        }
+    });
+}
+
 fn to_pyerr<E: ToString>(err: E) -> PyErr {
     PyValueError::new_err(err.to_string())
 }
@@ -187,6 +250,8 @@ fn get_page_count(filename: String) -> PyResult<i32> {
 
 #[pyfunction]
 fn get_pages(filename: String) -> PyResult<Vec<String>> {
+    ensure_fontconfig_cache_dir();
+
     let document = mupdf::pdf::document::PdfDocument::open(&filename)
         .map_err(|err| PyIOError::new_err(err.to_string()))?;
     let mut pages = document

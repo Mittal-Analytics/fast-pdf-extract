@@ -70,3 +70,8 @@ class TestCases(TestCase):
         self.assertEqual(pages[1], "")
         self.assertTrue(pages[0].strip())
         self.assertTrue(pages[2].strip())
+
+    def test_fontconfig_error_pdf(self):
+        pages = fast_pdf_extract.get_pages("tests/test_files/fontconfig-error.pdf")
+        self.assertEqual(len(pages), 36)
+        self.assertTrue(any(page.strip() for page in pages))
