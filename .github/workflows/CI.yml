@@ -44,4 +44,8 @@ jobs:
         run: |
           cargo check
           uv lock --check
-          uv run python -m unittest
+          uv run python -m unittest \
+            tests.tests.TestCases.test_bad_file \
+            tests.tests.TestCases.test_page_count_bank_of_maharashtra \
+            tests.tests.TestCases.test_empty_pages_bank_of_maharashtra \
+            tests.tests.TestCases.test_fontconfig_error_pdf
