@@ -1,13 +1,9 @@
-use std::{cell::RefCell, collections::HashMap, rc::Rc};
+use std::collections::HashMap;
 
-use mupdf::{
-    page::StextPage, ColorParams, Colorspace, Device, Image, ImageFormat, Matrix, NativeDevice,
-    Pixmap, TextPageFlags,
-};
+use mupdf::{page::StextPage, TextPageFlags};
 use pyo3::{
     exceptions::{PyIOError, PyValueError},
     prelude::*,
-    types::PyBytes,
 };
 
 #[cfg(any(
@@ -290,116 +286,10 @@ fn get_pages(filename: String) -> PyResult<Vec<String>> {
         .collect())
 }
 
-// Collect actual image drawing operations; structured text also rasterizes gradients.
-#[derive(Default)]
-struct ImageCollector(Vec<(Image, Matrix)>);
-
-impl NativeDevice for ImageCollector {
-    fn fill_image(&mut self, image: &Image, matrix: Matrix, _: f32, _: ColorParams) {
-        self.0.push((image.clone(), matrix));
-    }
-
-    fn fill_image_mask(
-        &mut self,
-        image: &Image,
-        matrix: Matrix,
-        _: &Colorspace,
-        _: &[f32],
-        _: f32,
-        _: ColorParams,
-    ) {
-        self.0.push((image.clone(), matrix));
-    }
-}
-
-fn image_to_png(image: &Image) -> Result<Vec<u8>, mupdf::Error> {
-    // Draw at native resolution to convert CMYK and preserve soft masks.
-    let mut pixmap = Pixmap::new_with_w_h(
-        &Colorspace::device_rgb(),
-        image.width() as i32,
-        image.height() as i32,
-        true,
-    )?;
-    pixmap.clear()?;
-    let device = Device::from_pixmap(&pixmap)?;
-    let matrix = Matrix::new_scale(image.width() as f32, image.height() as f32);
-
-    // Drawing an image alone does not apply its PDF soft/explicit mask.
-    let mask = image.mask();
-    if let Some(mask) = &mask {
-        device.clip_image_mask(mask, &matrix)?;
-    }
-
-    // Stencil masks have no intrinsic color; export them in black.
-    let result = if image.color_space().is_none() {
-        device.fill_image_mask(
-            image,
-            &matrix,
-            &Colorspace::device_rgb(),
-            &[0.0, 0.0, 0.0],
-            1.0,
-            Default::default(),
-        )
-    } else {
-        device.fill_image(image, &matrix, 1.0, Default::default())
-    };
-    // Balance the clip even when decoding fails, before closing the device.
-    if mask.is_some() {
-        device.pop_clip()?;
-    }
-    result?;
-    drop(device);
-
-    let mut bytes = Vec::new();
-    pixmap.write_to(&mut bytes, ImageFormat::PNG)?;
-    Ok(bytes)
-}
-
-/// Extract raster image occurrences as PNG bytes, filtered by displayed side lengths in points.
-#[pyfunction(signature = (filename, min_long_side=0, min_short_side=0))]
-fn get_images(
-    py: Python<'_>,
-    filename: String,
-    min_long_side: u32,
-    min_short_side: u32,
-) -> PyResult<Vec<Py<PyBytes>>> {
-    // Running page content also resolves fonts while collecting images.
-    ensure_fontconfig_cache_dir();
-
-    let document = mupdf::pdf::document::PdfDocument::open(&filename)
-        .map_err(|err| PyIOError::new_err(err.to_string()))?;
-    let mut images = Vec::new();
-    for page in document.pages().map_err(to_pyerr)? {
-        let collected = Rc::new(RefCell::new(ImageCollector::default()));
-        let device = Device::from_native(collected.clone()).map_err(to_pyerr)?;
-        page.map_err(to_pyerr)?
-            .run(&device, &Matrix::IDENTITY)
-            .map_err(to_pyerr)?;
-        drop(device);
-
-        for (image, placement) in &collected.borrow().0 {
-            // The placement maps a unit square to the page; edge lengths handle rotation/skew.
-            let width = f64::from(placement.a).hypot(f64::from(placement.b));
-            let height = f64::from(placement.c).hypot(f64::from(placement.d));
-            // Filter before decoding to avoid allocating pixels for rejected images.
-            if width.max(height) < f64::from(min_long_side)
-                || width.min(height) < f64::from(min_short_side)
-            {
-                continue;
-            }
-
-            let bytes = image_to_png(image).map_err(to_pyerr)?;
-            images.push(PyBytes::new(py, &bytes).unbind());
-        }
-    }
-    Ok(images)
-}
-
 /// A Python module implemented in Rust.
 #[pymodule]
 fn fast_pdf_extract(m: &Bound<'_, PyModule>) -> PyResult<()> {
     m.add_function(wrap_pyfunction!(get_page_count, m)?)?;
     m.add_function(wrap_pyfunction!(get_pages, m)?)?;
-    m.add_function(wrap_pyfunction!(get_images, m)?)?;
     Ok(())
 }
